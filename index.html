@@ -253,6 +253,50 @@ nav.tabs button{font-family:var(--f-mono);font-size:12px;text-transform:uppercas
 .jcard:hover{border-color:var(--ink)}
 .verdict .pill.go{background:var(--go);color:var(--surface);border-color:var(--go)}
 @media (prefers-reduced-motion:reduce){.mq-track,.grain,.live i{animation:none}.cursor{display:none!important}.reveal{opacity:1;transform:none}#hero .ch{transition:none}}
+
+
+.panel>*,.section{min-width:0}
+.rail{display:grid;grid-auto-flow:column;grid-auto-columns:min(300px,80vw);gap:12px;overflow-x:auto;scroll-snap-type:x proximity;padding:4px 2px 14px;scrollbar-width:thin;cursor:grab}
+.rail.grab{cursor:grabbing;scroll-snap-type:none}
+.rail>.card{scroll-snap-align:start}
+.section h2{justify-content:space-between;flex-wrap:wrap;align-items:center}
+.rail-ctl{display:inline-flex;gap:6px;align-items:center;font-family:var(--f-body);font-size:14px;font-weight:500;letter-spacing:0}
+.rbtn{width:36px;height:36px;border:1px solid var(--line);background:var(--surface);border-radius:50%;font-size:16px}
+.rbtn:hover{border-color:var(--ink)}
+/* ---- orbita ---- */
+#orbit{display:grid;gap:12px;margin-bottom:26px}
+.ob-head{display:flex;justify-content:space-between;align-items:flex-end;gap:10px 20px;flex-wrap:wrap}
+.ob-head h2{font-family:var(--f-display);font-weight:800;font-size:clamp(26px,4vw,40px);letter-spacing:-.03em;line-height:1}
+.ob-head p{margin:4px 0 0;color:var(--muted);font-size:14px;max-width:60ch}
+.ob-stage{position:relative;height:clamp(520px,66vh,640px);overflow:hidden;touch-action:pan-y;user-select:none;-webkit-user-select:none;border-top:1px solid var(--line);border-bottom:1px solid var(--line);background:radial-gradient(120% 70% at 50% 36%,var(--surface) 0%,transparent 70%)}
+.ob-path{position:absolute;left:50%;top:50%;border:1px solid var(--line);border-radius:50%;pointer-events:none}
+.ob-path.p2{border-style:dashed;opacity:.6}
+.ob-planet{position:absolute;left:50%;top:30%;width:120px;height:120px;margin:-60px 0 0 -60px;border-radius:50%;background:radial-gradient(circle at 35% 30%,var(--muted) 0%,var(--ink) 55%,var(--ink) 100%);opacity:.9;pointer-events:none;box-shadow:0 0 0 10px color-mix(in srgb,var(--ink) 6%,transparent)}
+.ob-card{position:absolute;left:50%;top:50%;width:var(--cw);height:var(--ch);margin:calc(var(--ch)/-2) 0 0 calc(var(--cw)/-2);background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:18px;display:grid;grid-template-rows:auto 1fr auto;gap:12px;will-change:transform,filter,opacity;box-shadow:var(--shadow);transform-origin:50% 50%}
+.ob-card.front{border-color:var(--ink)}
+.ob-card .ob-k{font-family:var(--f-mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);display:flex;justify-content:space-between;gap:8px}
+.ob-card h3{font-family:var(--f-display);font-weight:800;font-size:clamp(22px,3vw,30px);letter-spacing:-.02em;line-height:1.05;margin-top:6px}
+.ob-body{overflow-y:auto;min-height:0;display:grid;gap:12px;align-content:start;padding-right:2px}
+.ob-group b{display:block;font-family:var(--f-mono);font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:6px}
+.ob-chips{display:flex;flex-wrap:wrap;gap:6px}
+.ob-chip{border:1px solid var(--line);background:none;border-radius:var(--r);padding:6px 10px;font-size:13.5px}
+.ob-chip:hover{border-color:var(--ink)}
+.ob-chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.ob-foot{display:flex;justify-content:space-between;align-items:center;gap:8px}
+.ob-foot .hint{font-size:12.5px}
+.ob-card:not(.front) .ob-body,.ob-card:not(.front) .ob-foot{pointer-events:none}
+.ob-card:not(.front){cursor:pointer}
+.ob-idea p{margin:0;font-size:14px;color:var(--muted)}
+.ob-idea .why{color:var(--ink);border-left:2px solid var(--ink);padding-left:8px}
+.ob-big{font-family:var(--f-display);font-weight:800;font-size:56px;letter-spacing:-.04em;line-height:1}
+.ob-nav{display:flex;justify-content:center;align-items:center;gap:14px}
+.ob-nav button{width:44px;height:44px;border:1px solid var(--ink);background:var(--surface);border-radius:50%;font-size:18px}
+.ob-nav .mono{min-width:70px;text-align:center;color:var(--muted)}
+.ob-sum{display:grid;gap:8px;font-size:14px}
+.ob-sum div{display:grid;grid-template-columns:110px 1fr;gap:8px;border-top:1px solid var(--line);padding-top:8px}
+.ob-sum span:first-child{font-family:var(--f-mono);font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
+.prof-banner{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;background:var(--ink);color:var(--bg);padding:10px 14px;border-radius:var(--r);font-size:14px}
+.prof-banner button{background:none;border:1px solid var(--bg);color:var(--bg);border-radius:var(--r);padding:4px 10px;font-size:13px}
 @media (max-width:620px){
   .day .inner{padding-left:14px}
   .jgrid,.lessons{grid-template-columns:1fr}
@@ -282,6 +326,7 @@ nav.tabs button{font-family:var(--f-mono);font-size:12px;text-transform:uppercas
 </nav>
 <main>
   <div class="wrap">
+    <section id="orbit" aria-label="Twoja orbita"></section>
     <section class="panel" id="p-ideas"></section>
     <section class="panel" id="p-jordan" hidden></section>
     <section class="panel" id="p-lessons" hidden></section>
@@ -399,11 +444,11 @@ function venn(c,size=26){
   <circle cx="13" cy="16" r="7" fill="var(--sell)" fill-opacity="${op[c[2]]}" stroke="var(--sell)" stroke-width="1"/></svg>`;
 }
 function card(b,why){
-  const dim=b.fit===0?" dim":"";
+  const s=sc(b);const dim=s.fit===0?" dim":"";
   return `<button class="card${dim}" data-key="${b.key}">
-    <div class="meta"><span><span class="mono">${fmtDate(b.date)}</span> · <span class="tag">${typeLabel(b)}</span></span><span class="fit" title="Wiem ${b.score.c[0]}/2, widzę ${b.score.c[1]}/2, sprzedam ${b.score.c[2]}/2">${venn(b.score.c)}${b.fit}/6</span></div>
+    <div class="meta"><span><span class="mono">${fmtDate(b.date)}</span> · <span class="tag">${typeLabel(b)}</span></span><span class="fit" title="Wiem ${s.c[0]}/2, widzę ${s.c[1]}/2, sprzedam ${s.c[2]}/2">${venn(s.c)}${s.fit}/6</span></div>
     <h3>${esc(cleanTitle(b.title))}</h3>
-    ${why?`<p class="rankwhy">${esc(why)}</p>`:`<p>${esc(b.score.note)}</p>`}
+    ${why?`<p class="rankwhy">${esc(why)}</p>`:`<p>${esc(s.note)}</p>`}
     <span class="num">№ ${String(ITEMS.indexOf(b)+1).padStart(3,"0")}</span>
   </button>`;
 }
@@ -411,13 +456,14 @@ function card(b,why){
 function filtered(){
   const q=state.q.trim().toLowerCase();
   return ITEMS.filter(b=>{
-    if(state.fit==="fit"&&b.fit<3)return false;
-    if(state.fit==="short"&&b.fit<4)return false;
+    const f=sc(b).fit;
+    if(state.fit==="fit"&&f<3)return false;
+    if(state.fit==="short"&&f<4)return false;
     if(state.cats.size&&!state.cats.has(b.score.cat))return false;
     if(state.month!=="all"&&b.date.slice(5,7)!==state.month)return false;
     if(q&&!(b.title+" "+b.body+" "+b.score.note).toLowerCase().includes(q))return false;
     return true;
-  }).sort((a,b)=>state.sort==="date"?b.date.localeCompare(a.date):(b.fit-a.fit)||b.date.localeCompare(a.date));
+  }).sort((a,b)=>state.sort==="date"?b.date.localeCompare(a.date):((sc(b).rank||sc(b).fit)-(sc(a).rank||sc(a).fit))||b.date.localeCompare(a.date));
 }
 
 function renderIdeas(){
@@ -432,8 +478,11 @@ function renderIdeas(){
   }else{
     for(const c of catOrder){
       const g=list.filter(b=>b.score.cat===c);if(!g.length)continue;
-      const lim=state.showAll[c]?g.length:9;
-      groups+=`<section class="section"><h2>${CATS[c]} <span class="mono">${g.length}</span></h2><div class="grid">${g.slice(0,lim).map(b=>card(b)).join("")}</div>${g.length>lim?`<button class="btn more" data-more="${c}" style="margin-top:10px">Pokaż wszystkie (${g.length})</button>`:""}</section>`;
+      if(state.cats.size===1){
+        groups+=`<section class="section"><h2>${CATS[c]} <span class="mono">${g.length}</span></h2><button class="btn" data-up="1" style="margin-bottom:12px">← Wszystkie grupy</button><div class="grid">${g.map(b=>card(b)).join("")}</div></section>`;
+      }else{
+        groups+=`<section class="section"><h2><span>${CATS[c]} <span class="mono">${g.length}</span></span><span class="rail-ctl"><button class="rbtn" data-rail="-1" aria-label="W lewo">‹</button><button class="rbtn" data-rail="1" aria-label="W prawo">›</button><button class="btn" data-deep="${c}">Wejdź głębiej</button></span></h2><div class="rail">${g.map(b=>card(b)).join("")}</div></section>`;
+      }
     }
   }
   const sampleNote=SAMPLE?"Claude przeczyta Twój opis i wszystkie pomysły, a potem ułoży 10 najlepszych dla Ciebie.":"Ranking przez Claude działa po otwarciu strony w Claude. Tutaj strona dopasuje pomysły po słowach z opisu.";
@@ -444,6 +493,7 @@ function renderIdeas(){
     <div class="row"><button class="btn primary" id="rank-go">Ułóż ranking pod mój profil</button><button class="btn" id="prof-reset">Przywróć opis Karola</button><span class="hint" id="rank-status"></span></div>
     <p class="hint">${sampleNote} Opis zostaje tylko w Twojej przeglądarce. Każdy pomysł możesz też przełożyć na swoją działalność w jego karcie.</p>
   </details>
+  <div class="prof-banner" id="prof-banner" hidden></div>
   <div class="filters">
     <div class="row">
       <input type="search" id="q" placeholder="Szukaj w pomysłach, np. food, wideo, abonament" value="${esc(state.q)}" aria-label="Szukaj">
@@ -463,6 +513,7 @@ function renderIdeas(){
   bindIdeas();
 }
 function bindIdeas(){
+  renderBanner();
   const el=$("#p-ideas");
   $("#prof").addEventListener("toggle",e=>LS.set("profOpen",e.target.open));
   $("#profile").addEventListener("input",e=>{state.profile=e.target.value;LS.set("profile",state.profile)});
@@ -472,7 +523,14 @@ function bindIdeas(){
   const q=$("#q");q.addEventListener("input",()=>{state.q=q.value;const pos=q.selectionStart;renderIdeas();const n=$("#q");n.focus();n.setSelectionRange(pos,pos)});
   el.querySelectorAll("[data-fit]").forEach(b=>b.onclick=()=>{state.fit=b.dataset.fit;LS.set("fit",state.fit);renderIdeas()});
   el.querySelectorAll("[data-cat]").forEach(b=>b.onclick=()=>{const c=b.dataset.cat;state.cats.has(c)?state.cats.delete(c):state.cats.add(c);renderIdeas()});
-  el.querySelectorAll("[data-more]").forEach(b=>b.onclick=()=>{state.showAll[b.dataset.more]=true;renderIdeas()});
+  el.querySelectorAll("[data-deep]").forEach(b=>b.onclick=()=>{state.cats=new Set([b.dataset.deep]);renderIdeas();const f=$("#p-ideas .filters");if(f)f.scrollIntoView({block:"start"})});
+  el.querySelectorAll("[data-up]").forEach(b=>b.onclick=()=>{state.cats=new Set();renderIdeas()});
+  el.querySelectorAll("[data-rail]").forEach(b=>b.onclick=()=>{const r=b.closest(".section").querySelector(".rail");r.scrollBy({left:(+b.dataset.rail)*r.clientWidth*0.85,behavior:RM?"auto":"smooth"})});
+  el.querySelectorAll(".rail").forEach(r=>{let sx=null,sl=0,dragged=false;
+    r.addEventListener("pointerdown",e=>{if(e.pointerType!=="mouse")return;sx=e.clientX;sl=r.scrollLeft;dragged=false;r.classList.add("grab")});
+    window.addEventListener("pointermove",e=>{if(sx==null)return;const dx=e.clientX-sx;if(Math.abs(dx)>5)dragged=true;r.scrollLeft=sl-dx});
+    window.addEventListener("pointerup",()=>{if(sx==null)return;sx=null;r.classList.remove("grab");if(dragged){const stop=ev=>{ev.stopPropagation();ev.preventDefault()};r.addEventListener("click",stop,{capture:true,once:true});setTimeout(()=>r.removeEventListener("click",stop,{capture:true}),50)}});
+  });
   $("#month").onchange=e=>{state.month=e.target.value;renderIdeas()};
   $("#sort").onchange=e=>{state.sort=e.target.value;renderIdeas()};
 }
@@ -566,12 +624,12 @@ function openItem(key){
   const d=DAYS.find(x=>x.date===b.date);
   lastFocus=document.activeElement;
   $("#d-meta").textContent=longDate(b.date)+" · "+typeLabel(b);
-  const sc=b.score;
+  const sc=b.score?Object.assign({},sc_(b)):null;
   const others=d.blocks.filter(x=>x!==b);
   $("#d-body").innerHTML=`
     <h2 id="d-title">${esc(cleanTitle(b.title))}</h2>
     ${sc?`<div class="circles"><div class="circ k"><b>${sc.c[0]}/2</b>Co wiesz</div><div class="circ s"><b>${sc.c[1]}/2</b>Co widzisz</div><div class="circ l"><b>${sc.c[2]}/2</b>Co możesz sprzedać</div></div>
-    <div class="note"><b>Co z tego dla Ciebie</b>${esc(sc.note)}</div>`:b.lesson?`<div class="note"><b>Wzorzec</b>${PATS[b.lesson.pat][0]}${b.lesson.rel===2?" · do zastosowania od razu":""}</div>`:""}
+    <div class="note"><b>${ORB.prof?"Dlaczego pasuje do Ciebie":"Co z tego dla Ciebie"}</b>${esc(sc.note)}</div>${ORB.prof?`<div class="note"><b>Notatka autora (Karol)</b>${esc(b.score.note)}</div>`:""}`:b.lesson?`<div class="note"><b>Wzorzec</b>${PATS[b.lesson.pat][0]}${b.lesson.rel===2?" · do zastosowania od razu":""}</div>`:""}
     <div class="prose">${prose(b.body)||'<p class="hint">Ta część maila ma tylko tytuł.</p>'}</div>
     <div class="ai"><div class="row"><button class="btn primary" id="ai-go">Przełóż na moją działalność</button><button class="btn" id="ai-stop" hidden>Zatrzymaj</button></div><div class="out" id="ai-out"><span class="hint">${SAMPLE?"Claude przełoży ten pomysł na opis z sekcji \"Twoja działalność\".":"Działa po otwarciu strony w Claude. Opis działalności ustawiasz w zakładce Pomysły."}</span></div></div>
     <details open><summary>Moja diagnoza z ${longDate(b.date)}</summary><div class="prose">${prose(d.diag)}</div></details>
@@ -631,8 +689,166 @@ const io=("IntersectionObserver" in window&&!RM)?new IntersectionObserver(es=>es
 function revealAll(){if(!io)return;document.querySelectorAll(".section,.jcard,.lgroup").forEach(el=>{const r=el.getBoundingClientRect();if(r.top<window.innerHeight)return;if(!el.classList.contains("reveal")){el.classList.add("reveal");io.observe(el)}})}
 new MutationObserver(()=>revealAll()).observe(document.querySelector("main"),{childList:true,subtree:true});
 
-function renderAll(){renderIdeas();renderJordan();renderLessons();renderDays();fillMarquee()}
-function setTab(t){state.tab=t;document.querySelectorAll("[data-tab]").forEach(b=>b.setAttribute("aria-selected",String(b.dataset.tab===t)));["ideas","jordan","lessons","days"].forEach(p=>$("#p-"+p).hidden=p!==t);LS.set("tab",t);window.scrollTo({top:0})}
+
+/* ---- orbita: kreator i pierścień pomysłów ---- */
+const IND_GROUPS=[
+ ["Kreatywne",[["wideo","Wideo i film"],["foto","Fotografia"],["grafika","Grafika i design"],["muzyka","Muzyka"],["pisanie","Pisanie i copywriting"],["moda","Moda"],["rekodzielo","Rękodzieło i sztuka"],["wnetrza","Architektura i wnętrza"]]],
+ ["Ludzie i zdrowie",[["beauty","Beauty i kosmetyka"],["fitness","Fitness i sport"],["zdrowie","Zdrowie i terapia"],["coaching","Coaching i psychologia"],["edukacja","Edukacja i korepetycje"],["dzieci","Opieka nad dziećmi"],["zwierzeta","Zwierzęta"]]],
+ ["Handel i usługi",[["gastro","Gastronomia"],["ecom","Sklep internetowy"],["sklep","Handel stacjonarny"],["nieruch","Nieruchomości"],["turystyka","Turystyka i eventy"],["dom","Usługi domowe i remonty"],["moto","Motoryzacja"],["rolnictwo","Rolnictwo i ogrodnictwo"]]],
+ ["Biznes i technologia",[["marketing","Marketing i social media"],["it","IT i programowanie"],["finanse","Finanse i księgowość"],["prawo","Prawo"],["hr","HR i rekrutacja"],["logistyka","Logistyka"]]]];
+const IND_LABEL={},IND_GROUP={};IND_GROUPS.forEach(([g,l],gi)=>l.forEach(([k,v])=>{IND_LABEL[k]=v;IND_GROUP[k]=gi}));
+const IND_REL={wnetrza:["dom","nieruch","grafika"],foto:["wideo"],wideo:["foto","marketing"],grafika:["marketing"],pisanie:["marketing"]};
+const FORMS=[["freelancer","Freelancer"],["firma","Własna firma"],["etat","Etat i projekt po godzinach"],["tworca","Twórca internetowy"],["start","Student albo dopiero zaczynam"]];
+const FORM_OK={freelancer:["freelancer"],firma:["firma"],etat:["etat","start","tworca"],tworca:["tworca","freelancer"],start:["start","tworca"]};
+const SKILLS=[["kamera","Robię zdjęcia lub wideo"],["pisanie","Piszę"],["uczenie","Uczę innych"],["sprzedaz","Sprzedaję i negocjuję"],["organizacja","Organizuję"],["programowanie","Programuję"],["projektowanie","Projektuję"],["social","Prowadzę social media"],["rece","Robię coś rękami"],["liczby","Analizuję liczby"]];
+const GOALS=[["dochod","Dodatkowy dochód"],["klienci","Nowi klienci"],["produkt","Własny produkt cyfrowy"],["firma0","Firma od zera"],["inspiracja","Inspiracja"]];
+const LBL=(arr,k)=>(arr.find(x=>x[0]===k)||[k,k])[1];
+const QS=[
+ {id:"ind",n:"01",q:"Czym się zajmujesz?",hint:"Wybierz jedną albo dwie branże.",max:2,groups:IND_GROUPS},
+ {id:"form",n:"02",q:"W jakiej formie pracujesz?",hint:"Wybierz jedną odpowiedź.",max:1,groups:[["",FORMS]]},
+ {id:"skl",n:"03",q:"Co umiesz?",hint:"Zaznacz wszystko, co pasuje.",max:10,groups:[["",SKILLS]]},
+ {id:"goal",n:"04",q:"Czego szukasz?",hint:"Wybierz jedną albo dwie odpowiedzi.",max:2,groups:[["",GOALS]]}];
+const ORB={prof:LS.get("orbitProf",null),draft:{ind:[],form:[],skl:[],goal:[]},mode:"wiz",pos:0,target:0,raf:0,items:[]};
+if(ORB.prof)ORB.mode="ideas";
+
+function sc_(b){
+  if(!ORB.prof||!DATA.tags||!DATA.tags[b.key])return {c:b.score.c,fit:b.fit,note:b.score.note};
+  const t=DATA.tags[b.key],p=ORB.prof;
+  const skl=t.skl.filter(x=>p.skl.includes(x));
+  const know=Math.min(2,skl.length);
+  let see=0;const indHit=t.ind.filter(x=>p.ind.includes(x));
+  if(indHit.length)see=2;else if(t.ind.includes("marketing")||p.ind.some(u=>t.ind.some(x=>IND_GROUP[x]===IND_GROUP[u]||(IND_REL[u]||[]).includes(x))))see=1;
+  const formOk=p.form.some(f=>(FORM_OK[f]||[f]).some(x=>t.form.includes(x)));
+  const goalOk=p.goal.includes("inspiracja")||p.goal.some(g=>t.goal.includes(g));
+  const sell=(formOk?1:0)+(goalOk?1:0);
+  const parts=[];
+  if(indHit.length)parts.push("Twoja branża: "+indHit.map(x=>IND_LABEL[x]).join(", ").toLowerCase());
+  else if(see)parts.push("Bliska Ci branża: "+t.ind.map(x=>IND_LABEL[x]||x).join(", ").toLowerCase());
+  if(skl.length)parts.push("wykorzystasz: "+skl.map(x=>LBL(SKILLS,x).toLowerCase()).join(", "));
+  if(goalOk&&!p.goal.includes("inspiracja"))parts.push("pasuje do celu: "+t.goal.filter(g=>p.goal.includes(g)).map(g=>LBL(GOALS,g).toLowerCase()).join(", "));
+  const note=parts.length?(parts.join(". ")+"."):"Daleko od Twojej działalności, ale może zainspirować.";
+  return {c:[know,see,sell],fit:know+see+sell,rank:know+see+sell+(see===2?2.5:0),note:note.charAt(0).toUpperCase()+note.slice(1)};
+}
+const SC_CACHE=new Map();
+function sc(b){const k=b.key+(ORB.prof?JSON.stringify(ORB.prof):"");if(!SC_CACHE.has(k))SC_CACHE.set(k,sc_(b));return SC_CACHE.get(k)}
+
+function wizCard(i){
+  if(i<QS.length){
+    const Q=QS[i],sel=ORB.draft[Q.id];
+    const ok=sel.length>0;
+    return `<div class="ob-k"><span>Pytanie ${Q.n} / 04</span><span>${Q.max>1?(Q.max>=10?"wiele odpowiedzi":"do "+Q.max):"jedna odpowiedź"}</span></div>
+     <div class="ob-body"><h3>${Q.q}</h3><p class="hint" style="margin:0">${Q.hint}</p>
+     ${Q.groups.map(([g,l])=>`<div class="ob-group">${g?`<b>${g}</b>`:""}<div class="ob-chips">${l.map(([k,v])=>`<button class="ob-chip" data-q="${Q.id}" data-v="${k}" aria-pressed="${sel.includes(k)}">${v}</button>`).join("")}</div></div>`).join("")}</div>
+     <div class="ob-foot">${i>0?`<button class="btn" data-ob="back">Wstecz</button>`:`<span class="hint">30 sekund, 4 pytania</span>`}<button class="btn primary" data-ob="next" ${ok?"":"disabled"}>Dalej</button></div>`;
+  }
+  const d=ORB.draft;
+  return `<div class="ob-k"><span>Gotowe</span><span>Twoja orbita</span></div>
+   <div class="ob-body"><h3>Ułożę ${ITEMS.length} pomysłów pod Ciebie</h3>
+   <div class="ob-sum"><div><span>Branża</span><span>${d.ind.map(x=>IND_LABEL[x]).join(", ")||"-"}</span></div><div><span>Forma</span><span>${d.form.map(x=>LBL(FORMS,x)).join(", ")||"-"}</span></div><div><span>Umiesz</span><span>${d.skl.map(x=>LBL(SKILLS,x)).join(", ")||"-"}</span></div><div><span>Szukasz</span><span>${d.goal.map(x=>LBL(GOALS,x)).join(", ")||"-"}</span></div></div></div>
+   <div class="ob-foot"><button class="btn" data-ob="back">Wstecz</button><button class="btn primary" data-ob="finish">Pokaż moją orbitę</button></div>`;
+}
+function ideaCard(b,i,n){
+  const s=sc(b);
+  return `<div class="ob-k"><span>${String(i+1).padStart(2,"0")} / ${String(n).padStart(2,"0")}</span><span>${fmtDate(b.date)} · ${typeLabel(b)}</span></div>
+   <div class="ob-body ob-idea"><div style="display:flex;align-items:center;gap:12px"><span class="ob-big">${s.fit}<span style="font-size:22px;color:var(--muted)">/6</span></span>${venn(s.c,44)}</div><h3>${esc(cleanTitle(b.title))}</h3><p class="why">${esc(s.note)}</p><p>${esc(b.body.replace(/\s+/g," ").slice(0,190))}...</p></div>
+   <div class="ob-foot"><span class="hint">${CATS[b.score.cat]}</span><button class="btn primary" data-ob="open" data-k="${b.key}">Otwórz</button></div>`;
+}
+function orbitList(){
+  if(ORB.mode==="wiz")return Array.from({length:QS.length+1},(_,i)=>wizCard(i));
+  ORB.items=ITEMS.slice().sort((a,b)=>(sc(b).rank||sc(b).fit)-(sc(a).rank||sc(a).fit)||b.date.localeCompare(a.date)).slice(0,12);
+  return ORB.items.map((b,i,a)=>ideaCard(b,i,a.length));
+}
+function renderOrbit(keepPos){
+  const el=$("#orbit");if(!el||!ITEMS.length)return;
+  const wiz=ORB.mode==="wiz";
+  const list=orbitList();
+  if(!keepPos){ORB.pos=ORB.target=0}
+  el.innerHTML=`<div class="ob-head"><div><h2>${wiz?"Twoja orbita":"Twoja orbita pomysłów"}</h2><p>${wiz?"Odpowiedz na 4 pytania, a pomysły ustawią się pod Twoją działalność. Każdy z "+ITEMS.length+" pomysłów dostanie ocenę według trzech kół: co wiesz, co widzisz, co możesz sprzedać.":"12 pomysłów najlepiej dopasowanych do Ciebie. Obracaj strzałkami, przeciągnięciem albo kółkiem. Pod spodem masz wszystkie "+ITEMS.length+" pomysłów, też ułożone pod Ciebie."}</p></div>
+    ${wiz?(ORB.prof?`<button class="btn" data-ob="cancel">Wróć do mojej orbity</button>`:""):`<div class="row"><button class="btn" data-ob="edit">Zmień odpowiedzi</button><button class="btn" data-ob="all">Wszystkie pomysły</button></div>`}</div>
+   <div class="ob-stage" id="ob-stage"><div class="ob-path" id="ob-path"></div><div class="ob-path p2" id="ob-path2"></div><div class="ob-planet"></div>
+    ${list.map((h,i)=>`<div class="ob-card" data-i="${i}">${h}</div>`).join("")}</div>
+   ${wiz?"":`<div class="ob-nav"><button data-ob="prev" aria-label="Poprzedni">‹</button><span class="mono" id="ob-count"></span><button data-ob="nxt" aria-label="Następny">›</button></div>`}`;
+  layoutOrbit();bindOrbit();
+}
+function dims(){
+  const st=$("#ob-stage");const W=st.clientWidth,H=st.clientHeight;
+  const cw=Math.min(W<620?W*0.84:440,W-32),ch=Math.min(H*0.78,ORB.mode==="wiz"?470:430);
+  return{W,H,cw,ch,RX:Math.min(W*0.42,560),RY:Math.min(H*0.16,90)};
+}
+function layoutOrbit(){
+  const st=$("#ob-stage");if(!st)return;
+  const cards=[...st.querySelectorAll(".ob-card")];const n=cards.length;if(!n)return;
+  const {cw,ch,RX,RY}=dims();
+  const p1=$("#ob-path"),p2=$("#ob-path2");
+  [p1,p2].forEach((p,j)=>{const k=j?1.25:1;p.style.width=2*RX*k+"px";p.style.height=2*RY*k+"px";p.style.marginLeft=-RX*k+"px";p.style.marginTop=(-RY*k+RY*0.15)+"px"});
+  const step=2*Math.PI/Math.max(n,5);
+  cards.forEach((c,i)=>{
+    let d=i-ORB.pos;d=((d%n)+n)%n;if(d>n/2)d-=n;
+    const th=d*step,x=Math.sin(th)*RX,z=Math.cos(th),y=-(1-z)*RY*1.25+RY*0.25;
+    const t=(z+1)/2,s=0.42+0.58*Math.pow(t,1.6),blur=(1-t)*7,op=0.18+0.82*Math.pow(t,1.3);
+    c.style.setProperty("--cw",cw+"px");c.style.setProperty("--ch",ch+"px");
+    c.style.transform=`translate(${x}px,${y}px) scale(${s})`;
+    c.style.filter=blur>0.3?`blur(${blur.toFixed(1)}px)`:"none";
+    c.style.opacity=op.toFixed(3);c.style.zIndex=String(Math.round(z*100)+100);
+    c.classList.toggle("front",Math.abs(d)<0.5);
+    c.setAttribute("aria-hidden",String(Math.abs(d)>=0.5));
+  });
+  const cnt=$("#ob-count");if(cnt)cnt.textContent=(((Math.round(ORB.target)%n)+n)%n+1)+" / "+n;
+}
+function animOrbit(){
+  cancelAnimationFrame(ORB.raf);
+  if(RM){ORB.pos=ORB.target;layoutOrbit();return}
+  const tick=()=>{const d=ORB.target-ORB.pos;if(Math.abs(d)<0.002){ORB.pos=ORB.target;layoutOrbit();return}ORB.pos+=d*0.12;layoutOrbit();ORB.raf=requestAnimationFrame(tick)};
+  ORB.raf=requestAnimationFrame(tick);
+}
+function goTo(i){ORB.target=i;animOrbit()}
+function refreshFront(){
+  if(ORB.mode!=="wiz")return;
+  const i=Math.round(ORB.target);const c=$(`.ob-card[data-i="${i}"]`);if(c)c.innerHTML=wizCard(i);
+  const last=$(`.ob-card[data-i="${QS.length}"]`);if(last)last.innerHTML=wizCard(QS.length);
+}
+function bindOrbit(){
+  const st=$("#ob-stage"),el=$("#orbit");
+  el.onclick=e=>{
+    const chip=e.target.closest(".ob-chip");
+    const card=e.target.closest(".ob-card");
+    if(card&&!card.classList.contains("front")&&ORB.mode!=="wiz"&&!e.target.closest("[data-ob]")){const n=ORB.items.length,cur=Math.round(ORB.target);let d=((+card.dataset.i-cur)%n+n)%n;if(d>n/2)d-=n;goTo(cur+d);return}
+    if(chip&&card&&card.classList.contains("front")){
+      const Q=QS.find(q=>q.id===chip.dataset.q),v=chip.dataset.v,arr=ORB.draft[Q.id];
+      if(arr.includes(v))arr.splice(arr.indexOf(v),1);else{if(Q.max===1)arr.length=0;else if(arr.length>=Q.max)arr.shift();arr.push(v)}
+      refreshFront();return;
+    }
+    const b=e.target.closest("[data-ob]");if(!b)return;
+    const a=b.dataset.ob;
+    if(a==="next"){goTo(Math.round(ORB.target)+1);setTimeout(refreshFront,10)}
+    else if(a==="back")goTo(Math.round(ORB.target)-1);
+    else if(a==="finish"){ORB.prof=JSON.parse(JSON.stringify(ORB.draft));LS.set("orbitProf",ORB.prof);SC_CACHE.clear();ORB.mode="ideas";renderOrbit();renderIdeas();renderBanner()}
+    else if(a==="edit"){ORB.draft=JSON.parse(JSON.stringify(ORB.prof||ORB.draft));ORB.mode="wiz";renderOrbit()}
+    else if(a==="cancel"){ORB.mode="ideas";renderOrbit()}
+    else if(a==="prev")goTo(ORB.target-1);
+    else if(a==="nxt")goTo(ORB.target+1);
+    else if(a==="open")openItem(b.dataset.k);
+    else if(a==="all"){const g=$("#p-ideas .filters");if(g)g.scrollIntoView({behavior:RM?"auto":"smooth",block:"start"})}
+  };
+  if(ORB.mode==="wiz")return;
+  let sx=null,sp=0,moved=false;
+  st.onpointerdown=e=>{if(e.target.closest("button"))return;sx=e.clientX;sp=ORB.target;moved=false;st.setPointerCapture(e.pointerId)};
+  st.onpointermove=e=>{if(sx==null)return;const dx=e.clientX-sx;if(Math.abs(dx)>6)moved=true;ORB.target=sp-dx/260;ORB.pos=ORB.target;layoutOrbit()};
+  st.onpointerup=st.onpointercancel=()=>{if(sx==null)return;sx=null;goTo(Math.round(ORB.target))};
+  let wt=0;st.onwheel=e=>{const d=Math.abs(e.deltaX)>Math.abs(e.deltaY)?e.deltaX:e.deltaY;if(Math.abs(d)<4)return;e.preventDefault();const now=Date.now();if(now-wt<260)return;wt=now;goTo(Math.round(ORB.target)+(d>0?1:-1))};
+  st.tabIndex=0;st.onkeydown=e=>{if(e.key==="ArrowRight"){goTo(Math.round(ORB.target)+1)}else if(e.key==="ArrowLeft"){goTo(Math.round(ORB.target)-1)}};
+}
+function renderBanner(){
+  const b=$("#prof-banner");if(!b)return;
+  if(!ORB.prof){b.hidden=true;return}
+  b.hidden=false;
+  b.innerHTML=`<span>Oceny ułożone pod Ciebie: ${ORB.prof.ind.map(x=>IND_LABEL[x]).join(", ")}</span><button id="prof-clear">Pokaż oceny autora</button>`;
+  $("#prof-clear").onclick=()=>{ORB.prof=null;LS.set("orbitProf",null);SC_CACHE.clear();ORB.mode="wiz";ORB.draft={ind:[],form:[],skl:[],goal:[]};renderOrbit();renderIdeas();renderBanner()};
+}
+window.addEventListener("resize",()=>layoutOrbit());
+
+function renderAll(){renderOrbit();renderIdeas();renderJordan();renderLessons();renderDays();fillMarquee()}
+function setTab(t){state.tab=t;document.querySelectorAll("[data-tab]").forEach(b=>b.setAttribute("aria-selected",String(b.dataset.tab===t)));["ideas","jordan","lessons","days"].forEach(p=>$("#p-"+p).hidden=p!==t);$("#orbit").hidden=t!=="ideas";LS.set("tab",t);window.scrollTo({top:0})}
 document.querySelectorAll("[data-tab]").forEach(b=>b.onclick=()=>setTab(b.dataset.tab));
 document.addEventListener("click",e=>{const k=e.target.closest("[data-key]");if(k&&!e.target.closest(".dh")){openItem(k.dataset.key)}});
 $("#scrim").onclick=closeDrawer;$("#d-close").onclick=closeDrawer;
