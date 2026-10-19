@@ -911,6 +911,7 @@ function bindOrbit(){
   if(ORB.wheel)window.removeEventListener("wheel",ORB.wheel);
   ORB.wheel=e=>{
     const stg=$("#ob-stage");if(!stg||ORB.mode==="wiz"||!window.matchMedia("(pointer:fine)").matches)return;
+    if(document.body.classList.contains("drawer-open")||!(e.target instanceof Element)||!e.target.closest("#ob-stage"))return;
     const front=stg.querySelector(".ob-card.front");if(!front)return;
     const fr=front.getBoundingClientRect(),sr=stg.getBoundingClientRect();
     if(e.clientY<fr.top||e.clientY>fr.bottom||e.clientX<sr.left||e.clientX>sr.right)return;
