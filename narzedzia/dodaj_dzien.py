@@ -6,7 +6,7 @@ Użycie:
 notatka.md       jedna notatka dnia, zaczyna się od linii "📅 GOOD MORNING - D miesiąca RRRR"
 oceny_dnia.json  {"scan": {"0": {"cat": "wideo", "c": [2,1,1], "note": "..."}},
                   "lessons": {"1": {"pat": "LEAD", "rel": 2}},
-                  "tags": {"0": {"ind": ["wideo"], "skl": ["kamera"], "form": ["freelancer"], "goal": ["klienci"]}}}
+                  "tags": {"0": {"ind": ["wideo"], "skl": ["kamera"], "form": ["freelancer"], "goal": ["klienci"], "aud": ["b2b"]}}}
                  klucze to numery bloków w notatce (0 = pierwszy blok 💡, potem 🌍/🛠️/🃏/📎 w kolejności).
 
 Wersja publiczna (archiwum.md i oceny.json w repozytorium) dostaje "Studio F" zamiast nazwy klienta.

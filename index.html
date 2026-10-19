@@ -297,6 +297,24 @@ nav.tabs button{font-family:var(--f-mono);font-size:12px;text-transform:uppercas
 .ob-sum span:first-child{font-family:var(--f-mono);font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
 .prof-banner{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;background:var(--ink);color:var(--bg);padding:10px 14px;border-radius:var(--r);font-size:14px}
 .prof-banner button{background:none;border:1px solid var(--bg);color:var(--bg);border-radius:var(--r);padding:4px 10px;font-size:13px}
+
+/* ---- kosmos ---- */
+.ob-stage{background:radial-gradient(38% 30% at 50% 46%,rgba(255,236,210,.22) 0%,rgba(255,236,210,0) 70%),radial-gradient(70% 55% at 50% 50%,rgba(108,124,255,.20) 0%,rgba(108,124,255,0) 70%),radial-gradient(60% 40% at 18% 80%,rgba(190,90,255,.10) 0%,transparent 70%),radial-gradient(120% 90% at 50% 50%,#0b0f1c 0%,#04050a 100%) !important;border-color:#10141f!important}
+.ob-stars{position:absolute;left:50%;top:50%;width:1px;height:1px;border-radius:50%;pointer-events:none}
+.ob-stars.s2{animation:twinkle 5s ease-in-out infinite alternate}
+@keyframes twinkle{from{opacity:.35}to{opacity:1}}
+.ob-sun{position:absolute;left:50%;top:44%;width:300px;height:300px;margin:-150px 0 0 -150px;border-radius:50%;pointer-events:none;background:radial-gradient(circle,rgba(255,244,230,.95) 0%,rgba(255,214,170,.55) 6%,rgba(255,190,140,.18) 22%,rgba(140,150,255,.08) 45%,transparent 70%);filter:blur(2px);animation:breathe 7s ease-in-out infinite alternate}
+@keyframes breathe{from{transform:scale(.92);opacity:.85}to{transform:scale(1.06);opacity:1}}
+.ob-path{border-color:rgba(255,255,255,.16)!important}
+.ob-card{box-shadow:0 20px 60px rgba(0,0,0,.55),0 0 0 1px rgba(255,255,255,.04)}
+body.intro header.top,body.intro .marquee,body.intro nav.tabs,body.intro .panel,body.intro .ob-head,body.intro .ob-nav,body.intro .cursor{display:none!important}
+body.intro{overflow:hidden;background:#04050a}
+body.intro #orbit{position:fixed;inset:0;z-index:5;margin:0;display:block}
+body.intro .ob-stage{height:100%;border:0}
+body.revealed header.top,body.revealed .marquee,body.revealed nav.tabs,body.revealed .panel,body.revealed .ob-head,body.revealed .ob-nav{animation:uiIn .9s cubic-bezier(.2,.7,.2,1) both}
+body.revealed nav.tabs{animation-delay:.1s}body.revealed .panel{animation-delay:.25s}
+@keyframes uiIn{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){.ob-stars.s2,.ob-sun{animation:none}body.revealed *{animation:none!important}}
 @media (max-width:620px){
   .day .inner{padding-left:14px}
   .jgrid,.lessons{grid-template-columns:1fr}
@@ -701,15 +719,18 @@ const IND_REL={wnetrza:["dom","nieruch","grafika"],foto:["wideo"],wideo:["foto",
 const FORMS=[["freelancer","Freelancer"],["firma","Własna firma"],["etat","Etat i projekt po godzinach"],["tworca","Twórca internetowy"],["start","Student albo dopiero zaczynam"]];
 const FORM_OK={freelancer:["freelancer"],firma:["firma"],etat:["etat","start","tworca"],tworca:["tworca","freelancer"],start:["start","tworca"]};
 const SKILLS=[["kamera","Robię zdjęcia lub wideo"],["pisanie","Piszę"],["uczenie","Uczę innych"],["sprzedaz","Sprzedaję i negocjuję"],["organizacja","Organizuję"],["programowanie","Programuję"],["projektowanie","Projektuję"],["social","Prowadzę social media"],["rece","Robię coś rękami"],["liczby","Analizuję liczby"]];
+const AUDS=[["b2b","Firmom"],["b2c","Osobom prywatnym"],["tworcy","Twórcom i freelancerom"],["lokal","Lokalnie, w moim mieście"]];
 const GOALS=[["dochod","Dodatkowy dochód"],["klienci","Nowi klienci"],["produkt","Własny produkt cyfrowy"],["firma0","Firma od zera"],["inspiracja","Inspiracja"]];
 const LBL=(arr,k)=>(arr.find(x=>x[0]===k)||[k,k])[1];
 const QS=[
  {id:"ind",n:"01",q:"Czym się zajmujesz?",hint:"Wybierz jedną albo dwie branże.",max:2,groups:IND_GROUPS},
  {id:"form",n:"02",q:"W jakiej formie pracujesz?",hint:"Wybierz jedną odpowiedź.",max:1,groups:[["",FORMS]]},
  {id:"skl",n:"03",q:"Co umiesz?",hint:"Zaznacz wszystko, co pasuje.",max:10,groups:[["",SKILLS]]},
- {id:"goal",n:"04",q:"Czego szukasz?",hint:"Wybierz jedną albo dwie odpowiedzi.",max:2,groups:[["",GOALS]]}];
-const ORB={prof:LS.get("orbitProf",null),draft:{ind:[],form:[],skl:[],goal:[]},mode:"wiz",pos:0,target:0,raf:0,items:[]};
+ {id:"goal",n:"04",q:"Czego szukasz?",hint:"Wybierz jedną albo dwie odpowiedzi.",max:2,groups:[["",GOALS]]},
+ {id:"aud",n:"05",q:"Komu chcesz sprzedawać?",hint:"Wybierz jedną albo dwie odpowiedzi.",max:2,groups:[["",AUDS]]}];
+const ORB={prof:LS.get("orbitProf",null),draft:{ind:[],form:[],skl:[],goal:[],aud:[]},mode:"wiz",pos:0,target:0,raf:0,items:[]};
 if(ORB.prof)ORB.mode="ideas";
+if(!ORB.prof&&!LS.get("introDone",false))document.body.classList.add("intro");
 
 function sc_(b){
   if(!ORB.prof||!DATA.tags||!DATA.tags[b.key])return {c:b.score.c,fit:b.fit,note:b.score.note};
@@ -720,12 +741,14 @@ function sc_(b){
   if(indHit.length)see=2;else if(t.ind.includes("marketing")||p.ind.some(u=>t.ind.some(x=>IND_GROUP[x]===IND_GROUP[u]||(IND_REL[u]||[]).includes(x))))see=1;
   const formOk=p.form.some(f=>(FORM_OK[f]||[f]).some(x=>t.form.includes(x)));
   const goalOk=p.goal.includes("inspiracja")||p.goal.some(g=>t.goal.includes(g));
-  const sell=(formOk?1:0)+(goalOk?1:0);
+  const audHit=(p.aud||[]).filter(a=>(t.aud||[]).includes(a));
+  const sell=Math.min(2,(formOk?1:0)+(goalOk?1:0)+(audHit.length?1:0));
   const parts=[];
   if(indHit.length)parts.push("Twoja branża: "+indHit.map(x=>IND_LABEL[x]).join(", ").toLowerCase());
   else if(see)parts.push("Bliska Ci branża: "+t.ind.map(x=>IND_LABEL[x]||x).join(", ").toLowerCase());
   if(skl.length)parts.push("wykorzystasz: "+skl.map(x=>LBL(SKILLS,x).toLowerCase()).join(", "));
   if(goalOk&&!p.goal.includes("inspiracja"))parts.push("pasuje do celu: "+t.goal.filter(g=>p.goal.includes(g)).map(g=>LBL(GOALS,g).toLowerCase()).join(", "));
+  if(audHit.length)parts.push("sprzedajesz: "+audHit.map(a=>LBL(AUDS,a).toLowerCase()).join(", "));
   const note=parts.length?(parts.join(". ")+"."):"Daleko od Twojej działalności, ale może zainspirować.";
   return {c:[know,see,sell],fit:know+see+sell,rank:know+see+sell+(see===2?2.5:0),note:note.charAt(0).toUpperCase()+note.slice(1)};
 }
@@ -736,15 +759,15 @@ function wizCard(i){
   if(i<QS.length){
     const Q=QS[i],sel=ORB.draft[Q.id];
     const ok=sel.length>0;
-    return `<div class="ob-k"><span>Pytanie ${Q.n} / 04</span><span>${Q.max>1?(Q.max>=10?"wiele odpowiedzi":"do "+Q.max):"jedna odpowiedź"}</span></div>
+    return `<div class="ob-k"><span>Pytanie ${Q.n} / 05</span><span>${Q.max>1?(Q.max>=10?"wiele odpowiedzi":"do "+Q.max):"jedna odpowiedź"}</span></div>
      <div class="ob-body"><h3>${Q.q}</h3><p class="hint" style="margin:0">${Q.hint}</p>
      ${Q.groups.map(([g,l])=>`<div class="ob-group">${g?`<b>${g}</b>`:""}<div class="ob-chips">${l.map(([k,v])=>`<button class="ob-chip" data-q="${Q.id}" data-v="${k}" aria-pressed="${sel.includes(k)}">${v}</button>`).join("")}</div></div>`).join("")}</div>
-     <div class="ob-foot">${i>0?`<button class="btn" data-ob="back">Wstecz</button>`:`<span class="hint">30 sekund, 4 pytania</span>`}<button class="btn primary" data-ob="next" ${ok?"":"disabled"}>Dalej</button></div>`;
+     <div class="ob-foot">${i>0?`<button class="btn" data-ob="back">Wstecz</button>`:`<span class="hint">30 sekund, 5 pytań</span>`}<button class="btn primary" data-ob="next" ${ok?"":"disabled"}>Dalej</button></div>`;
   }
   const d=ORB.draft;
   return `<div class="ob-k"><span>Gotowe</span><span>Twoja orbita</span></div>
    <div class="ob-body"><h3>Ułożę ${ITEMS.length} pomysłów pod Ciebie</h3>
-   <div class="ob-sum"><div><span>Branża</span><span>${d.ind.map(x=>IND_LABEL[x]).join(", ")||"-"}</span></div><div><span>Forma</span><span>${d.form.map(x=>LBL(FORMS,x)).join(", ")||"-"}</span></div><div><span>Umiesz</span><span>${d.skl.map(x=>LBL(SKILLS,x)).join(", ")||"-"}</span></div><div><span>Szukasz</span><span>${d.goal.map(x=>LBL(GOALS,x)).join(", ")||"-"}</span></div></div></div>
+   <div class="ob-sum"><div><span>Branża</span><span>${d.ind.map(x=>IND_LABEL[x]).join(", ")||"-"}</span></div><div><span>Forma</span><span>${d.form.map(x=>LBL(FORMS,x)).join(", ")||"-"}</span></div><div><span>Umiesz</span><span>${d.skl.map(x=>LBL(SKILLS,x)).join(", ")||"-"}</span></div><div><span>Szukasz</span><span>${d.goal.map(x=>LBL(GOALS,x)).join(", ")||"-"}</span></div><div><span>Sprzedajesz</span><span>${(d.aud||[]).map(x=>LBL(AUDS,x)).join(", ")||"-"}</span></div></div></div>
    <div class="ob-foot"><button class="btn" data-ob="back">Wstecz</button><button class="btn primary" data-ob="finish">Pokaż moją orbitę</button></div>`;
 }
 function ideaCard(b,i,n){
@@ -763,12 +786,19 @@ function renderOrbit(keepPos){
   const wiz=ORB.mode==="wiz";
   const list=orbitList();
   if(!keepPos){ORB.pos=ORB.target=0}
-  el.innerHTML=`<div class="ob-head"><div><h2>${wiz?"Twoja orbita":"Twoja orbita pomysłów"}</h2><p>${wiz?"Odpowiedz na 4 pytania, a pomysły ustawią się pod Twoją działalność. Każdy z "+ITEMS.length+" pomysłów dostanie ocenę według trzech kół: co wiesz, co widzisz, co możesz sprzedać.":"12 pomysłów najlepiej dopasowanych do Ciebie. Obracaj strzałkami, przeciągnięciem albo kółkiem. Pod spodem masz wszystkie "+ITEMS.length+" pomysłów, też ułożone pod Ciebie."}</p></div>
+  el.innerHTML=`<div class="ob-head"><div><h2>${wiz?"Twoja orbita":"Twoja orbita pomysłów"}</h2><p>${wiz?"Odpowiedz na 5 pytań, a pomysły ustawią się pod Twoją działalność. Każdy z "+ITEMS.length+" pomysłów dostanie ocenę według trzech kół: co wiesz, co widzisz, co możesz sprzedać.":"12 pomysłów najlepiej dopasowanych do Ciebie. Obracaj strzałkami, przeciągnięciem albo kółkiem myszy, trzymając kursor na kafelkach. Pod spodem masz wszystkie "+ITEMS.length+" pomysłów, też ułożone pod Ciebie."}</p></div>
     ${wiz?(ORB.prof?`<button class="btn" data-ob="cancel">Wróć do mojej orbity</button>`:""):`<div class="row"><button class="btn" data-ob="edit">Zmień odpowiedzi</button><button class="btn" data-ob="all">Wszystkie pomysły</button></div>`}</div>
-   <div class="ob-stage" id="ob-stage"><div class="ob-path" id="ob-path"></div><div class="ob-path p2" id="ob-path2"></div><div class="ob-planet"></div>
+   <div class="ob-stage" id="ob-stage"><div class="ob-path" id="ob-path"></div><div class="ob-path p2" id="ob-path2"></div><div class="ob-stars" aria-hidden="true"></div><div class="ob-stars s2" aria-hidden="true"></div><div class="ob-sun" aria-hidden="true"></div>
     ${list.map((h,i)=>`<div class="ob-card" data-i="${i}">${h}</div>`).join("")}</div>
    ${wiz?"":`<div class="ob-nav"><button data-ob="prev" aria-label="Poprzedni">‹</button><span class="mono" id="ob-count"></span><button data-ob="nxt" aria-label="Następny">›</button></div>`}`;
-  layoutOrbit();bindOrbit();
+  makeStars();layoutOrbit();bindOrbit();
+}
+function makeStars(){
+  let seed=7;const r=()=>{seed=(seed*16807)%2147483647;return seed/2147483647};
+  document.querySelectorAll(".ob-stars").forEach((el,j)=>{
+    const sh=[];for(let i=0;i<(j?60:140);i++){const a=(0.25+r()*0.75)*(j?1:0.7);sh.push(`${Math.round(r()*2400-1200)}px ${Math.round(r()*1400-700)}px 0 ${j&&r()>.7?1:0}px rgba(255,255,255,${a.toFixed(2)})`)}
+    el.style.boxShadow=sh.join(",");
+  });
 }
 function dims(){
   const st=$("#ob-stage");const W=st.clientWidth,H=st.clientHeight;
@@ -822,8 +852,8 @@ function bindOrbit(){
     const a=b.dataset.ob;
     if(a==="next"){goTo(Math.round(ORB.target)+1);setTimeout(refreshFront,10)}
     else if(a==="back")goTo(Math.round(ORB.target)-1);
-    else if(a==="finish"){ORB.prof=JSON.parse(JSON.stringify(ORB.draft));LS.set("orbitProf",ORB.prof);SC_CACHE.clear();ORB.mode="ideas";renderOrbit();renderIdeas();renderBanner()}
-    else if(a==="edit"){ORB.draft=JSON.parse(JSON.stringify(ORB.prof||ORB.draft));ORB.mode="wiz";renderOrbit()}
+    else if(a==="finish"){ORB.prof=JSON.parse(JSON.stringify(ORB.draft));LS.set("orbitProf",ORB.prof);SC_CACHE.clear();ORB.mode="ideas";const wasIntro=document.body.classList.contains("intro");document.body.classList.remove("intro");LS.set("introDone",true);renderOrbit();renderIdeas();renderBanner();if(wasIntro){document.body.classList.add("revealed");setTimeout(()=>document.body.classList.remove("revealed"),1600)}requestAnimationFrame(()=>{const o=$("#orbit");if(o)window.scrollTo({top:o.getBoundingClientRect().top+scrollY-60,behavior:"auto"})})}
+    else if(a==="edit"){ORB.draft=Object.assign({ind:[],form:[],skl:[],goal:[],aud:[]},JSON.parse(JSON.stringify(ORB.prof||ORB.draft)));ORB.mode="wiz";renderOrbit()}
     else if(a==="cancel"){ORB.mode="ideas";renderOrbit()}
     else if(a==="prev")goTo(ORB.target-1);
     else if(a==="nxt")goTo(ORB.target+1);
@@ -835,7 +865,21 @@ function bindOrbit(){
   st.onpointerdown=e=>{if(e.target.closest("button"))return;sx=e.clientX;sp=ORB.target;moved=false;st.setPointerCapture(e.pointerId)};
   st.onpointermove=e=>{if(sx==null)return;const dx=e.clientX-sx;if(Math.abs(dx)>6)moved=true;ORB.target=sp-dx/260;ORB.pos=ORB.target;layoutOrbit()};
   st.onpointerup=st.onpointercancel=()=>{if(sx==null)return;sx=null;goTo(Math.round(ORB.target))};
-  let wt=0;st.onwheel=e=>{const d=Math.abs(e.deltaX)>Math.abs(e.deltaY)?e.deltaX:e.deltaY;if(Math.abs(d)<4)return;e.preventDefault();const now=Date.now();if(now-wt<260)return;wt=now;goTo(Math.round(ORB.target)+(d>0?1:-1))};
+  let wt=0,acc=0;
+  if(ORB.wheel)window.removeEventListener("wheel",ORB.wheel);
+  ORB.wheel=e=>{
+    const stg=$("#ob-stage");if(!stg||ORB.mode==="wiz"||!window.matchMedia("(pointer:fine)").matches)return;
+    const front=stg.querySelector(".ob-card.front");if(!front)return;
+    const fr=front.getBoundingClientRect(),sr=stg.getBoundingClientRect();
+    if(e.clientY<fr.top||e.clientY>fr.bottom||e.clientX<sr.left||e.clientX>sr.right)return;
+    e.preventDefault();
+    const d=Math.abs(e.deltaX)>Math.abs(e.deltaY)?e.deltaX:e.deltaY;
+    acc+=d*(e.deltaMode===1?30:1);
+    const now=Date.now();
+    if(Math.abs(acc)>=40&&now-wt>=240){wt=now;goTo(Math.round(ORB.target)+(acc>0?1:-1));acc=0}
+    clearTimeout(ORB.accT);ORB.accT=setTimeout(()=>{acc=0},180);
+  };
+  window.addEventListener("wheel",ORB.wheel,{passive:false});
   st.tabIndex=0;st.onkeydown=e=>{if(e.key==="ArrowRight"){goTo(Math.round(ORB.target)+1)}else if(e.key==="ArrowLeft"){goTo(Math.round(ORB.target)-1)}};
 }
 function renderBanner(){
@@ -843,7 +887,7 @@ function renderBanner(){
   if(!ORB.prof){b.hidden=true;return}
   b.hidden=false;
   b.innerHTML=`<span>Oceny ułożone pod Ciebie: ${ORB.prof.ind.map(x=>IND_LABEL[x]).join(", ")}</span><button id="prof-clear">Pokaż oceny autora</button>`;
-  $("#prof-clear").onclick=()=>{ORB.prof=null;LS.set("orbitProf",null);SC_CACHE.clear();ORB.mode="wiz";ORB.draft={ind:[],form:[],skl:[],goal:[]};renderOrbit();renderIdeas();renderBanner()};
+  $("#prof-clear").onclick=()=>{ORB.prof=null;LS.set("orbitProf",null);SC_CACHE.clear();ORB.mode="wiz";ORB.draft={ind:[],form:[],skl:[],goal:[],aud:[]};renderOrbit();renderIdeas();renderBanner()};
 }
 window.addEventListener("resize",()=>layoutOrbit());
 
