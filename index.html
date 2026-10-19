@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="robots" content="noindex,nofollow,noarchive">
-<style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0;font:14px system-ui,sans-serif}img{max-width:100%}[hidden]{display:none!important}</style>
+<style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0;font:14px system-ui,sans-serif}img{max-width:100%}[hidden]{display:none!important}.drawer .ai{display:none!important}</style>
 </head>
 <body>
 <title>Mapa Pomysłów IdeaBrowser</title>
@@ -544,13 +544,13 @@ function renderIdeas(){
       }
     }
   }
-  const sampleNote=SAMPLE?"Claude przeczyta Twój opis i wszystkie pomysły, a potem ułoży 10 najlepszych dla Ciebie.":"Ranking przez Claude działa po otwarciu strony w Claude. Tutaj strona dopasuje pomysły po słowach z opisu.";
+  const sampleNote=SAMPLE?"Claude przeczyta Twój opis i wszystkie pomysły, a potem ułoży 10 najlepszych dla Ciebie.":"Strona dopasuje pomysły do słów z Twojego opisu.";
   el.innerHTML=`
   <details class="profile" ${LS.get("profOpen",false)?"open":""} id="prof">
     <summary>Twoja działalność <small>wpisz, czym się zajmujesz, a pomysły ułożą się pod Ciebie</small></summary>
     <textarea id="profile" aria-label="Opis działalności" placeholder="Np. Jestem fotografką ślubną z Krakowa, robię też sesje rodzinne. Chcę znaleźć dodatkowy dochód poza sezonem i nauczyć się sprzedawać przez Instagram.">${esc(state.profile)}</textarea>
     <div class="row"><button class="btn primary" id="rank-go">Ułóż ranking pod mój profil</button><span class="hint" id="rank-status"></span></div>
-    <p class="hint">${sampleNote} Opis zostaje tylko w Twojej przeglądarce. Każdy pomysł możesz też przełożyć na swoją działalność w jego karcie.</p>
+    <p class="hint">${sampleNote} Opis zostaje tylko w Twojej przeglądarce.</p>
   </details>
   <div class="prof-banner" id="prof-banner" hidden></div>
   <div class="filters">
