@@ -723,11 +723,11 @@ const AUDS=[["b2b","Firmom"],["b2c","Osobom prywatnym"],["tworcy","Twórcom i fr
 const GOALS=[["dochod","Dodatkowy dochód"],["klienci","Nowi klienci"],["produkt","Własny produkt cyfrowy"],["firma0","Firma od zera"],["inspiracja","Inspiracja"]];
 const LBL=(arr,k)=>(arr.find(x=>x[0]===k)||[k,k])[1];
 const QS=[
- {id:"ind",n:"01",q:"Czym się zajmujesz?",hint:"Wybierz jedną albo dwie branże.",max:2,groups:IND_GROUPS},
+ {id:"ind",n:"01",q:"Czym się zajmujesz?",hint:"Wybierz od jednej do trzech branż.",max:3,groups:IND_GROUPS},
  {id:"form",n:"02",q:"W jakiej formie pracujesz?",hint:"Wybierz jedną odpowiedź.",max:1,groups:[["",FORMS]]},
  {id:"skl",n:"03",q:"Co umiesz?",hint:"Zaznacz wszystko, co pasuje.",max:10,groups:[["",SKILLS]]},
- {id:"goal",n:"04",q:"Czego szukasz?",hint:"Wybierz jedną albo dwie odpowiedzi.",max:2,groups:[["",GOALS]]},
- {id:"aud",n:"05",q:"Komu chcesz sprzedawać?",hint:"Wybierz jedną albo dwie odpowiedzi.",max:2,groups:[["",AUDS]]}];
+ {id:"goal",n:"04",q:"Czego szukasz?",hint:"Wybierz od jednej do trzech odpowiedzi.",max:3,groups:[["",GOALS]]},
+ {id:"aud",n:"05",q:"Komu chcesz sprzedawać?",hint:"Wybierz od jednej do trzech odpowiedzi.",max:3,groups:[["",AUDS]]}];
 const ORB={prof:LS.get("orbitProf",null),draft:{ind:[],form:[],skl:[],goal:[],aud:[]},mode:"wiz",pos:0,target:0,raf:0,items:[]};
 if(ORB.prof)ORB.mode="ideas";
 if(!ORB.prof&&!LS.get("introDone",false))document.body.classList.add("intro");
