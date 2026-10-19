@@ -380,7 +380,7 @@ const PATS={
 const MONTHS=["","sty","lut","mar","kwi","maj","cze","lip","sie","wrz","paź","lis","gru"];
 const PL_MONTH={"czerwca":6,"lipca":7,"sierpnia":8,"września":9,"października":10,"listopada":11,"grudnia":12,"stycznia":1,"lutego":2,"marca":3,"kwietnia":4,"maja":5};
 const MARK=[["💡","idea"],["🌍","niche"],["🛠️","tool"],["🛠","tool"],["🃏","playbook"],["📎","extra"]];
-const DEFAULT_PROFILE="Operator i post-producent wideo z Warszawy, 15 lat doświadczenia (reportaż, dokument, montaż pod muzykę, retusz, AI do wideo). Firma ARTMAKESENSESTUDIO. Główny klient: studio reklamy food. Uczę się budować aplikacje z Cursorem i Claude. Projekty: Quote Builder (kalkulator wycen dla freelancerów wideo), Video Audit (płatna diagnoza wideo marki), kanał Cosmic Cowboy (muzyka generatywna i animacja).";
+const DEFAULT_PROFILE="";
 const LS={get(k,d){try{const v=localStorage.getItem(k);return v==null?d:JSON.parse(v)}catch(e){return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
 
 const $=(s,r=document)=>r.querySelector(s);
@@ -507,8 +507,8 @@ function renderIdeas(){
   el.innerHTML=`
   <details class="profile" ${LS.get("profOpen",false)?"open":""} id="prof">
     <summary>Twoja działalność <small>wpisz, czym się zajmujesz, a pomysły ułożą się pod Ciebie</small></summary>
-    <textarea id="profile" aria-label="Opis działalności">${esc(state.profile)}</textarea>
-    <div class="row"><button class="btn primary" id="rank-go">Ułóż ranking pod mój profil</button><button class="btn" id="prof-reset">Przywróć opis Karola</button><span class="hint" id="rank-status"></span></div>
+    <textarea id="profile" aria-label="Opis działalności" placeholder="Np. Jestem fotografką ślubną z Krakowa, robię też sesje rodzinne. Chcę znaleźć dodatkowy dochód poza sezonem i nauczyć się sprzedawać przez Instagram.">${esc(state.profile)}</textarea>
+    <div class="row"><button class="btn primary" id="rank-go">Ułóż ranking pod mój profil</button><span class="hint" id="rank-status"></span></div>
     <p class="hint">${sampleNote} Opis zostaje tylko w Twojej przeglądarce. Każdy pomysł możesz też przełożyć na swoją działalność w jego karcie.</p>
   </details>
   <div class="prof-banner" id="prof-banner" hidden></div>
@@ -535,7 +535,6 @@ function bindIdeas(){
   const el=$("#p-ideas");
   $("#prof").addEventListener("toggle",e=>LS.set("profOpen",e.target.open));
   $("#profile").addEventListener("input",e=>{state.profile=e.target.value;LS.set("profile",state.profile)});
-  $("#prof-reset").onclick=()=>{state.profile=DEFAULT_PROFILE;LS.set("profile",state.profile);$("#profile").value=DEFAULT_PROFILE};
   $("#rank-go").onclick=rankProfile;
   const rc=$("#rank-clear");if(rc)rc.onclick=()=>{state.rank=null;LS.set("rank",null);renderIdeas()};
   const q=$("#q");q.addEventListener("input",()=>{state.q=q.value;const pos=q.selectionStart;renderIdeas();const n=$("#q");n.focus();n.setSelectionRange(pos,pos)});
@@ -662,6 +661,7 @@ async function translate(b){
   if(!SAMPLE)return;
   const out=$("#ai-out"),go=$("#ai-go"),stop=$("#ai-stop");
   const profile=(state.profile||DEFAULT_PROFILE).trim();
+  if(!profile){$("#ai-out").textContent="Najpierw opisz swoją działalność w polu \"Twoja działalność\" w zakładce Pomysły, a potem wróć do tego pomysłu.";aiCtl=null;return}
   aiCtl=new AbortController();go.disabled=true;stop.hidden=false;out.textContent="Myślę...";
   const prompt=`Jesteś praktycznym doradcą biznesowym. Piszesz po polsku, krótko i konkretnie, bez wstępów, bez długich myślników.\n\nOpis działalności osoby:\n${profile}\n\nPomysł z newslettera IdeaBrowser (${longDate(b.date)}):\n${cleanTitle(b.title)}\n${b.body.slice(0,4000)}\n\nNapisz trzy krótkie części z nagłówkami:\nJak to wygląda u Ciebie: 2-3 zdania, konkretna wersja tego pomysłu dla tej działalności.\nPierwszy test w tym tygodniu: 1-2 zdania, coś bez budowania produktu.\nTrzy koła: Co wiesz X/2, Co widzisz X/2, Co możesz sprzedać X/2, przy każdym kilka słów uzasadnienia.\nJeśli pomysł nie pasuje, powiedz to wprost w pierwszej części.`;
   try{
