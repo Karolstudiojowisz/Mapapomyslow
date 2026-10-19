@@ -5,7 +5,8 @@ Użycie:
 
 notatka.md       jedna notatka dnia, zaczyna się od linii "📅 GOOD MORNING - D miesiąca RRRR"
 oceny_dnia.json  {"scan": {"0": {"cat": "wideo", "c": [2,1,1], "note": "..."}},
-                  "lessons": {"1": {"pat": "LEAD", "rel": 2}}}
+                  "lessons": {"1": {"pat": "LEAD", "rel": 2}},
+                  "tags": {"0": {"ind": ["wideo"], "skl": ["kamera"], "form": ["freelancer"], "goal": ["klienci"]}}}
                  klucze to numery bloków w notatce (0 = pierwszy blok 💡, potem 🌍/🛠️/🃏/📎 w kolejności).
 
 Wersja publiczna (archiwum.md i oceny.json w repozytorium) dostaje "Studio F" zamiast nazwy klienta.
@@ -47,6 +48,9 @@ def dopisz(archiwum, oceny, txt, dzien, data):
         o["scan"]["%s#%s" % (data, i)] = v
     for i, v in dzien.get("lessons", {}).items():
         o["lessons"]["%s#%s" % (data, i)] = v
+    o.setdefault("tags", {})
+    for i, v in dzien.get("tags", {}).items():
+        o["tags"]["%s#%s" % (data, i)] = v
     json.dump(o, open(oceny, "w", encoding="utf-8"), ensure_ascii=False)
     return True
 
