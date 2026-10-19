@@ -318,6 +318,16 @@ nav.tabs button{font-family:var(--f-mono);font-size:12px;text-transform:uppercas
 .drawer details{border-top:1px solid var(--line);padding-top:12px}
 body.drawer-open #orbit{opacity:0;visibility:hidden;transition:opacity .25s,visibility 0s .25s}
 #orbit{transition:opacity .25s}
+
+.prose h4.ph{font-family:var(--f-display);font-weight:700;font-size:19px;line-height:1.25;letter-spacing:-.01em;margin:22px 0 8px;max-width:34ch;text-wrap:balance;color:var(--ink)}
+.prose h4.ph.big{font-size:clamp(22px,2.6vw,27px);font-weight:800;margin-top:6px;max-width:30ch}
+.prose h4.ph b.n{font-size:.9em}
+.prose p{font-size:14.5px;line-height:1.65;margin:0 0 10px;color:color-mix(in srgb,var(--ink) 78%,var(--bg))!important}
+.prose p.lead{font-size:16px;font-weight:600;color:var(--ink)!important}
+.facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:8px}
+.facts div{border:1px solid var(--line);border-radius:var(--r);padding:10px 12px;display:grid;gap:2px}
+.facts b{font-family:var(--f-display);font-weight:800;font-size:26px;letter-spacing:-.02em;line-height:1.05}
+.facts span{font-size:12.5px;color:var(--muted)}
 /* ---- kosmos ---- */
 .ob-stage{background:radial-gradient(38% 30% at 50% 46%,rgba(255,236,210,.22) 0%,rgba(255,236,210,0) 70%),radial-gradient(70% 55% at 50% 50%,rgba(108,124,255,.20) 0%,rgba(108,124,255,0) 70%),radial-gradient(60% 40% at 18% 80%,rgba(190,90,255,.10) 0%,transparent 70%),radial-gradient(120% 90% at 50% 50%,#0b0f1c 0%,#04050a 100%) !important;border-color:#10141f!important}
 .ob-stars{position:absolute;left:50%;top:50%;width:1px;height:1px;border-radius:50%;pointer-events:none}
@@ -410,7 +420,12 @@ function fmtInline(x){
    .replace(/(^|[\s(])((?:\$|ok\. )?\d[\d\s.,]*\d?(?:\s?(?:%|mln|mld|tys\.?|zł|USD|godzin|dni|minut|razy|x)\b|\s?%|[KMk]\b)?)/g,(m,a,b)=>a+'<b class="n">'+b.trim()+"</b>"+(/\s$/.test(b)?" ":""))
    .replace(/"([^"]{2,60})"/g,'<em>„$1”</em>');
 }
-function splitSent(p){return p.split(/(?<=[.!?:])\s+(?=[A-ZŁŚŻŹĆÓ„"(\d])/)}
+function keyFacts(t){
+  const out=[],seen=new Set();const re=/((?:\$|ok\. )?\d[\d\s.,]*\d?(?:\s?(?:%|mln|mld|tys\.?|zł|USD)|[KM]\b)?)\s+([A-Za-ząćęłńóśźżĄĆĘŁŃÓŚŹŻ$]+(?:\s[a-ząćęłńóśźż]+){0,2})/g;let m;
+  while((m=re.exec(t))&&out.length<4){const n=m[1].trim();if(!/[$%]|mln|mld|tys|\d{2,}|[KM]$/.test(n)||/^(19|20)\d\d$/.test(n)||seen.has(n))continue;seen.add(n);out.push([n,m[2]])}
+  return out;
+}
+function splitSent(p){return p.split(/(?<=[.!?])\s+(?=[A-ZŁŚŻŹĆÓ„"(\d])/)}
 function prose(t,mode){
   const paras=t.split(/\n\s*\n/).map(p=>p.trim()).filter(p=>p&&!/^-{3,}$/.test(p));
   return paras.map((p,pi)=>{
@@ -423,8 +438,8 @@ function prose(t,mode){
     }
     const ss=splitSent(p);
     if(ss.length>1){
-      const first=ss.shift();
-      return `<p><strong class="lead-s">${fmtInline(first)}</strong> ${fmtInline(ss.join(" "))}</p>`;
+      const first=ss.shift();const chunks=[];for(let i=0;i<ss.length;i+=2)chunks.push(ss.slice(i,i+2).join(" "));
+      return `<h4 class="ph${pi===0?" big":""}">${fmtInline(first)}</h4>`+chunks.map(c=>`<p>${fmtInline(c)}</p>`).join("");
     }
     return `<p>${fmtInline(p)}</p>`;
   }).join("");
@@ -688,6 +703,7 @@ function openItem(key){
     <h2 id="d-title">${esc(cleanTitle(b.title))}</h2>
     ${sc?`<div class="circles"><div class="circ k"><b>${sc.c[0]}/2</b>Co wiesz</div><div class="circ s"><b>${sc.c[1]}/2</b>Co widzisz</div><div class="circ l"><b>${sc.c[2]}/2</b>Co możesz sprzedać</div></div>
     <div class="note"><b>${ORB.prof?"Dlaczego pasuje do Ciebie":"Co z tego dla Ciebie"}</b>${esc(sc.note)}</div>${ORB.prof?`<div class="note"><b>Notatka autora (Karol)</b>${esc(b.score.note)}</div>`:""}`:b.lesson?`<div class="note"><b>Wzorzec</b>${PATS[b.lesson.pat][0]}${b.lesson.rel===2?" · do zastosowania od razu":""}</div>`:""}
+    ${(()=>{const f=keyFacts(b.body);return f.length>=2?`<div class="sec-l">W liczbach</div><div class="facts">${f.map(([n,l])=>`<div><b>${esc(n)}</b><span>${esc(l)}</span></div>`).join("")}</div>`:""})()}
     <div class="sec-l">O co chodzi</div>
     <div class="prose">${prose(b.body)||'<p class="hint">Ta część maila ma tylko tytuł.</p>'}</div>
     <div class="ai"><div class="row"><button class="btn primary" id="ai-go">Przełóż na moją działalność</button><button class="btn" id="ai-stop" hidden>Zatrzymaj</button></div><div class="out" id="ai-out"><span class="hint">${SAMPLE?"Claude przełoży ten pomysł na opis z sekcji \"Twoja działalność\".":"Działa po otwarciu strony w Claude. Opis działalności ustawiasz w zakładce Pomysły."}</span></div></div>
