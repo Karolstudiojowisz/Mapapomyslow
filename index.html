@@ -710,12 +710,12 @@ new MutationObserver(()=>revealAll()).observe(document.querySelector("main"),{ch
 
 /* ---- orbita: kreator i pierścień pomysłów ---- */
 const IND_GROUPS=[
- ["Kreatywne",[["wideo","Wideo i film"],["foto","Fotografia"],["grafika","Grafika i design"],["muzyka","Muzyka"],["pisanie","Pisanie i copywriting"],["moda","Moda"],["rekodzielo","Rękodzieło i sztuka"],["wnetrza","Architektura i wnętrza"]]],
- ["Ludzie i zdrowie",[["beauty","Beauty i kosmetyka"],["fitness","Fitness i sport"],["zdrowie","Zdrowie i terapia"],["coaching","Coaching i psychologia"],["edukacja","Edukacja i korepetycje"],["dzieci","Opieka nad dziećmi"],["zwierzeta","Zwierzęta"]]],
+ ["Kreatywne",[["wideo","Wideo i film"],["foto","Fotografia"],["grafika","Grafika i design"],["muzyka","Muzyka"],["pisanie","Pisanie i copywriting"],["moda","Moda"],["rekodzielo","Rękodzieło i sztuka"],["malarstwo","Malarstwo"],["wnetrza","Architektura i wnętrza"]]],
+ ["Ludzie i zdrowie",[["beauty","Beauty i kosmetyka"],["fitness","Fitness i sport"],["zdrowie","Zdrowie i terapia"],["coaching","Coaching i psychologia"],["rozwoj","Warsztaty rozwojowe"],["warsztaty","Warsztaty i szkolenia"],["retreaty","Retreaty"],["edukacja","Edukacja i korepetycje"],["dzieci","Opieka nad dziećmi"],["zwierzeta","Zwierzęta"]]],
  ["Handel i usługi",[["gastro","Gastronomia"],["ecom","Sklep internetowy"],["sklep","Handel stacjonarny"],["nieruch","Nieruchomości"],["turystyka","Turystyka i eventy"],["dom","Usługi domowe i remonty"],["moto","Motoryzacja"],["rolnictwo","Rolnictwo i ogrodnictwo"]]],
- ["Biznes i technologia",[["marketing","Marketing i social media"],["it","IT i programowanie"],["finanse","Finanse i księgowość"],["prawo","Prawo"],["hr","HR i rekrutacja"],["logistyka","Logistyka"]]]];
+ ["Biznes i technologia",[["sales","Sprzedaż"],["marketing","Marketing i social media"],["it","IT i programowanie"],["finanse","Finanse i księgowość"],["prawo","Prawo"],["hr","HR i rekrutacja"],["logistyka","Logistyka"]]]];
 const IND_LABEL={},IND_GROUP={};IND_GROUPS.forEach(([g,l],gi)=>l.forEach(([k,v])=>{IND_LABEL[k]=v;IND_GROUP[k]=gi}));
-const IND_REL={wnetrza:["dom","nieruch","grafika"],foto:["wideo"],wideo:["foto","marketing"],grafika:["marketing"],pisanie:["marketing"]};
+const IND_REL={malarstwo:["rekodzielo","grafika"],warsztaty:["edukacja","coaching","rozwoj"],retreaty:["turystyka","coaching","fitness","rozwoj"],rozwoj:["coaching","edukacja","warsztaty"],sales:["marketing","sklep","ecom"],wnetrza:["dom","nieruch","grafika"],foto:["wideo"],wideo:["foto","marketing"],grafika:["marketing"],pisanie:["marketing"]};
 const FORMS=[["freelancer","Freelancer"],["firma","Własna firma"],["etat","Etat i projekt po godzinach"],["tworca","Twórca internetowy"],["start","Student albo dopiero zaczynam"]];
 const FORM_OK={freelancer:["freelancer"],firma:["firma"],etat:["etat","start","tworca"],tworca:["tworca","freelancer"],start:["start","tworca"]};
 const SKILLS=[["kamera","Robię zdjęcia lub wideo"],["pisanie","Piszę"],["uczenie","Uczę innych"],["sprzedaz","Sprzedaję i negocjuję"],["organizacja","Organizuję"],["programowanie","Programuję"],["projektowanie","Projektuję"],["social","Prowadzę social media"],["rece","Robię coś rękami"],["liczby","Analizuję liczby"]];
