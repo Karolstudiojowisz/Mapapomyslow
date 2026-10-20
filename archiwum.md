@@ -2721,7 +2721,7 @@ Symulator zawodu: ciekawy jako model, ale poza zasięgiem. Zapisz tylko jedną r
 
 ---
 
-📅 GOOD MORNING - 19 października 2026 (dziś)
+📅 GOOD MORNING - 19 października 2026
 
 💡 Agent faktur dla restauracji
 Dostawcy często źle fakturują restauracje i nikt nie ma czasu tego sprawdzać. Jedna firma od oprogramowania do faktur znalazła $420M kredytów od dostawców dla klientów w zeszłym roku. Koszty restauracji wzrosły o 7,5% w tym roku, więc każda błędna linia boli bardziej. Menedżer widzi "$4 212, zatwierdzono", a faktycznie kurczak był $5,45 za skrzynkę powyżej umowy, a olej do frytownicy naliczony dwa razy. Agent czyta każdą fakturę dostawcy, porównuje z uzgodnioną ceną i ściga zwrot. Przykład: "Naliczono $64,20 za skrzynkę udek, umowa mówi $58,75, 14 skrzynek = $76,30 zwrotu, roszczenie złożone."
@@ -2739,3 +2739,25 @@ Trend dnia to najważniejszy mail ostatnich tygodni dla Twoich dwóch produktów
 Historia 19-latka pasuje do Twojego podejścia do ujęć: jedna irytująca rzecz w czymś, co ludzie już kupują. Dla Ciebie to może być jedno powtarzalne tarcie w zleceniach wideo food (np. czas na akceptację, brak kosztorysu przed zdjęciami, chaos materiałów). Wypisz 3 irytujące rzeczy z ostatnich projektów i zobacz, która ma rozwiązanie, które możesz zaoferować jako stałą cenę.
 
 Agent faktur dla restauracji: restauracje to potencjalni klienci Studio F, ale pomysł dotyczy księgowości, więc pomijam.
+
+
+---
+
+📅 GOOD MORNING - 20 października 2026
+
+💡 Osobisty agent dla dyrektorów domów pogrzebowych
+Bądź pomocnikiem dyrektora domu pogrzebowego: agent, który wypełnia papiery i pilnuje, żeby każda sprawa szła do przodu. Akty zgonu, zezwolenia na pochówek, dokumentacja sprawy, zgłoszenia do hrabstwa i stanu. Wszystko to musi być załatwione, zanim pogrzeb się odbędzie. Co roku otwiera się ok. 5 700 miejsc pracy dla dyrektorów zakładów pogrzebowych, a szkoły kończy tylko ok. 1 600 osób. Śmierć, jedzenie i podatki to jedyne nieskończone, odporne na recesję i stale powracające biznesy. Szybki start: zbuduj agenta, który wypełnia formularze, śledzi, czego brakuje w każdej sprawie, i wysyła przypomnienia aż do złożenia. Wejdź do domu pogrzebowego, porozmawiaj z dyrektorem, zobacz, jak mu się podoba, popraw, powtórz. I nagrywaj cały proces jako content.
+
+🛠️ Narzędzie dnia: DigUp, wyszukiwanie plików na Macu po opisie
+Darmowe narzędzie, które według autora robi wyszukiwanie 100x lepszym. Opisujesz zdjęcie, PDF, plik audio albo wideo słowami, a ono go znajduje.
+
+📎 Dodatkowo: krótki wstęp "możesz po prostu robić rzeczy, zwłaszcza z agentami kodującymi". Reszta to stopka z quizem i agentami IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Najcenniejsze dziś jest narzędzie, nie pomysł. Masz 15 lat materiału na dyskach, a w pracy dla Studio F ciągle wraca pytanie "mamy gdzieś ujęcie lania sosu z góry?". Sprawdź DigUp na jednym folderze z surówką food (np. ostatnia sesja dla Studio F): wpisz 5 opisów typu "dłoń sypie sól w zwolnionym tempie" i zobacz, ile trafia. Jeśli działa, to trzy rzeczy naraz: szybsze montaże dla Studio F, materiał na Reels "jak znajduję ujęcia w archiwum" dla ARTMAKESENSESTUDIO i gotowa sekcja do Video Audit ("ile niewykorzystanego materiału marka ma już na dysku"). Czas: 30 minut.
+
+Agent dla domów pogrzebowych to poza zasięgiem, ale schemat jest wart zapisania: jedna branża, w której przed właściwą usługą trzeba zebrać stos papierów, a agent pilnuje, czego brakuje. W produkcji wideo to samo dzieje się przed dniem zdjęciowym: brief, zgody na wizerunek, lista ujęć, kosztorys, akceptacja. "Lista braków przed zdjęciami" może być naturalnym drugim krokiem po Quote Builderze: najpierw wycena, potem checklist, co klient musi dostarczyć. Do sprawdzenia, czy freelancerzy w ogóle tego chcą, na tych samych 3 rozmowach co wycena.
+
+Rada "nagrywaj cały proces jako content" pasuje do Ciebie bardziej niż do kogokolwiek: budowanie Quote Buildera z Cursorem i Claude to gotowa seria dla Twojego kanału, a Ty umiesz to sfilmować lepiej niż typowy founder.
