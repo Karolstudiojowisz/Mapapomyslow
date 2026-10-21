@@ -2761,3 +2761,25 @@ Najcenniejsze dziś jest narzędzie, nie pomysł. Masz 15 lat materiału na dysk
 Agent dla domów pogrzebowych to poza zasięgiem, ale schemat jest wart zapisania: jedna branża, w której przed właściwą usługą trzeba zebrać stos papierów, a agent pilnuje, czego brakuje. W produkcji wideo to samo dzieje się przed dniem zdjęciowym: brief, zgody na wizerunek, lista ujęć, kosztorys, akceptacja. "Lista braków przed zdjęciami" może być naturalnym drugim krokiem po Quote Builderze: najpierw wycena, potem checklist, co klient musi dostarczyć. Do sprawdzenia, czy freelancerzy w ogóle tego chcą, na tych samych 3 rozmowach co wycena.
 
 Rada "nagrywaj cały proces jako content" pasuje do Ciebie bardziej niż do kogokolwiek: budowanie Quote Buildera z Cursorem i Claude to gotowa seria dla Twojego kanału, a Ty umiesz to sfilmować lepiej niż typowy founder.
+
+
+---
+
+📅 GOOD MORNING - 21 października 2026
+
+💡 Gry na zamówienie dla małych muzeów
+Lokalne muzea to kręgosłup historii USA, ale nie nadążają za czasami. Zbuduj cyfrową grę, którą zaadoptuje nawet małe muzeum. Dlaczego teraz: małe muzea utrzymują lokalną historię przy minimalnych budżetach, rodziny z dziećmi to największa grupa odwiedzających w zeszłym roku, a muzea zaczynają przechodzić z plastikowych segregatorów na cyfrowe ekrany do opowiadania historii. Pomysł: krótkie gry na telefon, w których zwiedzający przechodzą przez historie z lokalnej przeszłości. Kurator dostarcza zatwierdzone materiały i zdjęcia, Ty budujesz grę "wybierz własną przygodę" napędzaną agentem, wszystko w szablonie do wielokrotnego użytku. Teraz: sprzedaj jedno doświadczenie. Przed 13 listopada: wejdź w partnerstwo z muzeum przy grze dla całego muzeum, finansowanej z grantu rządowego.
+
+🛠️ Narzędzie dnia: nagrywarka ekranu, która pokazuje agentom kodującym, co jest zepsute
+Nagrywasz ekran, pokazujesz palcem i mówisz, co poprawić. Narzędzie robi z tego nagranie z transkrypcją dla agenta kodującego, bez zrzutów ekranu i adnotacji. Darmowe.
+
+📎 Dodatkowo: wstęp o "zombie UI", czyli o tym, ile pracy to dziś akceptowanie pierwszej wersji od AI. Zagadka: strona, która wygląda jak wszystkie inne, okazała się sprzedawać koreańskie BBQ w Utah. Reszta to stopka z quizem i agentami IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Pomysł dnia jest bliżej Ciebie, niż wygląda, tylko nie jako gra, a jako opowieść wideo. Muzeum nie potrzebuje programisty gier, potrzebuje kogoś, kto z segregatora kuratora zrobi historię, którą rodzina z dzieckiem obejrzy na telefonie. To jest Twoja robota od 15 lat. Wersja dla ARTMAKESENSESTUDIO: "historia w 6 scenach" dla jednego lokalnego muzeum albo izby pamięci, krótkie animowane klipy pod kody QR przy eksponatach, z rozgałęzieniem "co dalej" zrobionym prostym formularzem albo stroną. Styl animacji z Cosmic Cowboy możesz tu przetestować na prawdziwym zleceniu zamiast na kanale.
+
+Pułapka: termin 13 listopada i grant dotyczą USA. W Polsce sprawdź nabory na digitalizację i edukację muzealną w ministerstwie kultury oraz w samorządzie, bo małe muzea gminne kupują takie rzeczy z dotacji, nie z budżetu. Pierwszy krok na ten tydzień: wybierz jedno muzeum w okolicy, nagraj 30 sekund próbki z jednym eksponatem i wyślij dyrektorowi z ceną za pakiet 6 klipów. Policz ją w Quote Builderze, to od razu test Twojego narzędzia na nowym typie zlecenia.
+
+Narzędzie dnia przyda się od razu przy Quote Builderze: zamiast opisywać Claude albo Cursorowi w tekście, że "przycisk w wycenie się rozjeżdża", nagrywasz ekran i mówisz. Mniej rund poprawek przy vibe codingu. To samo nagranie, z Twoim komentarzem, może być też gotowym odcinkiem "jak buduję aplikację" na kanał.
