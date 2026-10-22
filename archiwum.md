@@ -2783,3 +2783,25 @@ Pomysł dnia jest bliżej Ciebie, niż wygląda, tylko nie jako gra, a jako opow
 Pułapka: termin 13 listopada i grant dotyczą USA. W Polsce sprawdź nabory na digitalizację i edukację muzealną w ministerstwie kultury oraz w samorządzie, bo małe muzea gminne kupują takie rzeczy z dotacji, nie z budżetu. Pierwszy krok na ten tydzień: wybierz jedno muzeum w okolicy, nagraj 30 sekund próbki z jednym eksponatem i wyślij dyrektorowi z ceną za pakiet 6 klipów. Policz ją w Quote Builderze, to od razu test Twojego narzędzia na nowym typie zlecenia.
 
 Narzędzie dnia przyda się od razu przy Quote Builderze: zamiast opisywać Claude albo Cursorowi w tekście, że "przycisk w wycenie się rozjeżdża", nagrywasz ekran i mówisz. Mniej rund poprawek przy vibe codingu. To samo nagranie, z Twoim komentarzem, może być też gotowym odcinkiem "jak buduję aplikację" na kanał.
+
+
+---
+
+📅 GOOD MORNING - 22 października 2026
+
+💡 "The Price is Right": agent, który sprawdza, jak AI cytuje Twój cennik
+Narzędzie dla małych firm SaaS, które pokazuje, jak czaty AI przytaczają ich stronę z cennikiem. Najgorsze uczucie: pytasz ChatGPT o własny produkt, a on poleca cennik konkurencji. W małym SaaS to strona z cennikiem robi całą sprzedaż. Dlaczego teraz: blisko 17% czasu wizyty na stronie SaaS to strona z cennikiem, 50% kupujących oprogramowanie częściej zaczyna research od czatu AI niż od Google, a ChatGPT najchętniej cytuje właśnie cenniki (badanie DecaGEO). Pomysł: porównujesz adresy, widzisz, co się wyświetla, łatasz luki. Szybki start: wybierz niszę i zrób raporty dla 20 firm, wyślij raport każdemu założycielowi (razem z wynikami konkurencji), pierwszy raport za darmo, potem miesięczna opłata za śledzenie. Wyróżnik: zrób z raportów listę przebojów cenników SaaS, coś jak Billboard Hot 100.
+
+🌍 Trend: agenci to nowi klienci
+Agenci AI stają się klientami, więc founderzy budują produkty, z których agenci korzystają bezpośrednio. Postiz zrobił narzędzie wiersza poleceń, żeby agenci mogli go obsługiwać, i ma już instrukcje konfiguracji dla 20 różnych agentów. AgentMail daje każdemu agentowi własną skrzynkę, tak jak pracownikowi daje się konto pocztowe. Cloudflare buduje sposób, żeby strony pobierały od agentów opłatę za każde użycie, jak bramki na moście. Agentów nie obchodzi ładny interfejs i dashboardy. Następna żyła złota to narzędzia wiersza poleceń i API, do których agenci mogą się podłączyć.
+
+📎 Dodatkowo: wstęp o "tiny little office", darmowym pakiecie biurowym bez kont, w którym dokument jest linkiem, więc udostępnienie to wysłanie linku. Reszta to stopka z quizem i agentami IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Pomysł dnia to gotowy rozdział do Video Audit, tylko zamiast cennika SaaS sprawdzasz markę. Wpisz w ChatGPT i Perplexity pytania, które zadaje klient Studio F: "kto robi zdjęcia i filmy reklamowe jedzenia w Polsce", "ile kosztuje film reklamowy dla restauracji". Zapisz, kogo AI wymienia i czyje ceny cytuje. Jeśli Studio F nie pada w odpowiedziach, to masz konkretny argument w rozmowie: "w czacie AI was nie ma, konkurencja jest". Tak samo zrób dla ARTMAKESENSESTUDIO. Czas: 40 minut na 10 pytań i dwie tabelki.
+
+Szybki start z maila przenosi się na Twoje podwórko prawie 1:1: weź 20 studiów wideo i fotografów food w Polsce, sprawdź, które pojawiają się w odpowiedziach AI i czy w ogóle mają publiczny cennik. Raport wyślij właścicielom, pierwszy za darmo. To jednocześnie lista leadów dla Video Audit i materiał na odcinek "ranking studiów wideo w oczach ChatGPT". Większość studiów nie pokazuje cen, a AI cytuje głównie strony z cenami, więc Quote Builder ma tu dodatkowy argument: publiczny kalkulator wyceny to strona, którą AI chętnie przytoczy.
+
+Trend o agentach jako klientach zapisz na później przy Quote Builderze: obok formularza dla człowieka zrób kiedyś prosty adres, pod który agent wyśle dane zlecenia i dostanie wycenę z powrotem. Nie teraz, najpierw 3 rozmowy z freelancerami o samej wycenie. Ale przy vibe codingu z Claude to jedno popołudnie, a "kalkulator wycen wideo, z którego korzysta też Twój asystent AI" to wyróżnik, którego nie ma nikt w branży.
