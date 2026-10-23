@@ -2805,3 +2805,25 @@ Pomysł dnia to gotowy rozdział do Video Audit, tylko zamiast cennika SaaS spra
 Szybki start z maila przenosi się na Twoje podwórko prawie 1:1: weź 20 studiów wideo i fotografów food w Polsce, sprawdź, które pojawiają się w odpowiedziach AI i czy w ogóle mają publiczny cennik. Raport wyślij właścicielom, pierwszy za darmo. To jednocześnie lista leadów dla Video Audit i materiał na odcinek "ranking studiów wideo w oczach ChatGPT". Większość studiów nie pokazuje cen, a AI cytuje głównie strony z cenami, więc Quote Builder ma tu dodatkowy argument: publiczny kalkulator wyceny to strona, którą AI chętnie przytoczy.
 
 Trend o agentach jako klientach zapisz na później przy Quote Builderze: obok formularza dla człowieka zrób kiedyś prosty adres, pod który agent wyśle dane zlecenia i dostanie wycenę z powrotem. Nie teraz, najpierw 3 rozmowy z freelancerami o samej wycenie. Ale przy vibe codingu z Claude to jedno popołudnie, a "kalkulator wycen wideo, z którego korzysta też Twój asystent AI" to wyróżnik, którego nie ma nikt w branży.
+
+
+---
+
+📅 GOOD MORNING - 23 października 2026
+
+💡 Agent, który odzyskuje dla przewoźników opłaty za czekanie pod rampą
+Firmy transportowe tracą pieniądze, bo nie zgłaszają opłat za przestój (detention fee), kiedy ciężarówka czeka na załadunek dłużej, niż przewiduje umowa. Pomysł: agent zapisuje każde czekanie na podstawie danych lokalizacji ciężarówki i sam składa roszczenie z dowodami. Jak działa jedno roszczenie: 1) zapisuje godzinę przyjazdu z systemu śledzenia floty, 2) czyta umowę z pośrednikiem, sprawdza darmowy czas i stawkę godzinową i od tego momentu liczy czekanie, 3) zapisuje godzinę odjazdu i łączny czas jako dowód, 4) następnego dnia wysyła pośrednikowi maila z godzinami i dokumentami, 5) ponagla coraz stanowczej w 7., 14. i 21. dniu, a na koniec widzi wpłatę na koncie floty i zamyka sprawę. Dlaczego teraz: systemy śledzenia flot już zapisują przyjazd i odjazd z każdego punktu, agenci AI są już podłączeni do danych GPS ciężarówek, a podobny proces działa już w Uber Freight. Wszystkie elementy istnieją, brakuje agenta, który je połączy. Nudna, cicha nisza, która może po cichu zarabiać.
+
+🛠️ Narzędzie dnia: AI, które prowadzi marketing aplikacji na iOS
+Narzędzie, które ma być osobistym dyrektorem marketingu dla twórcy aplikacji: prowadzi reklamy Apple Ads, stronę w App Store, SEO i filmy z twórcami. Deklaruje, że robi całą robotę, jak cały zespół wzrostu w jednym narzędziu. Warte obserwowania.
+
+📎 Dodatkowo: wstęp o małej klinice dentystycznej w Korei, która postawiła na zapleczu własną serwerownię (12 komputerów AI typu Nvidia DGX Spark, 3 Mac mini, 3 serwery i 6 zasilaczy awaryjnych). System odbiera telefony i sprawdza papiery ubezpieczeniowe, czyli robi wszystko, czego ludzie nie lubią. Nudny biznes, tylko na sterydach. Reszta to stopka z quizem i agentami IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Ciężarówka pod rampą to w Twojej branży plan zdjęciowy, który się przeciąga. Na sesjach dla Studio F czeka się na akceptację klienta, na dowiezienie produktu, na kolejną wersję stylizacji talerza. Ten czas zwykle nikt nie liczy, bo w wycenie nie ma "darmowego czasu i stawki za nadgodzinę". Przejrzyj ostatnie 3 projekty dla Studio F: ile godzin zdjęciowych było w kosztorysie, a ile trwał plan naprawdę, i ile rund poprawek było ponad ustalone. To jedna tabelka na 30 minut i pierwszy twardy argument przy kolejnej wycenie.
+
+Pod Quote Builder to gotowa funkcja, i to taka, której nie ma w zwykłym arkuszu: każda wycena dostaje dwa pola, "ile godzin planu i ile rund poprawek w cenie" oraz "stawka za każdą kolejną". Kalkulator sam dopisuje to do oferty jednym zdaniem. Freelancer wideo traci na przestojach dokładnie tak jak przewoźnik, tylko nie ma nawet umowy, na którą mógłby się powołać. Zapytaj o to w 3 rozmowach z operatorami: "ile razy w tym roku plan przeciągnął się bez dopłaty?". Jeśli każdy ma swoją historię, masz zdanie na stronę główną Quote Buildera.
+
+ARTMAKESENSESTUDIO może wprowadzić to od razu: w następnej ofercie dopisz klauzulę o nadgodzinach i dodatkowych poprawkach, a po projekcie wyślij klientowi krótkie zestawienie godzin. Nawet jeśli nie doliczysz opłaty, klient widzi, ile dostał ponad umowę, i łatwiej przyjmie wyższą cenę przy następnym zleceniu. Narzędzie dnia (marketing aplikacji iOS) odłóż, dopóki Quote Builder nie ma pierwszych płacących użytkowników.
