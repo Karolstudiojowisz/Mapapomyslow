@@ -2827,3 +2827,25 @@ Ciężarówka pod rampą to w Twojej branży plan zdjęciowy, który się przeci
 Pod Quote Builder to gotowa funkcja, i to taka, której nie ma w zwykłym arkuszu: każda wycena dostaje dwa pola, "ile godzin planu i ile rund poprawek w cenie" oraz "stawka za każdą kolejną". Kalkulator sam dopisuje to do oferty jednym zdaniem. Freelancer wideo traci na przestojach dokładnie tak jak przewoźnik, tylko nie ma nawet umowy, na którą mógłby się powołać. Zapytaj o to w 3 rozmowach z operatorami: "ile razy w tym roku plan przeciągnął się bez dopłaty?". Jeśli każdy ma swoją historię, masz zdanie na stronę główną Quote Buildera.
 
 ARTMAKESENSESTUDIO może wprowadzić to od razu: w następnej ofercie dopisz klauzulę o nadgodzinach i dodatkowych poprawkach, a po projekcie wyślij klientowi krótkie zestawienie godzin. Nawet jeśli nie doliczysz opłaty, klient widzi, ile dostał ponad umowę, i łatwiej przyjmie wyższą cenę przy następnym zleceniu. Narzędzie dnia (marketing aplikacji iOS) odłóż, dopóki Quote Builder nie ma pierwszych płacących użytkowników.
+
+
+---
+
+📅 GOOD MORNING - 24 października 2026
+
+💡 Sprawdzacz zysku dla osób, które kupują małą firmę
+Kupujesz małą firmę i musisz uwierzyć sprzedającemu na słowo, ile ona zarabia. Pełne sprawdzenie zysku przez specjalistów kosztuje 10-25 tys. dolarów, a typowa mała firma sprzedaje się za 350 tys. dolarów. Przy takiej transakcji na samo sprawdzenie idzie do 7% ceny, przy dużej transakcji za 3 mln dolarów poniżej 1%. Pomysł: aplikacja webowa z AI, do której kupujący wrzuca dokumenty sprzedającego, a model przelicza liczby i oddaje raport na jedną stronę: które zyski są prawdziwe. Przykład raportu: leasing auta właściciela wygląda na prawdziwy (12 000 dolarów), jednorazowy rachunek prawny ma fakturę (8 000), odświeżenie marketingu bez paragonu wypada (-20 000), praca właściciela wymaga zatrudnienia menedżera (-40 000). Sprzedający mówi 150 000, bank może uznać 90 000. Dlaczego teraz: przy transakcjach SBA powyżej 3 mln dolarów takie sprawdzenie jest obowiązkowe, cena małej firmy liczy się od zysku sprzedającego, więc zawyżony zysk oznacza przepłacenie. Jedno narzędzie już sprawdza dokumenty sprzedającego przed ofertą dla funduszy private equity. Tu ta sama kontrola, tylko wyceniona dla kupującego firmę za 350 tys. Zillow robi coś podobnego od lat, tu dochodzi płatny raport na końcu.
+
+🌍 Trend: humanoidalne roboty tanieją
+Humanoida można dziś wziąć w leasing za 499 dolarów miesięcznie albo kupić za 20 tys. dolarów, a ceny dalej spadają. Robot sprzątający kosztuje 3 555 dolarów, inny za 1 688 dolarów ma dostęp do sklepu z umiejętnościami, w tym przyniesieniem piwa z lodówki. Roboty są tańsze niż nowy iPhone.
+
+📎 Dodatkowo: wstęp o cichym trendzie, prywatnej ziemi graniczącej z gruntami państwowymi. Nikt nie może kupić działki obok, więc kupujący ma wrażenie dodatkowych hektarów. Ktoś zbudował narzędzie, które pokazuje takie działki (np. ranczo w Wyoming), na publicznych danych o granicach, nałożonych na rynek, na którym ludzie już szukają. W sieci jest ponad 431 tys. takich zbiorów danych rządowych. Reszta to stopka z quizem i agentami IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Mechanizm dnia to "nie wierz liczbie na słowo, pokaż ją rozbitą na pozycje z oznaczeniem, co jest prawdziwe". W Twojej branży to samo przeżywa osoba od marketingu w marce food, która dostaje ofertę na film reklamowy za 40 tys. zł i nie ma jak sprawdzić, czy dzień zdjęciowy, scenografia i postprodukcja są w rynkowych stawkach. Pod Quote Builder to druga strona tego samego narzędzia: freelancer składa wycenę, a klient może wrzucić cudzą ofertę i dostać raport na jedną stronę w stylu z maila, pozycja po pozycji: "w normie", "drogo", "brakuje w ofercie". Zanim cokolwiek zbudujesz, poproś 2 znajome osoby z marketingu o anonimową ofertę produkcyjną i rozpisz ją ręcznie w takiej tabelce. Czas: godzina na jedną ofertę.
+
+Dla Video Audit weź sam format raportu: lista pozycji, przy każdej znak (✓ albo !), krótki powód i kwota albo wpływ. Zamiast "audyt wideo" klient dostaje kartkę "te 3 filmy pracują, te 2 przepalają budżet, ten format trzeba zastąpić". To czytelniejsze niż opis na kilka stron i łatwo to pokazać na stronie jako przykład. Zrób jedną taką kartkę na podstawie publicznych filmów jednej marki food i dodaj ją do oferty.
+
+Przy Studio F możesz użyć tej samej logiki we własnej obronie ceny: do następnego kosztorysu dołącz jedną stronę "co jest w cenie i dlaczego", z pozycjami, które klient zwykle kwestionuje (dzień stylizacji, poprawki, licencja muzyki). Robot humanoidalny to na razie ciekawostka, ewentualnie temat na krótką animację na Cosmic Cowboy, nie na projekt.
