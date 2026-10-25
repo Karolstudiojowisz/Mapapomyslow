@@ -2849,3 +2849,25 @@ Mechanizm dnia to "nie wierz liczbie na słowo, pokaż ją rozbitą na pozycje z
 Dla Video Audit weź sam format raportu: lista pozycji, przy każdej znak (✓ albo !), krótki powód i kwota albo wpływ. Zamiast "audyt wideo" klient dostaje kartkę "te 3 filmy pracują, te 2 przepalają budżet, ten format trzeba zastąpić". To czytelniejsze niż opis na kilka stron i łatwo to pokazać na stronie jako przykład. Zrób jedną taką kartkę na podstawie publicznych filmów jednej marki food i dodaj ją do oferty.
 
 Przy Studio F możesz użyć tej samej logiki we własnej obronie ceny: do następnego kosztorysu dołącz jedną stronę "co jest w cenie i dlaczego", z pozycjami, które klient zwykle kwestionuje (dzień stylizacji, poprawki, licencja muzyki). Robot humanoidalny to na razie ciekawostka, ewentualnie temat na krótką animację na Cosmic Cowboy, nie na projekt.
+
+
+---
+
+📅 GOOD MORNING - 25 października 2026
+
+💡 Szkolne ligi dla gier, które stały się viralem
+Gra robi się viralem w szkołach i nagle wszyscy chcą w nią grać. Pomysł: zapakować ten szał w gotową ligę szkolną "pod klucz", od razu ze sponsorami. Dlaczego teraz: nowe sporty potrafią wystrzelić bardzo szybko. Dziewczęcy flag football w amerykańskich liceach: 15 716 zawodniczek w sezonie 2021-22, 20 875 w 2022-23, 42 955 w 2023-24, 68 847 w 2024-25 i 102 360 w 2025-26 (dane NFHS). E-sport ma już oficjalnie uznane ligi szkolne we współpracy z siecią NFHS, Roundnet (Spikeball) zaczynał w piwnicy, a dziś ma kluby i ligi na uczelniach w USA, a hacky sack wiosną przeżył wśród uczniów nową falę. Jak to działa: platforma wyłapuje grę, która robi się viralem, agent buduje szablon ligi i pisze trzy oferty, dla szkoły, dla właściciela gry i dla lokalnych firm jako sponsorów. Sprzedaż ułatwiają rodzice: w badaniu YouGov na 922 rodzicach młodych sportowców 84% ma pozytywny stosunek do sponsorów marek, 80% wybiera markę sponsora przy tej samej cenie i jakości, a 68% chętniej kupi od sponsora sportu młodzieżowego niż od sponsora sportu zawodowego.
+
+🛠️ Taktyka dnia: zbierz recenzje konkurencji
+Lista funkcji do zbudowania jest już napisana w recenzjach na 1 gwiazdkę u konkurencji. Wybierz konkurenta z dużą liczbą opinii (App Store, Amazon, Google), skopiuj 30 recenzji na 1 i 2 gwiazdki do agenta AI, pogrupuj i policz skargi, zbuduj 3 najczęstsze. Gotowe polecenie: "Oto 30 recenzji [konkurenta]. Pogrupuj skargi w tematy, policz, ile recenzji wspomina każdy, i zacytuj najlepszy przykład. Daj top 10 w kolejności i przy każdym jedno zdanie, jaką funkcję mogę zbudować w [mój produkt], żeby to naprawić."
+
+📎 Dodatkowo: wstęp o osobie, która nie umiała budować aplikacji na iOS, a z pomocą agentów kodujących zrobiła szyfrowany sejf na zdjęcia i przeszła od 66 do 40 tys. dolarów miesięcznie. Bezpieczeństwo jako nowy luksus. Reszta to niedzielna stopka z quizem i agentami IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Sama liga szkolna jest daleko od Twojej branży, ale jest w niej dobry kawałek: każda liga ze sponsorami potrzebuje treści wideo, którą sponsor może pokazać. Lokalna firma, która płaci za koszulki drużyny, chce potem krótkiego filmu "nasza liga, nasze logo". To mała, powtarzalna usługa dla ARTMAKESENSESTUDIO, jeśli kiedyś zobaczysz w okolicy lokalną ligę albo turniej (szkolny, firmowy, amatorski) ze sponsorami. Nie szukaj tego teraz aktywnie, po prostu zapisz jako możliwy pakiet.
+
+Najwięcej daje taktyka dnia, i to pod Quote Builder od razu. Wybierz 2 narzędzia do wycen albo faktur, z których korzystają freelancerzy kreatywni (np. aplikacje do ofert i kosztorysów z dużą liczbą opinii w App Store lub na stronach z recenzjami oprogramowania), skopiuj po 30 recenzji na 1 i 2 gwiazdki i wrzuć je z gotowym poleceniem z maila. Dostaniesz listę 10 skarg z liczbami. Jeśli na górze będzie "za ogólne, nie pasuje do mojej branży" albo "nie umie policzyć dni zdjęciowych", masz zdanie na stronę główną i pierwsze 3 funkcje. Czas: około 45 minut.
+
+Ta sama metoda działa dla Video Audit: weź opinie o 2 konkurencyjnych agencjach wideo albo usługach audytu marketingu (Google, Clutch) i sprawdź, na co narzekają klienci. Jeśli powtarza się "długo czekałem na wyniki" albo "nie wiedziałem, co z tym zrobić", wpisz w ofertę Video Audit konkretny termin i listę 3 rzeczy do zrobienia na końcu raportu. Przy kolejnym projekcie dla Studio F możesz też przejrzeć opinie o samej marce w Google i z najczęstszych pochwał zbudować scenariusz następnego filmu.
