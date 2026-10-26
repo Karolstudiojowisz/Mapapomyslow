@@ -2871,3 +2871,25 @@ Sama liga szkolna jest daleko od Twojej branży, ale jest w niej dobry kawałek:
 Najwięcej daje taktyka dnia, i to pod Quote Builder od razu. Wybierz 2 narzędzia do wycen albo faktur, z których korzystają freelancerzy kreatywni (np. aplikacje do ofert i kosztorysów z dużą liczbą opinii w App Store lub na stronach z recenzjami oprogramowania), skopiuj po 30 recenzji na 1 i 2 gwiazdki i wrzuć je z gotowym poleceniem z maila. Dostaniesz listę 10 skarg z liczbami. Jeśli na górze będzie "za ogólne, nie pasuje do mojej branży" albo "nie umie policzyć dni zdjęciowych", masz zdanie na stronę główną i pierwsze 3 funkcje. Czas: około 45 minut.
 
 Ta sama metoda działa dla Video Audit: weź opinie o 2 konkurencyjnych agencjach wideo albo usługach audytu marketingu (Google, Clutch) i sprawdź, na co narzekają klienci. Jeśli powtarza się "długo czekałem na wyniki" albo "nie wiedziałem, co z tym zrobić", wpisz w ofertę Video Audit konkretny termin i listę 3 rzeczy do zrobienia na końcu raportu. Przy kolejnym projekcie dla Studio F możesz też przejrzeć opinie o samej marce w Google i z najczęstszych pochwał zbudować scenariusz następnego filmu.
+
+
+---
+
+📅 GOOD MORNING - 26 października 2026
+
+💡 Agent sprzedażowy dla sklepów z kartami kolekcjonerskimi
+Karty Pokemon są wszędzie, ale obok kolekcjonerów jest ogromna społeczność, która w tę grę naprawdę gra. Jeśli w talii brakuje kart, gracz musi kupować pojedyncze karty ręcznie, jedna po drugiej. Pomysł: konstruktor talii z AI, który sklep z kartami wstawia na swoją stronę, żeby sprzedawać pojedyncze karty. Gracz skanuje swoje karty telefonem, agent sprawdza, czego brakuje w talii, i od razu wrzuca to do koszyka sklepu. Przykład z maila: talia Dragapult, gracz ma 42 z 60 kart, brakuje 18, jeden przycisk "dodaj 18 brakujących kart do koszyka". Dlaczego teraz: przy Magic: The Gathering działają już duże platformy sprzedażowe z narzędziem do list talii, sklepy już płacą za oprogramowanie do cyfrowego śledzenia pojedynczych kart, więc kupią też takie, które pomaga je sprzedawać, a zainteresowanie samą grą dalej rośnie.
+
+🌍 Trend: wielkie firmy technologiczne uruchamiają AI lokalnie
+AI przenosi się z chmury na własne urządzenie. Nowy laptop Microsoft Surface Laptop Ultra uruchamia duże modele AI bez chmury. Google razem z rządem Singapuru zbudował AI wykrywające oszustwa, które działa w całości na telefonie. Dell, HP, Lenovo, ASUS i MSI mają laptopy z chipem NVIDIA zrobionym do uruchamiania AI na samym komputerze. Lokalne AI oznacza też, że mniej Twoich danych leży na cudzych serwerach.
+
+📎 Dodatkowo: wstęp o grze w budowanie miasta zrobionej dla zabawy, w której jesteś burmistrzem, z hasłem "zbuduj absolutnie nic". Reszta to stopka z quizem, odpowiedzią do redakcji i agentami IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Mechanizm dnia to "zeskanuj to, co klient już ma, pokaż, czego brakuje, i jednym przyciskiem dodaj brakujące do koszyka". Pod Quote Builder to bardzo konkretny wzór: freelancer wideo wpisuje, co ma już w ofercie (dzień zdjęciowy, montaż), a narzędzie pokazuje listę typowych brakujących pozycji w stylu "masz 6 z 10 pozycji, brakuje: kolor, licencja muzyki, poprawki, dojazd" i dodaje je do wyceny jednym kliknięciem. To odpowiada na najczęstszy błąd freelancera, czyli zapominanie o pozycjach, za które potem robi za darmo. Zrób na papierze listę 10 pozycji, które zwykle wypadają z wycen wideo, i sprawdź ją na 2 swoich starych kosztorysach. Czas: 30 minut.
+
+Dla Video Audit weź ten sam układ "masz / brakuje": marka food ma np. reels z produktem i zdjęcia dań, ale brakuje jej filmu z kuchni, formatu z opinią klienta i wersji pionowej reklamy. Taka tabelka z ✓ i "brakuje" na początku raportu od razu prowadzi do Twojej oferty produkcyjnej. Przy następnej rozmowie ze Studio F możesz pokazać im tę samą tabelkę dla ich kanałów i zaproponować 2 brakujące formaty jako kolejne zlecenie.
+
+Trend lokalnego AI to dla Ciebie przede wszystkim argument przy pracy z materiałami klientów: jeśli część rzeczy (transkrypcja, wstępny montaż, opisy) robisz na własnym komputerze, możesz to wpisać w ofertę ARTMAKESENSESTUDIO jako "materiały nie wychodzą poza studio". Dla Cosmic Cowboy to sygnał, żeby przy następnym zakupie sprzętu sprawdzić, czy da się lokalnie generować muzykę i obrazy bez opłat za każde użycie.
