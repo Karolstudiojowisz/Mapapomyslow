@@ -2893,3 +2893,25 @@ Mechanizm dnia to "zeskanuj to, co klient już ma, pokaż, czego brakuje, i jedn
 Dla Video Audit weź ten sam układ "masz / brakuje": marka food ma np. reels z produktem i zdjęcia dań, ale brakuje jej filmu z kuchni, formatu z opinią klienta i wersji pionowej reklamy. Taka tabelka z ✓ i "brakuje" na początku raportu od razu prowadzi do Twojej oferty produkcyjnej. Przy następnej rozmowie ze Studio F możesz pokazać im tę samą tabelkę dla ich kanałów i zaproponować 2 brakujące formaty jako kolejne zlecenie.
 
 Trend lokalnego AI to dla Ciebie przede wszystkim argument przy pracy z materiałami klientów: jeśli część rzeczy (transkrypcja, wstępny montaż, opisy) robisz na własnym komputerze, możesz to wpisać w ofertę ARTMAKESENSESTUDIO jako "materiały nie wychodzą poza studio". Dla Cosmic Cowboy to sygnał, żeby przy następnym zakupie sprzętu sprawdzić, czy da się lokalnie generować muzykę i obrazy bez opłat za każde użycie.
+
+
+---
+
+📅 GOOD MORNING - 27 października 2026
+
+💡 Agent AI, który wygrywa miejskie zlecenia dla małych wykonawców
+Miasta codziennie zatrudniają hydraulików, dekarzy i elektryków. Ogłoszenia o pracach są rozrzucone po dziesiątkach stron i wymagają mnóstwa papierów. Pomysł: agent, który znajduje miejskie zlecenia pasujące do danej ekipy, wypełnia dokumenty i wysyła ofertę na czas, automatycznie. Dlaczego teraz: duzi wykonawcy rządowi już mają AI, które wyszukuje zlecenia i pisze oferty, a małe lokalne ekipy nie. Miasta same uczą małe firmy korzystać z AI, żeby wygrywały zamówienia publiczne. Start: jedna branża w jednym stanie. Źródło: spis instytucji samorządowych U.S. Census Bureau z 2022 roku.
+
+🌍 Trend: ekrany, które nie świecą, dostają kolor
+E-ink, czyli ekran jak w Kindle, odbija światło z pokoju jak papier zamiast świecić w oczy, a teraz jest kolorowy. Kolorowy e-ink stał się dwa razy bardziej nasycony, a pierwszym urządzeniem z nową technologią jest chiński tablet do notatek. Amazon sprzedaje kolorowy czytnik do komiksów, powieści graficznych i przewodników. W Japonii plakaty na kolei przechodzą na 55-calowe kolorowe ekrany, które prawie nie zużywają prądu. Autor zachęca twórców aplikacji: restauracje, gabinety, linie lotnicze i inne firmy z tabletami dla klientów będą potrzebować oprogramowania pod takie ekrany.
+
+📎 Dodatkowo: wstęp o tym, że Anthropic złożył dokumenty do wejścia na giełdę przed OpenAI. Przychód wzrósł z 376 mln dolarów do 11,6 mld dolarów kwartalnie w nieco ponad rok (6,6 mln dolarów na pracownika), klienci po pierwszym roku wydają około 9 razy więcej, a firma twierdzi, że modele potrafią dużo więcej, niż ludzie z nich korzystają, więc ktoś musi zamknąć tę lukę dla dentystów, właścicieli mieszkań i hydraulików. Reszta to stopka z quizem, odpowiedzią do redakcji i agentami IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Mechanizm dnia to "duzi gracze mają narzędzie do przetargów, mali nie". W Polsce działa to tak samo w Twojej branży: muzea, domy kultury, gminy, uczelnie i spółki miejskie regularnie zamawiają filmy promocyjne, relacje z wydarzeń i spoty, a zapytania ofertowe leżą na platformazakupowa.pl, e-Zamówieniach i Bazie Konkurencyjności. Dla ARTMAKESENSESTUDIO pierwszy krok jest ręczny i darmowy: ustaw na tych platformach alerty na frazy "produkcja filmu", "film promocyjny", "spot", "realizacja wideo" w województwie mazowieckim i przez 2 tygodnie zapisuj, ile ich wpada i na jakie kwoty. Czas: 30 minut na ustawienie.
+
+Dla Quote Buildera to konkretna funkcja na później: tryb "wycena do zapytania ofertowego", który z tych samych pozycji co zwykła wycena składa formularz cenowy w układzie wymaganym przez zamawiającego (cena netto, brutto, rozbicie na etapy). Jeśli po 2 tygodniach alertów okaże się, że zapytań jest kilkanaście miesięcznie, masz drugi segment klientów: freelancerów wideo, którzy boją się papierów przetargowych.
+
+Trend kolorowego e-inku dotyczy Studio F i jej klientów food: restauracje z ekranami menu przy kasie mogą przejść na kolorowe tablice e-ink, które nie odtwarzają wideo, tylko zmieniają statyczne obrazy. To oznacza zapotrzebowanie na mocne zdjęcia i grafiki dań w formacie pod takie ekrany, czyli dodatkową pozycję w ofercie zdjęciowej przy każdej sesji. Dla Cosmic Cowboy to ciekawy format: generatywne grafiki z kanału jako wolno zmieniające się obrazy na ramce e-ink, na razie tylko do obserwowania.
