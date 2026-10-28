@@ -358,7 +358,7 @@ body.revealed nav.tabs{animation-delay:.1s}body.revealed .panel{animation-delay:
     <div class="brand">
       <p class="kick"><span>(IB)</span><span>Archiwum 2026</span><span class="live"><i></i>aktualizowane codziennie</span></p>
       <h1 id="hero" aria-label="Mapa Pomysłów"><span class="w1">Mapa</span><span class="w2">Pomysłów</span></h1>
-      <p>IdeaBrowser · 8.06 - 19.10.2026 · przefiltrowane pod ARTMAKESENSESTUDIO</p>
+      <p id="range">IdeaBrowser · przefiltrowane pod ARTMAKESENSESTUDIO</p>
     </div>
     <div class="stats" id="stats"><span>Ładuję archiwum...</span></div>
   </div>
@@ -503,6 +503,7 @@ async function boot(){
     else if(ls){b.lesson=ls;LESS.push(b)}
   }
   const short=ITEMS.filter(b=>b.fit>=4).length;
+  if(DAYS.length){const ds=DAYS.map(d=>d.date).sort(),f=ds[0].split("-"),l=ds[ds.length-1].split("-");$("#range").textContent=`IdeaBrowser · ${+f[2]}.${f[1]} - ${+l[2]}.${l[1]}.${l[0]} · przefiltrowane pod ARTMAKESENSESTUDIO`}
   $("#stats").innerHTML=`<span><b>${DAYS.length}</b>dni</span><span><b>${ITEMS.length}</b>pomysłów</span><span><b>${ITEMS.filter(b=>b.fit>=3).length}</b>pasuje do Ciebie</span><span><b>${short}</b>na krótkiej liście</span><span><b>${LESS.length}</b>lekcji i trendów</span>`;
   $("#c-ideas").textContent=ITEMS.length;$("#c-jordan").textContent=DATA.jordan.length;$("#c-lessons").textContent=LESS.length;$("#c-days").textContent=DAYS.length;
   renderAll();
@@ -576,7 +577,7 @@ function renderIdeas(){
         <button data-fit="fit" aria-pressed="${state.fit==="fit"}">Pasuje 3+</button>
         <button data-fit="short" aria-pressed="${state.fit==="short"}">Krótka lista 4+</button>
       </div>
-      <select id="month" aria-label="Miesiąc"><option value="all">Każdy miesiąc</option>${["06","07","08","09","10"].map(m=>`<option value="${m}" ${state.month===m?"selected":""}>${["","","","","","","Czerwiec","Lipiec","Sierpień","Wrzesień","Październik"][+m]}</option>`).join("")}</select>
+      <select id="month" aria-label="Miesiąc"><option value="all">Każdy miesiąc</option>${[...new Set(DAYS.map(d=>d.date.slice(5,7)))].sort().map(m=>`<option value="${m}" ${state.month===m?"selected":""}>${["","Styczeń","Luty","Marzec","Kwiecień","Maj","Czerwiec","Lipiec","Sierpień","Wrzesień","Październik","Listopad","Grudzień"][+m]}</option>`).join("")}</select>
       <select id="sort" aria-label="Kolejność"><option value="fit" ${state.sort==="fit"?"selected":""}>Grupy, najlepiej pasujące</option><option value="date" ${state.sort==="date"?"selected":""}>Od najnowszych</option></select>
     </div>
     <div class="chips">${catOrder.map(c=>`<button class="chip" data-cat="${c}" aria-pressed="${state.cats.has(c)}">${CATS[c]}<span class="n">${counts[c]}</span></button>`).join("")}</div>
