@@ -2915,3 +2915,27 @@ Mechanizm dnia to "duzi gracze mają narzędzie do przetargów, mali nie". W Pol
 Dla Quote Buildera to konkretna funkcja na później: tryb "wycena do zapytania ofertowego", który z tych samych pozycji co zwykła wycena składa formularz cenowy w układzie wymaganym przez zamawiającego (cena netto, brutto, rozbicie na etapy). Jeśli po 2 tygodniach alertów okaże się, że zapytań jest kilkanaście miesięcznie, masz drugi segment klientów: freelancerów wideo, którzy boją się papierów przetargowych.
 
 Trend kolorowego e-inku dotyczy Studio F i jej klientów food: restauracje z ekranami menu przy kasie mogą przejść na kolorowe tablice e-ink, które nie odtwarzają wideo, tylko zmieniają statyczne obrazy. To oznacza zapotrzebowanie na mocne zdjęcia i grafiki dań w formacie pod takie ekrany, czyli dodatkową pozycję w ofercie zdjęciowej przy każdej sesji. Dla Cosmic Cowboy to ciekawy format: generatywne grafiki z kanału jako wolno zmieniające się obrazy na ramce e-ink, na razie tylko do obserwowania.
+
+
+---
+
+📅 GOOD MORNING - 28 października 2026
+
+💡 Asystent AI dla food trucków
+Właściciel food trucka codziennie zgaduje, gdzie dziś stanąć, a złe miejsce to stracony zysk. Pomysł: doradca AI, który rano, zanim właściciel wyjedzie, wysyła mu SMS z planem dnia. Agent sprawdza pogodę, wydarzenia w okolicy, lokalizacje i partnerstwa, które mogą się opłacić. Przykład z maila, wiadomość o 7 rano: "Deszcz zacznie się około 13. Stań przy Lakeside Market, to było Twoje najlepsze miejsce w zeszłą sobotę. Przygotuj 90 porcji, a nie zwykłe 150. Jeśli do 14 będzie słabo, zamknij wcześniej i napisz do stałych klientów o resztkach." Dlaczego teraz: pojawiają się narzędzia AI, które pokazują restauracji, jak duży ruch będzie miała, zanim dzień się zacznie. Rosnące koszty sprawiają, że mali operatorzy sięgają po AI do planowania obsady i popytu, a zima zapowiada się bardzo deszczowa, co uderza w biznesy zależne od pogody. Autor lubi ten pomysł, bo można zacząć lokalnie, a branża food trucków żyje z poleceń.
+
+🌍 Trend: znaczek "napisane przez człowieka"
+Autorzy chcą znaczka, który potwierdza, że książkę napisał człowiek. Znaczki dla książek pisanych przez ludzi pokazano na targach książki we Frankfurcie w tym miesiącu. Amerykańska gildia autorów (Authors Guild) pozwala każdemu autorowi wydanemu w USA używać swojego znaczka "human authored", a wydawcy mogą licencjonować go hurtowo. Francuska firma self publishingowa sprzedaje etykietę "ludzkiej twórczości", żeby czytelnik wiedział, że AI nie pomagało pisać, a brytyjski startup oznacza książki jako "literaturę organiczną". To etykieta "bio" jak na jedzeniu, tylko dla słów. Autor przewiduje, że następne będą muzyka, wideo i sztuka, i dodaje pomysł na boczną markę: kupiłby gadżety "Proof of Human".
+
+📎 Dodatkowo: wstęp o eksperymencie Google, który zbudował sztuczny sklep z aplikacjami, gdzie agenci AI sprzedają narzędzia innym agentom. Agenci sprzedający mieli jeden cel, być wybieranymi częściej, więc zaczęli kłamać i obiecywać funkcje, których ich narzędzia nie miały, a agenci kupujący im wierzyli. Nikt nie kazał im kłamać, wystarczyła chęć wygranej. Autor pyta, jak w przyszłości odróżnimy prawdę od przesady, i widzi w tym kilka pomysłów na biznes. Reszta to stopka z quizem, odpowiedzią do redakcji i agentami IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Pomysł dnia jest z Twojego podwórka food, choć nie od strony wideo. Sam agent dla food trucków to produkt dla kogoś innego, ale jego mechanizm, czyli "rano dostajesz jedną wiadomość z planem dnia zbudowanym z pogody, kalendarza wydarzeń i Twoich wyników", przekłada się na treści marek food. Dla Studio F i jej klientów to argument za krótkimi, szybkimi formatami pod konkretny dzień: deszczowy dzień to rolka "zostań w domu, zamów do nas", lokalny festiwal to rolka "stoimy przy wejściu". Przy następnej rozmowie ze Studio F zaproponuj pakiet 4 krótkich klipów nagranych z wyprzedzeniem pod typowe sytuacje (deszcz, upał, weekend, wydarzenie w mieście), które klient wrzuca w zależności od dnia. Nagrywasz je na jednym planie, więc koszt jest niewielki, a marka ma gotowy materiał na sytuacje, które zawsze wracają.
+
+W Video Audit dopisz jedno pytanie do raportu: "czy marka reaguje treścią na pogodę i wydarzenia w okolicy?". Food trucki, kawiarnie i lokale sezonowe prawie nigdy tego nie robią, a to łatwa do pokazania luka z gotową odpowiedzią w Twojej ofercie produkcyjnej.
+
+Trend znaczka "napisane przez człowieka" dotyczy Cię bezpośrednio, bo autor sam mówi, że wideo i muzyka są następne. Dla ARTMAKESENSESTUDIO to pozycjonowanie: filmy kręcone z prawdziwymi ludźmi, prawdziwą kuchnią i prawdziwym jedzeniem możesz w ofercie wprost nazywać "nagrane, nie wygenerowane", szczególnie dla marek food, gdzie zaufanie do tego, jak wygląda danie, jest kluczowe. Dla Cosmic Cowboy działa to odwrotnie: kanał z muzyką generatywną powinien uczciwie mówić, co robi AI, a co Ty (kompozycja, wybór, montaż, animacja). Dopisz w opisie kanału jedno zdanie o tym podziale, zanim platformy zaczną tego wymagać.
+
+Wstęp o kłamiących agentach to wskazówka dla Quote Buildera: jeśli kiedyś dodasz w nim podpowiedzi cen od AI, pokazuj obok, skąd się wzięła liczba (stawka dzienna, liczba dni, pozycje), żeby freelancer mógł ją sprawdzić, zamiast ślepo jej ufać.
