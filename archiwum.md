@@ -2939,3 +2939,29 @@ W Video Audit dopisz jedno pytanie do raportu: "czy marka reaguje treścią na p
 Trend znaczka "napisane przez człowieka" dotyczy Cię bezpośrednio, bo autor sam mówi, że wideo i muzyka są następne. Dla ARTMAKESENSESTUDIO to pozycjonowanie: filmy kręcone z prawdziwymi ludźmi, prawdziwą kuchnią i prawdziwym jedzeniem możesz w ofercie wprost nazywać "nagrane, nie wygenerowane", szczególnie dla marek food, gdzie zaufanie do tego, jak wygląda danie, jest kluczowe. Dla Cosmic Cowboy działa to odwrotnie: kanał z muzyką generatywną powinien uczciwie mówić, co robi AI, a co Ty (kompozycja, wybór, montaż, animacja). Dopisz w opisie kanału jedno zdanie o tym podziale, zanim platformy zaczną tego wymagać.
 
 Wstęp o kłamiących agentach to wskazówka dla Quote Buildera: jeśli kiedyś dodasz w nim podpowiedzi cen od AI, pokazuj obok, skąd się wzięła liczba (stawka dzienna, liczba dni, pozycje), żeby freelancer mógł ją sprawdzić, zamiast ślepo jej ufać.
+
+
+---
+
+📅 GOOD MORNING - 29 października 2026
+
+💡 Bot na Slacku, który sprawdza, czy narzędzie AI jest bezpieczne
+W większości małych firm szef IT jest jednocześnie całym działem bezpieczeństwa, więc każde nowe narzędzie AI to godziny czytania polityki prywatności i regulaminu. W tym czasie pracownicy sami zakładają konta w narzędziach AI, a IT dowiaduje się o tym dużo później albo wcale. Pomysł: bot na Slacku dla małych i średnich firm, który odpowiada na pytanie "Czy mogę użyć tego narzędzia AI?". Dlaczego teraz: w małych firmach to częściej pracownicy niż pracodawca wprowadzali AI. Prawie 2 na 5 pracowników wrzuciło służbowe informacje do prywatnego konta AI, którego pracodawca nie widzi. Szefowie czują się bezpiecznie: 90% twierdzi, że widzi, jakich narzędzi AI używa zespół, a jednocześnie 52% pracowników przyznaje się do korzystania z niezatwierdzonych. Źródło: wskaźnik AI w miejscu pracy Gallupa, aktualizacja z maja 2026.
+
+🌍 Trend: płatności przechodzą do agentów
+Zakupy robione przez agentów AI brzmią ekscytująco, ale mają swoje progi zwalniające. Shopify pozwala agentom AI dokończyć zakup, gdy kupujący to potwierdzi. Amazon zablokował agenta Muse od Meta. Regulamin eBay zakazuje agentów "kup za mnie", chyba że eBay się zgodzi. Walmart właśnie otworzył bramkę dla agentów AI, ale te, które łamią jego zasady, są blokowane. Autor uważa, że następną firmą wartą miliard dolarów będzie ta, która odpowie na pytanie "czy ten bot ma prawo wejść do sklepu?".
+
+📎 Dodatkowo: wstęp o kampanii reklamowej Firefoxa, która przywraca twarze ze starych memów, na przykład autora "Chocolate Rain" opowiadającego o funkcjach przeglądarki. Wniosek autora: nostalgia to darmowy start, gdy chcesz, żeby ktoś wrócił do Twojego produktu. Reszta to stopka z quizem, odpowiedzią do redakcji i agentami IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Sam bot dla działów IT to nie Twój produkt, ale pytanie, na które odpowiada, słyszysz od klientów coraz częściej w innej wersji: "czy to, co nam dostarczasz, jest zrobione AI i czy możemy to bezpiecznie użyć w reklamie?". Dla ARTMAKESENSESTUDIO zrób jedną stronę "AI w mojej produkcji": lista narzędzi, których używasz (retusz, upscaling, generowanie tła, muzyka), przy każdym informacja, czy licencja pozwala na użycie komercyjne i czy materiały klienta trafiają do trenowania modelu. Czas: 1 popołudnie. Wysyłasz ją razem z ofertą, a marka food dostaje odpowiedź, zanim jej dział prawny zdąży zapytać.
+
+Dla Studio F to ten sam argument w skali studia: jeśli w ich spotach pojawiają się elementy generowane, taka lista chroni ich przed pytaniami klientów i przed sytuacją, w której klient sam odkrywa AI w materiale. Zaproponuj, że przygotujesz ją jako wzór dla nich.
+
+W Quote Builderze dodaj opcjonalną sekcję "narzędzia AI użyte w projekcie i ich licencje", którą freelancer zaznacza przy wycenie. To mała funkcja, która odróżnia go od zwykłego kalkulatora i odpowiada na realny problem klientów freelancerów. W Video Audit dopisz pytanie: "czy marka ma prawa do muzyki i elementów AI w swoich filmach?".
+
+Dla Cosmic Cowboy sprawdź teraz, nie później, licencje narzędzi do muzyki generatywnej pod kątem monetyzacji na YouTube i zapisz je w jednym pliku. Trend z agentami w sklepach pokazuje, że platformy szybko zmieniają zasady wobec AI, a kanał oparty na generatywnej muzyce jest pierwszy w kolejce do takich zmian.
+
+Wstęp o Firefoxie to gotowy kąt dla marek food: nostalgia. Przy następnej rozmowie ze Studio F zaproponuj krótki format "danie z dzieciństwa" albo rolkę nawiązującą do starego, polskiego mema lub reklamy z lat 90. Nostalgia działa najlepiej na powracających klientów lokalu, czyli dokładnie na tych, do których celuje content restauracji.
