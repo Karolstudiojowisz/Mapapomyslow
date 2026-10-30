@@ -2965,3 +2965,27 @@ W Quote Builderze dodaj opcjonalną sekcję "narzędzia AI użyte w projekcie i 
 Dla Cosmic Cowboy sprawdź teraz, nie później, licencje narzędzi do muzyki generatywnej pod kątem monetyzacji na YouTube i zapisz je w jednym pliku. Trend z agentami w sklepach pokazuje, że platformy szybko zmieniają zasady wobec AI, a kanał oparty na generatywnej muzyce jest pierwszy w kolejce do takich zmian.
 
 Wstęp o Firefoxie to gotowy kąt dla marek food: nostalgia. Przy następnej rozmowie ze Studio F zaproponuj krótki format "danie z dzieciństwa" albo rolkę nawiązującą do starego, polskiego mema lub reklamy z lat 90. Nostalgia działa najlepiej na powracających klientów lokalu, czyli dokładnie na tych, do których celuje content restauracji.
+
+
+---
+
+📅 GOOD MORNING - 30 października 2026
+
+💡 Agent AI na pierwsze 90 dni dla nowych właścicieli firm
+Kupujesz 30-letnią firmę od klimatyzacji i ogrzewania. Masz 90 dni, żeby "ściągnąć" całą wiedzę z głowy poprzedniego właściciela. Pomysł: agent AI, który prowadzi pierwsze 90 dni osoby, która właśnie kupiła małą firmę. Dlaczego teraz: pokolenie boomerów sprzedaje swoje firmy, a kupują je osoby robiące to pierwszy raz. Ponad połowa potencjalnych kupujących nigdy nie prowadziła firmy. 86% kupujących szuka stabilnego biznesu odpornego na recesję. Branże usługowe przechodzą do cyfry: ServiceTitan zarobił 292,8 mln dolarów w ostatnim kwartale na oprogramowaniu dla fachowców. Po 90 dniach właściciel ma agenta, który zna całą firmę i może działać jako jego asystent na pełen etat.
+
+🛠️ Taktyka dnia: szukaj klientów w ogłoszeniach o pracę
+Firmy w ogłoszeniach rekrutacyjnych wypisują problemy, które muszą rozwiązać. Przeczytaj 20 ogłoszeń na podobne stanowiska w branży, którą znasz. Szukaj zadań, które się powtarzają: kopiowanie, sprawdzanie, przypominanie, aktualizowanie. Zbuduj agenta wokół tych zadań. Wymagania z ogłoszenia od razu potwierdzają, że produkt ma sens.
+
+📎 Dodatkowo: wstęp o czapce z ponad 100 tysiącami czujników wplecionych w materiał, która ma odczytywać myśli i wysyłać je prosto do agentów AI. Reszta to piątkowe zachęty, quiz o typie założyciela, odpowiedź do redakcji i agenci IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Sam agent dla kupujących firmy to nie Twój rynek, ale problem "wiedza siedzi w głowie jednej osoby" znasz z produkcji wideo. Dla ARTMAKESENSESTUDIO to gotowy produkt: "film przekazania wiedzy". Gdy właściciel lokalu, piekarni albo warsztatu przekazuje firmę lub szkoli nowego kierownika, nagrywasz 5 do 8 krótkich filmów instruktażowych: jak otwiera zmianę, jak robi kluczowe danie, jak rozmawia z dostawcą. Wycena jako pakiet, nie dniówka. Te nagrania są potem gotowym materiałem do zasilenia agenta AI, więc sprzedajesz coś, co za rok będzie jeszcze cenniejsze.
+
+Dla Studio F to argument do rozmowy z ich klientami z gastronomii: kuchnie mają dużą rotację, a receptury i standardy podania często nie są nigdzie spisane. Seria wewnętrznych filmów "standard dania" to zlecenie poza kampanią reklamową, przy okazji tych samych zdjęć na planie. Zaproponuj to jako dodatek do najbliższej realizacji.
+
+Taktyka z ogłoszeniami jest dla Ciebie od razu do wykonania. Przeczytaj w tym tygodniu 20 ogłoszeń na stanowiska "content creator", "specjalista social media" i "videomaker" w firmach food i restauracjach. Wypisz powtarzające się zadania. To są gotowe pytania do Video Audit (czy marka ma te zadania pokryte) i gotowe pozycje do Quote Buildera, bo pokazują, za co firmy realnie płacą, gdy zatrudniają kogoś na etat. Ogłoszenie z wymaganiem "montaż 15 rolek miesięcznie" to jednocześnie lead: ta firma potrzebuje wideo, a etat kosztuje ją więcej niż pakiet od studia.
+
+Dla Cosmic Cowboy czapka czytająca myśli to dobry temat na krótki animowany odcinek z narracją "co by zagrało, gdyby muzykę generowały myśli". Lekki, dziwny temat technologiczny dobrze pasuje do klimatu kanału.
