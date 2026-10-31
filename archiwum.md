@@ -2989,3 +2989,27 @@ Dla Studio F to argument do rozmowy z ich klientami z gastronomii: kuchnie mają
 Taktyka z ogłoszeniami jest dla Ciebie od razu do wykonania. Przeczytaj w tym tygodniu 20 ogłoszeń na stanowiska "content creator", "specjalista social media" i "videomaker" w firmach food i restauracjach. Wypisz powtarzające się zadania. To są gotowe pytania do Video Audit (czy marka ma te zadania pokryte) i gotowe pozycje do Quote Buildera, bo pokazują, za co firmy realnie płacą, gdy zatrudniają kogoś na etat. Ogłoszenie z wymaganiem "montaż 15 rolek miesięcznie" to jednocześnie lead: ta firma potrzebuje wideo, a etat kosztuje ją więcej niż pakiet od studia.
 
 Dla Cosmic Cowboy czapka czytająca myśli to dobry temat na krótki animowany odcinek z narracją "co by zagrało, gdyby muzykę generowały myśli". Lekki, dziwny temat technologiczny dobrze pasuje do klimatu kanału.
+
+
+---
+
+📅 GOOD MORNING - 31 października 2026
+
+💡 Agent, który pilnuje "widmowych" wpisów terapeutów w katalogach ubezpieczycieli
+Pacjenci szukają terapeutów w katalogach ubezpieczycieli, ale trafiają na ślepe zaułki: stary numer telefonu, stary adres, zła specjalizacja. Terapeuta traci przez to nowych pacjentów, czyli pieniądze. Pomysł: agent, który co kilka tygodni sprawdza wpis terapeuty w katalogu każdego ubezpieczyciela (telefon, adres, specjalizacja), a gdy coś się nie zgadza, wysyła wniosek o poprawkę, śledzi go i raz w miesiącu wysyła terapeucie raport. Przykładowy raport: jedna praktyka, 4 ubezpieczycieli, 3 błędne wpisy (stary telefon, terapia dzieci przy praktyce tylko dla dorosłych, stary adres), 1 poprawny. Dlaczego teraz: regulatorzy wymuszają poprawki, rząd USA zaproponował, żeby plany Medicare sprawdzały każdy wpis co 90 dni i raportowały wskaźnik dokładności. Badanie "tajemniczego klienta": mniej niż 1 na 4 telefony do wymienionych terapeutów kończył się wizytą, w 56% przypadków dane w katalogu były błędne, w 22% terapeuta nie miał miejsca, tylko 24% umówiło wizytę. Autor widzi to jako prostą ofertę na wejście.
+
+🌍 Trend: Wi-Fi w samolotach staje się naprawdę dobre
+American Airlines ponad dwukrotnie zwiększyło zamówienie na Starlink od maja: z ponad 500 do ponad 1030 samolotów i obejmie nim całą flotę. Aer Lingus daje Starlink za darmo w samolotach, które go mają, Vietjet obiecał darmowe Wi-Fi na wszystkich lotach, easyJet podpisał umowę w tym tygodniu. Cały samolot z szybkim internetem to nowa publiczność i nowe środowisko. Pomysły autora: treści trwające dokładnie tyle, ile lot, sieć społecznościowa tylko dla jednego lotu, wspólne gry pokładowe.
+
+📎 Dodatkowo: wstęp o halloweenowym krótkim filmie o maskotce Claude Code, której "ghost" kompresuje pamięć. Film powstał w 100% z kodu, bez modeli do obrazu i wideo. Wniosek autora: jeśli masz gust, technologia daje dziś ogromne możliwości. Reszta to stopka z quizem o typie założyciela, odpowiedzią do redakcji i agentami IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Sam agent dla terapeutów to rynek USA i ubezpieczeń, nie Twój. Ale mechanizm "sprawdzam, czy dane o firmie w sieci są prawdziwe, i pokazuję raport z listą błędów" przenosi się 1:1 na lokale food. Restauracje mają ten sam problem: stare godziny otwarcia w Google, nieaktualne menu w aplikacjach dostawczych, zdjęcia sprzed remontu, zły numer telefonu. To gotowy, darmowy moduł wejściowy do Video Audit: "raport widmowych wpisów" dla lokalu, czyli tabela jak w mailu (Google, Facebook, Instagram, Pyszne/Glovo/Wolt, TripAdvisor) z kolumną "co się nie zgadza". Czas na pierwszy raport: 30 do 45 minut ręcznie. Taki raport otwiera rozmowę lepiej niż ocena filmów, bo pokazuje stratę klientów w liczbach, a potem naturalnie prowadzi do pytania "a zdjęcia i wideo w tych wpisach są z którego roku?".
+
+Dla ARTMAKESENSESTUDIO i Studio F to argument do pakietu: odświeżenie zdjęć dań i krótkich filmów we wszystkich katalogach naraz, z kwartalnym przeglądem, czy wszędzie wiszą aktualne materiały. Zamiast jednorazowej sesji sprzedajesz stały przegląd co 90 dni, dokładnie w rytmie, jaki proponuje regulator w mailu. W Quote Builderze dodaj pozycję "aktualizacja materiałów w katalogach i aplikacjach dostawczych" jako opcję cykliczną.
+
+Trend z Wi-Fi w samolotach to dla Cosmic Cowboy konkretny format: miks muzyki generatywnej z animacją dopasowany długością do typowego lotu, na przykład "90 minut lotu do Londynu" albo "3 godziny do Wysp Kanaryjskich". Długie, spokojne sety to treść, którą ludzie odpalają w samolocie, a tytuł z czasem lotu jest łatwy do wyszukania.
+
+Wstęp o filmie zrobionym w całości z kodu to dla Cosmic Cowboy sygnał wprost: animacja generatywna pisana kodem jest już na poziomie, który robi wrażenie bez modeli wideo. Zrób jeden krótki test animacji w kodzie (na przykład kosmiczne tło reagujące na rytm), żeby sprawdzić, czy to tańsza i bardziej rozpoznawalna droga niż generatory wideo.
