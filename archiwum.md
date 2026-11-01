@@ -3013,3 +3013,27 @@ Dla ARTMAKESENSESTUDIO i Studio F to argument do pakietu: odświeżenie zdjęć 
 Trend z Wi-Fi w samolotach to dla Cosmic Cowboy konkretny format: miks muzyki generatywnej z animacją dopasowany długością do typowego lotu, na przykład "90 minut lotu do Londynu" albo "3 godziny do Wysp Kanaryjskich". Długie, spokojne sety to treść, którą ludzie odpalają w samolocie, a tytuł z czasem lotu jest łatwy do wyszukania.
 
 Wstęp o filmie zrobionym w całości z kodu to dla Cosmic Cowboy sygnał wprost: animacja generatywna pisana kodem jest już na poziomie, który robi wrażenie bez modeli wideo. Zrób jeden krótki test animacji w kodzie (na przykład kosmiczne tło reagujące na rytm), żeby sprawdzić, czy to tańsza i bardziej rozpoznawalna droga niż generatory wideo.
+
+
+---
+
+📅 GOOD MORNING - 1 listopada 2026
+
+💡 Tajemniczy klient dla reklam w czatach AI
+Ludzie coraz rzadziej szukają w Google, a coraz częściej pytają ChatGPT, co kupić, i ci kupujący faktycznie kupują (źródło: raport Adobe Digital Insights o ruchu z AI, sierpień 2026). Reklamy przenoszą się więc do czatu. Ale marka, która płaci za taką reklamę, nie wie, czy ona się wyświetla i czy działa. Pomysł: codziennie wpisuj w ChatGPT, Gemini i Perplexity zapytania, które wpisują prawdziwi klienci (na przykład "najlepsze buty do biegania do 150 dolarów"), rób zrzut ekranu każdej odpowiedzi i oddawaj marce dowody: czy reklama się pokazała, czy była oznaczona jako sponsorowana, kto pojawił się obok. Narzędzia AEO sprawdzają, czy marka pojawia się w odpowiedziach AI, ten pomysł to samo, tylko zawężone do reklam. Autor radzi zacząć jako agencja i z czasem zbudować wersję produktową.
+
+🛠️ Taktyka dnia: zamień najlepiej sprzedające się szablony z Etsy w oprogramowanie
+Ludzie kupują na Etsy szablony za 5 do 15 dolarów: budżet ślubu, tracker wynajmu, planer posiłków. Ale szablon tylko leży, całą pracę i tak robisz sam. Zbuduj z bestsellera proste narzędzie, rozdawaj je za darmo jak szablon, a płatną wersję sprzedawaj za to, że robi pracę za klienta. Przykład: darmowe narzędzie do budżetu ślubu śledzi wydatki, płatne przypomina, że zaliczka dla florystki jest do piątku, i pisze maila. Wybierz grupę, którą znasz, znajdź na Etsy szablony z odznaką Bestseller albo z największą liczbą opinii, zbuduj darmową wersję i pobieraj opłatę za część, która wykonuje pracę.
+
+📎 Dodatkowo: wstęp o fabryce w USA, która odwróciła klasyczną linię montażową i produkuje płytki drukowane na zamówienie, taniej i dwa razy szybciej niż w Shenzhen. Reszta to ankieta, z jakiego agenta AI korzystasz, niedzielna zachęta do budowania, quiz o typie założyciela, odpowiedź do redakcji i agenci IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Sam monitoring reklam w czatach AI to na razie rynek dużych marek e-commerce w USA, w Polsce reklamy w ChatGPT dopiero raczkują. Ale mechanizm "wpisuję pytania klientów do AI i pokazuję zrzuty ekranu" to gotowy, darmowy dodatek do Video Audit już dziś. Dla lokalu food wpisz w ChatGPT, Gemini i Perplexity 5 pytań, które zadaje głodny klient ("gdzie zjeść dobry ramen w Krakowie", "najlepsza pizza na dowóz na Mokotowie") i pokaż, czy marka w ogóle się pojawia, kto jest obok i jakie zdjęcia czy opisy AI cytuje. Czas: 20 minut, a zrzut ekranu z konkurencją w odpowiedzi działa mocniej niż jakakolwiek ocena filmów. To naturalnie prowadzi do pytania, czy marka ma w sieci treści, które AI może zacytować.
+
+Dla Studio F to argument do rozmowy z ich klientami: kampania wideo dla marki food to dziś też materiał, który AI czyta i streszcza (opisy, napisy, strony produktów). Raz na kwartał zrób dla jednego klienta "raport z czatu AI" przed i po kampanii. To mały, mierzalny dowód efektu, którego studia reklamowe zwykle nie pokazują.
+
+Taktyka z Etsy pasuje do Quote Buildera jeden do jednego. Wyszukaj na Etsy "video quote template", "videographer pricing guide", "photography invoice template" i zobacz, które mają odznakę Bestseller i najwięcej opinii. Każdy taki szablon to dowód, że freelancerzy wideo płacą za uporządkowanie wycen. Darmowa wersja Quote Buildera robi to, co szablon (pozycje i suma), płatna robi pracę: przypomina o zaliczce przed dniem zdjęciowym, generuje maila z wyceną i pilnuje, czy klient ją otworzył. Zapytaj agenta z maila o listę tych szablonów i o to, co kupujący dalej robi ręcznie, i z odpowiedzi wypisz 3 funkcje płatnej wersji.
+
+Dla Cosmic Cowboy wstęp o fabryce płytek na zamówienie to dobry temat na krótką animację: hipnotyczna, odwrócona linia montażowa w rytmie muzyki generatywnej. Maszyny i powtarzalny ruch dobrze siedzą w klimacie kanału.
