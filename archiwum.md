@@ -3037,3 +3037,27 @@ Dla Studio F to argument do rozmowy z ich klientami: kampania wideo dla marki fo
 Taktyka z Etsy pasuje do Quote Buildera jeden do jednego. Wyszukaj na Etsy "video quote template", "videographer pricing guide", "photography invoice template" i zobacz, które mają odznakę Bestseller i najwięcej opinii. Każdy taki szablon to dowód, że freelancerzy wideo płacą za uporządkowanie wycen. Darmowa wersja Quote Buildera robi to, co szablon (pozycje i suma), płatna robi pracę: przypomina o zaliczce przed dniem zdjęciowym, generuje maila z wyceną i pilnuje, czy klient ją otworzył. Zapytaj agenta z maila o listę tych szablonów i o to, co kupujący dalej robi ręcznie, i z odpowiedzi wypisz 3 funkcje płatnej wersji.
 
 Dla Cosmic Cowboy wstęp o fabryce płytek na zamówienie to dobry temat na krótką animację: hipnotyczna, odwrócona linia montażowa w rytmie muzyki generatywnej. Maszyny i powtarzalny ruch dobrze siedzą w klimacie kanału.
+
+
+---
+
+📅 GOOD MORNING - 2 listopada 2026
+
+💡 Raport "dowód pracy" dla programistów
+Programista przez 2 lata buduje wewnętrzne narzędzia w banku, objęty NDA. Rekruter prosi o pokazanie dorobku, a on ma pusty GitHub. Pomysł: "GitHub dla CV". Narzędzie czyta historię commitów lokalnie, na komputerze programisty, usuwa kod, nazwy repozytoriów i firmy. Zostaje dowód pracy: jak często wypuszczał zmiany, ile zrobił code review, jak długo został w projekcie. Dlaczego teraz: pracodawcy dostają zalecenia, żeby przynajmniej raz zweryfikować zdalnego programistę na żywo przed zatrudnieniem, pokazywanie zanonimizowanej aktywności z prywatnych repozytoriów już istnieje (więc "dowód bez tajemnic" ma precedens), a rekruterzy co roku trafiają na więcej zmyślonego doświadczenia. To dobry moment, żeby sprzedawać dowód.
+
+🛠️ Taktyka dnia: nie ucz klientów o swojej konkurencji
+Wispr Flow wysłał klientowi instrukcję krok po kroku, jak wyłączyć dyktowanie głosowe w Granoli. Klient nawet nie wiedział, że Granola ma taką funkcję. Włączył ją i anulował subskrypcję Wispr. Twoi klienci myślą o konkurencji dużo rzadziej niż Ty. Nie przypominaj im o niej.
+
+📎 Dodatkowo: wstęp o IKEA, która uruchomiła własny marketplace odsprzedaży swoich produktów. Skanujesz produkt, IKEA podaje zdjęcie, cenę i opis do ogłoszenia, a pieniądze dostajesz w gotówce albo jako kredyt w IKEA. Autor pyta, czemu więcej marek nie prowadzi własnego rynku odsprzedaży. Reszta to quiz o typie założyciela, zaproszenie do odpowiedzi z tym, co budujesz, i agenci IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Sam produkt dla programistów jest daleko od Twojego podwórka, ale problem jest ten sam co u montażysty i operatora: najlepsza praca leży pod NDA albo w materiałach klienta, którego nie wolno pokazać. Dla ARTMAKESENSESTUDIO to gotowy pomysł na stronę "dowodu pracy" bez łamania umów: zamiast filmów liczby i fakty, na przykład "42 spoty dla marek food w 2026, średnio 3 wersje formatu na kampanię, czas od zdjęć do publikacji 6 dni, 80% klientów wraca". Do tego kadry z rozmytym logo albo makingofy z planu bez produktu. Zrób to raz w Notion lub na jednej podstronie i podawaj link zamiast reelu, gdy klient nie zgadza się na publikację.
+
+Dla Quote Buildera to możliwa funkcja na później: z historii zapisanych wycen generuje się zanonimizowany "raport doświadczenia" freelancera (ile projektów, jakie typy, średni budżet, ile wycen przyjętych). Freelancer wideo wkleja go do oferty jako dowód, że nie jest nowicjuszem. To też powód, żeby wyceny trzymać w aplikacji, a nie w Excelu, czyli argument za retencją.
+
+Taktyka z Wispr Flow to przestroga przy Video Audit i rozmowach Studio F z klientami: w raporcie pokazuj, co marka może zrobić lepiej, a nie listę funkcji czy usług konkurencyjnego studia. Porównanie z konkurencją tak, ale tylko z konkurencyjną marką klienta (kto lepiej filmuje dania), nigdy z innym dostawcą wideo. To samo w mailach Quote Buildera: żadnych "w odróżnieniu od narzędzia X".
+
+Wątek IKEA dla Studio F: marka food nie odsprzedaje używanych produktów, ale mechanizm "skanujesz, a marka daje Ci gotowe zdjęcie i opis" to pomysł na usługę dla sklepów i producentów z ich klientów: biblioteka gotowych krótkich wideo produktowych, które sprzedawcy i dystrybutorzy biorą jednym kliknięciem. Dla Cosmic Cowboy: skanowanie mebla i jego "drugie życie" to wdzięczny motyw na krótką animację z pętlą muzyczną.
