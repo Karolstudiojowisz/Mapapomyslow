@@ -3061,3 +3061,29 @@ Dla Quote Buildera to możliwa funkcja na później: z historii zapisanych wycen
 Taktyka z Wispr Flow to przestroga przy Video Audit i rozmowach Studio F z klientami: w raporcie pokazuj, co marka może zrobić lepiej, a nie listę funkcji czy usług konkurencyjnego studia. Porównanie z konkurencją tak, ale tylko z konkurencyjną marką klienta (kto lepiej filmuje dania), nigdy z innym dostawcą wideo. To samo w mailach Quote Buildera: żadnych "w odróżnieniu od narzędzia X".
 
 Wątek IKEA dla Studio F: marka food nie odsprzedaje używanych produktów, ale mechanizm "skanujesz, a marka daje Ci gotowe zdjęcie i opis" to pomysł na usługę dla sklepów i producentów z ich klientów: biblioteka gotowych krótkich wideo produktowych, które sprzedawcy i dystrybutorzy biorą jednym kliknięciem. Dla Cosmic Cowboy: skanowanie mebla i jego "drugie życie" to wdzięczny motyw na krótką animację z pętlą muzyczną.
+
+
+---
+
+📅 GOOD MORNING - 3 listopada 2026
+
+💡 Licznik kosztów agenta AI dla zakończonych zadań
+Na zewnątrz widać tylko "zgłoszenie rozwiązane". Za kulisami agent ponowił próbę 3 razy, wywołał 5 narzędzi i 2 razy zmienił model. Ile to kosztowało? Nikt nie wie. Pomysł: licznik kosztów dla typowych zadań agentów, na przykład obsługi zgłoszeń klientów, czyli "dowód pracy" dla agenta, który pokazuje najdroższe kroki i pozwala ciąć koszty. Dlaczego teraz: AI coraz częściej kupuje się za wykonane zadanie, a nie za licencję, więc ktoś musi liczyć koszt każdego zadania. Puszczenie agenta na jedno zadanie potrafi kosztować ponad 5 razy więcej niż odpowiedź chatbota (źródło: State of FinOps 2026, odsetek zespołów FinOps zarządzających wydatkami na AI). Możliwe formy zależnie od klienta: rozszerzenie przeglądarki, dashboard kosztów albo alert na Slacku lub mailem.
+
+🌍 Trend: urządzenia do noszenia sprawdzają zdrowie w czasie snu
+Pierścień Oura wychwytuje w nocy wzorce ciśnienia i problemy z oddychaniem, nowy tracker Google pokazuje trendy ciśnienia i insuliny, zegarek i pierścień Samsunga dzielą ryzyko bezdechu sennego na trzy poziomy, a Pod 6 od Eight Sleep mierzy tętno, HRV, oddech, fazy snu i chrapanie bez niczego na ręce. Nadgarstek staje się pierwszym badaniem kontrolnym. Te dane tworzą nowy moment "i co teraz?" w opiece zdrowotnej, a spersonalizowana medycyna dopiero się zaczyna. Future Clinic wypuściło właśnie serwer MCP.
+
+📎 Dodatkowo: wstęp o agentach, które obsługują cały komputer własnym kursorem i robią kilka rzeczy naraz (następna fala po agentach w przeglądarce). Autor testował, jest jeszcze wcześnie, bo nie powstał system operacyjny projektowany pod agentów. Reszta to quiz o typie założyciela, zaproszenie do odpowiedzi z tym, co budujesz, i agenci IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Ten pomysł ma bezpośrednie przełożenie na Twoją pracę z AI do wideo. Przy generowaniu ujęć widać tylko gotowy klip, a za nim są dziesiątki prób, zmiany modeli i upscale, które zjadają kredyty. Zrób dla jednego najbliższego projektu prostą tabelę: ujęcie, model, liczba prób, zużyte kredyty, czas. Po jednym projekcie będziesz wiedział, ile naprawdę kosztuje jedna sekunda gotowego materiału AI i które ujęcia są najdroższe w poprawkach.
+
+Dla Quote Buildera to brakująca pozycja w wycenie: "koszt generacji AI" liczony z historii, a nie na oko. Funkcja na później: freelancer wpisuje typ ujęcia AI i liczbę wersji, a kalkulator dolicza średni koszt prób i bufor na poprawki. Większość freelancerów wideo dziś wlicza AI ryczałtem i traci na projektach z wieloma rundami poprawek, więc to konkretny argument sprzedażowy.
+
+Dla Studio F ta sama tabela to argument w rozmowie z klientami food: pokazujesz, ile kosztuje każda dodatkowa wersja ujęcia AI, i ustalasz z góry limit rund poprawek w ofercie. To chroni marżę studia przy kampaniach, w których klient prosi o "jeszcze jedną wersję" dania.
+
+Dla Cosmic Cowboy to samo w małej skali: licz kredyty i próby na jeden odcinek, żeby wiedzieć, ile kosztuje utrzymanie regularnego rytmu publikacji. Kulisy "ile prób kosztował ten kadr" to też dobry, szczery materiał na krótki film zza sceny.
+
+Trend z urządzeniami do snu to dla Ciebie rynek klientów, nie produkt: marki health tech potrzebują filmów, które tłumaczą dane z wykresów na prostą historię. Dla Cosmic Cowboy wizualizacja danych snu (tętno, fazy, oddech) jako animacja z generatywną muzyką to mocny, nietypowy motyw na odcinek.
