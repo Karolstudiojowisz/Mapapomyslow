@@ -3087,3 +3087,26 @@ Dla Studio F ta sama tabela to argument w rozmowie z klientami food: pokazujesz,
 Dla Cosmic Cowboy to samo w małej skali: licz kredyty i próby na jeden odcinek, żeby wiedzieć, ile kosztuje utrzymanie regularnego rytmu publikacji. Kulisy "ile prób kosztował ten kadr" to też dobry, szczery materiał na krótki film zza sceny.
 
 Trend z urządzeniami do snu to dla Ciebie rynek klientów, nie produkt: marki health tech potrzebują filmów, które tłumaczą dane z wykresów na prostą historię. Dla Cosmic Cowboy wizualizacja danych snu (tętno, fazy, oddech) jako animacja z generatywną muzyką to mocny, nietypowy motyw na odcinek.
+
+
+---
+
+📅 GOOD MORNING - 4 listopada 2026
+
+💡 Lista oczekujących na SMS, która sprzedaje za Ciebie
+Klienci ciągle pytają: "Macie to w rozmiarze 43?". Sprzedawca odpowiada "Nie, ale dam znać" i nikt nigdy nie oddzwania. Powiadomienia "znowu dostępne" nie działają, gdy każdy towar jest jedyny w swoim rodzaju: buty, vintage, torebki, gitary. Pomysł: CRM, który obserwuje stan magazynu i sam wysyła spersonalizowane SMS-y do klientów, którzy wcześniej pytali o dany typ rzeczy. Dlaczego teraz: światowy rynek odzieży z drugiej ręki urósł ze 141 do 257 mld dolarów (ThredUp Resale Report, styczeń 2026). AI tworzy nową kategorię: spersonalizowane mini aplikacje, które zwiększają przychody lokalnych firm.
+
+📎 Dodatkowo: wstęp o pomyśle na studio zabawnych aplikacji na Maca, które robią z nudnych narzędzi coś śmiesznego (robot odkurzacz wciąga pliki do Docka, czyszczenie dysku jako Pac-Man zjadający śmieci, skrzynka, z której zapaśnik sumo wypycha spam, menedżer haseł z bramkarzem). Cool product: retro wyświetlacz LED 64x32 na biurko, który zebrał ponad 11 razy więcej niż cel zbiórki, uruchamia ponad 50 małych aplikacji i pokazuje powiadomienia z telefonu, żeby rzadziej po niego sięgać. Reszta to quiz o typie założyciela, zaproszenie do odpowiedzi z tym, co budujesz, i agenci IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Mechanizm "zapisz, kto o co pytał, i odezwij się, gdy to się pojawi" pasuje do ARTMAKESENSESTUDIO bardziej, niż wygląda. Klienci często mówią "teraz nie ma budżetu, wróćmy do tematu przed świętami" albo "odezwij się, jak będziesz miał wolny termin na zdjęcia w plenerze". Załóż prostą tabelę w Notion: kto, o co pytał, kiedy, jaki wyzwalacz (budżet od stycznia, nowa kolekcja, sezon grillowy). Raz w tygodniu przeglądasz wyzwalacze i wysyłasz krótką, osobistą wiadomość z konkretem: "Mam wolne 2 dni zdjęciowe w marcu, pamiętam o Waszej nowej linii sosów".
+
+Dla Studio F to gotowy pomysł na usługę dla klientów food z lokalnym handlem: piekarnie, delikatesy, lokale z sezonowym menu. Krótki pionowy film "wróciło" (pączki z różą, zupa dyniowa, limitowana partia) wysyłany SMS-em do osób, które o to pytały, sprzedaje lepiej niż sam tekst. Studio F robi pakiet 10 takich klipów na sezon, a marka ma gotowy materiał do własnych powiadomień.
+
+Dla Quote Buildera to funkcja na później z dużą wartością retencyjną: przy każdej wycenie odrzuconej z powodu terminu lub budżetu freelancer zaznacza "wróć do tego" z datą, a aplikacja przypomina i podsuwa gotową wiadomość z odświeżoną wyceną. Odrzucona wycena przestaje być stratą, a staje się listą oczekujących.
+
+Dla Video Audit: lista oczekujących działa jako lead magnet. Marki, które jeszcze nie kupują audytu, zostawiają kontakt i temat ("chcemy więcej wyświetleń reelsów z daniami"), a Ty odzywasz się, gdy masz przykład albo wolny termin.
+
+Wstęp o zabawnych aplikacjach to wskazówka dla Cosmic Cowboy: zwykła czynność pokazana jako mała animowana scenka (robot wciągający pliki, sumo wypychające spam) to format krótkich pętli z muzyką, który łatwo zrobić seryjnie. Wyświetlacz LED z pikselową grafiką to też gotowa estetyka na odcinek w stylu retro.
