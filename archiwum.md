@@ -3136,3 +3136,27 @@ Taktyka dnia jest dla Ciebie najcenniejsza. Skill z "setką drobnych decyzji" to
 Dla Cosmic Cowboy to samo podejście: spisane zasady stylu (paleta, tempo animacji pod BPM, typ przejść) dają spójność serii i pozwalają generować kolejne odcinki szybciej.
 
 Wstęp o przejęciach to ciekawostka bez bezpośredniego przełożenia. Jedyny wniosek: małe narzędzie, które robi jedną rzecz bardzo dobrze, ma wartość samo w sobie, więc Quote Builder nie musi być od razu pełnym systemem do zarządzania studiem.
+
+
+---
+
+📅 GOOD MORNING - 6 listopada 2026
+
+💡 Aplikacja językowa pod Twoją najbliższą ważną rozmowę
+Za trzy tygodnie kolacja z hiszpańskojęzyczną rodziną partnera, a w zanadrzu tylko "Hola" i "Gracias". Ogólny kurs językowy nie pomoże na czas. Pomysł: aplikacja, w której wpisujesz sytuację, która Cię czeka (kolacja z rodziną, rozmowa o pracę w Madrycie), i od razu ćwiczysz dokładnie tę rozmowę, z podpowiedziami zwrotów, gdy utkniesz. Do tego kontekst kulturowy: jak formalnie się zwracać, co przynieść, czego nie mówić. Dlaczego teraz: około 3400 wyszukiwań miesięcznie fraz o ćwiczeniu rozmowy w obcym języku, 11% więcej niż rok temu. Studenci ćwiczący z partnerem AI wypadli lepiej na teście mówienia i mniej się stresowali w rozmowach w parach. Gotowe pakiety scenariuszy: przygotowanie do rozmowy o pracę, podróże, wizyty u rodziny i przeprowadzki, pakiety zespołowe dla pracodawców i rekruterów.
+
+🌍 Trend: sklepy spożywcze robią marketing pod klientów na lekach GLP-1
+Około 1 na 9 dorosłych w USA przyjmuje GLP-1, a sieci spożywcze budują wokół tego ofertę. Hy-Vee stworzyło sześciotygodniowy kurs z dietetykami dla osób na tych lekach i rozdało pierwsze 1000 miejsc za darmo. ShopRite daje darmowy zestaw startowy każdemu, kto realizuje pierwszą receptę, z przewodnikiem alejka po alejce i próbkami. Giant i Martin's prowadzą darmowe wycieczki po sklepie i cotygodniowe zajęcia online. Sklepy chcą złapać klienta jak najwcześniej na tej drodze, więc narzędzie, które pomoże im towarzyszyć mu na każdym etapie, ma kupca.
+
+📎 Dodatkowo: wstęp o kolekcji rekomendacji książek z Hacker News, przeglądalnej z danymi i komentarzami, ładnie wyselekcjonowanej. Reszta to zachęta do mocnego końca tygodnia, quiz o typie założyciela, zaproszenie do odpowiedzi z tym, co budujesz, i podłączenie agentów IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Rdzeń idei to "ćwiczysz dokładnie tę sytuację, która Cię czeka, a nie ogólny kurs". To wprost przekłada się na Video Audit: zamiast ogólnego raportu o wideo marki, klient wpisuje konkretną sytuację ("premiera nowego burgera za 3 tygodnie", "otwarcie drugiego lokalu", "kampania świąteczna"), a Ty dajesz diagnozę i plan 3 do 5 materiałów dokładnie pod to wydarzenie. Pakiety scenariuszy z idei to gotowa struktura oferty: "Audyt przed premierą produktu", "Audyt przed sezonem", "Audyt przed otwarciem lokalu", każdy z własną listą kontrolną i stałą ceną.
+
+Dla Quote Buildera ten sam mechanizm: zamiast pustego formularza freelancer wybiera scenariusz ("reklama produktowa food 30 s", "relacja z eventu", "seria 10 reelsów") i dostaje gotową strukturę wyceny z typowymi pozycjami. To skraca pierwszą wycenę do minuty i jest dobrym ekranem startowym aplikacji z kursu.
+
+Trend GLP-1 to temat dla Studio F. Marki spożywcze i sieci w Polsce za chwilę zaczną komunikować mniejsze porcje, białko i produkty "sycące przy małej ilości". To nowy typ zdjęć i krótkich filmów: mniejsze porcje podane apetycznie, nie dietetycznie. Studio F może przygotować testowy zestaw 5 ujęć "mała porcja, duży apetyt" do portfolio i pokazać go klientom food jako gotową odpowiedź na trend, zanim sami o to poproszą. Sześciotygodniowy kurs z dietetykami z Hy-Vee to też format: seria krótkich odcinków wideo dla marki, w której ARTMAKESENSESTUDIO robi całą produkcję.
+
+Dla Cosmic Cowboy wniosek z idei jest jeden: odcinek pod konkretną chwilę widza (muzyka do skupienia przed spotkaniem, do wieczornego wyciszenia) daje lepszy tytuł i wyszukiwanie niż ogólna "muzyka generatywna".
