@@ -3160,3 +3160,26 @@ Dla Quote Buildera ten sam mechanizm: zamiast pustego formularza freelancer wybi
 Trend GLP-1 to temat dla Studio F. Marki spożywcze i sieci w Polsce za chwilę zaczną komunikować mniejsze porcje, białko i produkty "sycące przy małej ilości". To nowy typ zdjęć i krótkich filmów: mniejsze porcje podane apetycznie, nie dietetycznie. Studio F może przygotować testowy zestaw 5 ujęć "mała porcja, duży apetyt" do portfolio i pokazać go klientom food jako gotową odpowiedź na trend, zanim sami o to poproszą. Sześciotygodniowy kurs z dietetykami z Hy-Vee to też format: seria krótkich odcinków wideo dla marki, w której ARTMAKESENSESTUDIO robi całą produkcję.
 
 Dla Cosmic Cowboy wniosek z idei jest jeden: odcinek pod konkretną chwilę widza (muzyka do skupienia przed spotkaniem, do wieczornego wyciszenia) daje lepszy tytuł i wyszukiwanie niż ogólna "muzyka generatywna".
+
+
+---
+
+📅 GOOD MORNING - 7 listopada 2026
+
+💡 Kopia zapasowa całego biznesu twórcy
+Gdy twórca traci dostęp do kont społecznościowych, traci cały biznes. Wyszukiwania o odzyskiwaniu konta wzrosły o 50%. Jeśli Instagram zostanie zablokowany i nigdy nie wróci, znikają też wszystkie posty, a bez kopii lata pracy przepadają w jednej chwili. Pomysł: platforma, która przez API łączy Instagram, YouTube i TikTok i zapisuje wszystkie treści oraz dane w prywatnym sejfie. Gdy konto padnie, agent zaczyna wrzucać posty od nowa na nowe konto. Dlaczego teraz: youtuber z 87 400 subskrybentami obudził się z usuniętym kanałem i twierdzi, że nie dostał żadnego ostrzeżenia. Narzędzia do kopii istnieją (osobne dla YouTube, eksport danych Instagrama), ale są rozproszone. Miliony ludzi budują biznes na wynajętych platformach, więc to zagranie w stylu ubezpieczenia i odtwarzania po awarii.
+
+📎 Dodatkowo: wstęp o małej sieci społecznościowej, która przypomina dawną tablicę na Facebooku połączoną z MS Paint (posty z pixel artem). Sobotnia lista krótkich pomysłów z bazy. Nudne biznesy: cyfrowa mapa grobów dla małych cmentarzy, aplikacja zamieniająca zdjęcia kominiarza w protokół z przeglądu, porównania cen sprzedaży dla rzeczoznawców antyków, agent umawiający wizyty na rzęsy w wiadomościach na Instagramie. Hobby: trener pływania AI (nagrywasz długość basenu, dostajesz poprawki techniki), sprawdzarka "czy to się zmieści" dla osób zabudowujących kampery, oprogramowanie do turniejów golfowych. Sprzęt: czujniki w mroźniach ostrzegające przed awarią, czujnik zalania za 20 dolarów dla gospodarzy Airbnb, nakrętka na opakowanie leków powiadamiająca rodzinę, mały ekran e-ink z kalendarzem rodziny na lodówce. Reszta to stopka z quizem o typie założyciela i agentami IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Ten pomysł dotyczy Ciebie bezpośrednio, bo Cosmic Cowboy to dokładnie taki biznes na wynajętej platformie. Jedno fałszywe zgłoszenie praw autorskich do muzyki albo blokada konta i znikają wszystkie odcinki, opisy, miniatury i historia. Zrób to w ten weekend: pełny eksport kanału (Google Takeout), a przede wszystkim uporządkowane archiwum źródeł na dysku poza platformą: finalny render, ścieżka audio, miniatura, tytuł, opis i tagi każdego odcinka w jednym folderze. Przy muzyce generatywnej warto trzymać tam też dowód praw do utworów i datę publikacji, bo to pierwsza rzecz, o którą pytają przy sporze. Do tego lista mailowa albo prosta strona kanału, żeby widzowie mieli drugą drogę do Ciebie.
+
+Dla Studio F i ARTMAKESENSESTUDIO to gotowa usługa dodatkowa. Marki food trzymają lata reklam tylko na Instagramie i TikToku, a surowe pliki często leżą u różnych montażystów. Pakiet "archiwum materiałów marki": zbierasz wszystkie finalne wersje, formaty i źródła w jednym uporządkowanym miejscu, z opisem kampanii i datą. Kosztuje Cię niewiele, a wiąże klienta na dłużej, bo to Ty wiesz, gdzie co jest. Można to sprzedawać jako stałą miesięczną opiekę nad biblioteką wideo.
+
+Dla Video Audit jest tu naturalny punkt listy kontrolnej: "czy marka ma kopię wszystkich swoich wideo poza platformą i czy zna prawa do muzyki w każdym z nich". Większość małych marek odpowie "nie", co od razu pokazuje wartość audytu i otwiera rozmowę o archiwum.
+
+Quote Builder może mieć opcjonalną pozycję "archiwizacja i przekazanie plików źródłowych" z gotową ceną. Freelancerzy wideo zwykle robią to za darmo albo wcale, a osobna linia w wycenie uczy klienta, że to wartość.
+
+Z sobotniej listy najbliżej Ciebie jest trener pływania AI, czyli schemat "nagraj, dostań poprawki". To ten sam mechanizm co Video Audit: klient wrzuca swoje wideo i dostaje konkretne uwagi, tylko u Ciebie dotyczą hooka, kadru i tempa.
