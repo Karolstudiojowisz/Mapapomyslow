@@ -3183,3 +3183,29 @@ Dla Video Audit jest tu naturalny punkt listy kontrolnej: "czy marka ma kopię w
 Quote Builder może mieć opcjonalną pozycję "archiwizacja i przekazanie plików źródłowych" z gotową ceną. Freelancerzy wideo zwykle robią to za darmo albo wcale, a osobna linia w wycenie uczy klienta, że to wartość.
 
 Z sobotniej listy najbliżej Ciebie jest trener pływania AI, czyli schemat "nagraj, dostań poprawki". To ten sam mechanizm co Video Audit: klient wrzuca swoje wideo i dostaje konkretne uwagi, tylko u Ciebie dotyczą hooka, kadru i tempa.
+
+
+---
+
+📅 GOOD MORNING - 8 listopada 2026
+
+💡 Bot, który robi z grupy na Discordzie albo Reddicie katalog w stylu Wirecutter
+W każdej grupie o aparatach, muzyce czy Macach co tydzień pada to samo pytanie: "Co kupić za 1000 dolarów?". Odpowiedzi są świetne, tylko zakopane w latach rozmów. Pomysł: bot czyta serwer Discord albo subreddit i wyciąga najlepsze polecenia na osobne strony typu "Najlepszy aparat do 1000 dolarów", każdą podpisaną nickiem członka, który to polecił. Ekspert z grupy zatwierdza stronę, a bot aktualizuje ją, gdy wychodzi nowy sprzęt. Właściciel grupy płaci 500 dolarów za wdrożenie i miesięczny abonament za aktualizacje. Dlaczego teraz: około 48 000 wyszukiwań miesięcznie fraz w stylu "najlepszy laptop do 1000 dolarów" i "MacBook Air czy Pro". Reddit testuje zamianę produktów wspominanych w komentarzach na polecenia z możliwością zakupu. Ludzie, którzy kiedyś szukali odpowiedzi na forach, mówią, że najlepsza wiedza utknęła w czatach, których nie da się przeszukać. Każda grupa już napisała własnego Wirecuttera, tylko rozsianego po postach.
+
+🛠️ Taktyka dnia: jak zbierać opinie o aplikacji
+Aplikacja Left ma ponad 2800 opinii w App Store ze średnią 4,7. Schemat założyciela w trzech krokach: (1) po dużej aktualizacji pokaż ekran "Co nowego", tylko kilka razy w roku; (2) zaraz po nim pokaż własny ekran prośby o opinię z cytatami innych użytkowników; (3) pomiń każdego, kto już wystawił opinię. Działa, bo prosi tylko aktywnych użytkowników i dokładnie w chwili, gdy cieszą się z nowości. Bonus: mały link "Wyślij uwagi" pod przyciskiem oceny, żeby niezadowoleni pisali do Ciebie, a nie do sklepu.
+
+📎 Dodatkowo: wstęp o MacPip, czymś w rodzaju Product Hunt tylko dla aplikacji na Maca: wystawiasz aplikację za darmo, wybierasz dzień premiery na stronie głównej, ludzie głosują. Już około 88 620 wizyt miesięcznie. Reszta to quiz o typie założyciela, zaproszenie do odpowiedzi z tym, co budujesz, i podłączenie agentów IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Rdzeń idei to "wiedza już istnieje, tylko jest rozsiana, więc uporządkuj ją w strony z rekomendacjami". Ty masz taką wiedzę w głowie: 15 lat decyzji, jaki sprzęt, jakie światło, jaki obiektyw do jedzenia. Gotowy format na treści ARTMAKESENSESTUDIO: seria stron albo krótkich filmów "Najlepsze światło do zdjęć jedzenia do 2000 zł", "Obiektyw do reklamy food: co naprawdę używam", "Zestaw do reelsów dla małej restauracji". Każda strona to fraza, którą ludzie wpisują w Google, plus link afiliacyjny albo zaproszenie do Video Audit. To też sposób na widoczność, bo takie listy są cytowane przez asystentów AI.
+
+Dla Quote Buildera idea podsuwa moduł "zestaw sprzętowy pod zlecenie": freelancer wybiera typ produkcji, a aplikacja proponuje sprawdzony zestaw i od razu wlicza wynajem do wyceny. Polecenia można zbierać od samych użytkowników, tak jak bot zbiera je z grupy, i to staje się danymi, których konkurencja nie ma.
+
+Dla Studio F to pomysł na treść marki: "najlepsze miejsca na burgera w okolicy według naszych gości" albo lista ulubionych zestawów klientów, zebrana z komentarzy i opinii, nakręcona jako seria krótkich odcinków. Polecenia od prawdziwych ludzi z podpisem są mocniejsze niż reklama.
+
+Cosmic Cowboy ma społeczność, która pyta o narzędzia: jakim programem robisz muzykę generatywną, czym animujesz. Jedna stała strona lub przypięty film "mój zestaw narzędzi" z aktualizacją raz na kwartał odpowiada na te pytania i może zarabiać na linkach partnerskich.
+
+Taktyka z opiniami przyda się wprost w aplikacji z kursu: Quote Builder może poprosić o opinię zaraz po tym, jak użytkownik wyśle klientowi pierwszą gotową wycenę, czyli w chwili zadowolenia. W Video Audit ten sam moment to dzień po oddaniu raportu: krótka prośba o opinię z cytatem innego klienta i link "napisz, co poprawić" dla tych, którym czegoś brakowało.
