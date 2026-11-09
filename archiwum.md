@@ -3209,3 +3209,32 @@ Dla Studio F to pomysł na treść marki: "najlepsze miejsca na burgera w okolic
 Cosmic Cowboy ma społeczność, która pyta o narzędzia: jakim programem robisz muzykę generatywną, czym animujesz. Jedna stała strona lub przypięty film "mój zestaw narzędzi" z aktualizacją raz na kwartał odpowiada na te pytania i może zarabiać na linkach partnerskich.
 
 Taktyka z opiniami przyda się wprost w aplikacji z kursu: Quote Builder może poprosić o opinię zaraz po tym, jak użytkownik wyśle klientowi pierwszą gotową wycenę, czyli w chwili zadowolenia. W Video Audit ten sam moment to dzień po oddaniu raportu: krótka prośba o opinię z cytatem innego klienta i link "napisz, co poprawić" dla tych, którym czegoś brakowało.
+
+
+---
+
+📅 GOOD MORNING - 9 listopada 2026
+
+💡 Tag "jak to powstało" dla rzeczy robionych ręcznie
+"Czy to naprawdę ręczna robota?" Twórcy sprzedający w sieci słyszą to pytanie ciągle i nie mają dowodu. Źródło: badanie Baymard Institute z czerwca 2026 na 2273 kupujących online w USA. Pomysł: aplikacja, w której twórca w trakcie pracy robi surowe zdjęcie, wideo albo selfie, a aplikacja zamienia to w stronę "jak to powstało" i drukuje tag z kodem QR, który jedzie razem z produktem. Dlaczego teraz: Etsy wymaga od sprzedawców co najmniej jednego nieedytowanego zdjęcia prawdziwego przedmiotu, żeby kupujący widział, co dostaje. To już się dzieje: producent luksusowych mebli daje swoim krzesłom "paszporty" pokazujące, jak powstał każdy egzemplarz. MVP w jedno popołudnie: strona ze zdjęciami i notatkami dla jednego przedmiotu (AI Studio, Claude Code, Lovable), kod QR z dub.co albo Flowcode, potem zeskanuj jak kupujący i sprawdź, czy bardziej ufasz temu przedmiotowi.
+
+🌍 Trend: ukochane aplikacje z cmentarzyska, za którymi fani wciąż tęsknią
+Suplari zostało kupione przez Microsoft, założyciele odkupili firmę 2 lata później, a teraz sprzedali ją znowu, tym razem Docusign. Duże firmy kupują produkty, które ludzie kochają, i często je zamykają, ale fani dalej ich chcą. Przykład: Microsoft kupił kalendarz Sunrise i go zamknął, co wywołało oburzenie. Kandydaci do odtworzenia: Skype, Pocket, Google Reader, Wunderlist i cała lista produktów zamkniętych przez Google.
+
+🛠️ Narzędzie dnia: darmowy skill, który pisze prompty do motion graphics
+Działa jak Midjourney dla animowanej grafiki: wpisujesz jedno zdanie, np. "5 sekund dla mojej aplikacji płatniczej, ciemny motyw", a skill rozpisuje pełny prompt: wygląd, referencje i każdy moment klipu. Pierwsza wersja wygląda więc jak coś konkretnego, a nie jak szablon. Działa z Claude Code i Codex, autor: Blake Shao ze Stewdio. Polecany do filmów premierowych i postów o zmianach w produkcie.
+
+📎 Dodatkowo: poniedziałkowa stopka z quizem o typie założyciela, zaproszeniem do odpowiedzi z tym, co budujesz, i podłączeniem agentów IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Sam tag dla rękodzielników to nie Twój rynek, ale rdzeń idei to "nagraj surowy proces i zrób z niego dowód autentyczności". To jest dokładnie to, co umiesz robić lepiej niż ktokolwiek z tej grupy. Dla Studio F i innych marek food to gotowy format: krótki film "jak to powstaje" dla konkretnego produktu (ręcznie lepione pierogi, wypiek na zakwasie, burger mielony na miejscu) plus kod QR na opakowaniu, menu albo stoliku, który prowadzi do tego filmu. Gdy w sieci coraz więcej reklam robionych przez AI, nagranie prawdziwych rąk w prawdziwej kuchni staje się argumentem sprzedażowym, nie tylko estetyką. Wycenisz to jako pakiet: dzień zdjęć w kuchni, 3 do 5 krótkich filmów procesu, strona lub link pod QR.
+
+ARTMAKESENSESTUDIO może z tego zrobić usługę z nazwą, np. "paszport produktu": seria materiałów procesowych dla małych manufaktur, piekarni, palarni kawy i rzemieślników spożywczych. Etsy wymusza nieedytowane zdjęcia, więc kupujący uczą się oczekiwać dowodu, a Ty sprzedajesz ten dowód w dobrej jakości.
+
+W Video Audit dopisz punkt: "czy marka pokazuje proces i prawdziwych ludzi, czy tylko gotowy produkt". Większość lokali pokaże tylko talerz, co od razu daje konkretną rekomendację i zlecenie.
+
+Quote Builder może mieć gotowy szablon "film procesu / paszport produktu" z pozycjami: dzień w kuchni, liczba klipów, przygotowanie strony pod QR.
+
+Narzędzie dnia przyda się Cosmic Cowboy i studiu wprost: skill do promptów motion graphics możesz wypróbować na intro kanału albo planszach tytułowych, a w studiu na animowanych napisach do reklam food. Sprawdź, czy daje lepszy punkt startu niż Twoje obecne prompty, zanim zapłacisz za cokolwiek innego. Trend z martwymi aplikacjami odłóż, to temat dla programistów, nie dla Ciebie teraz.
