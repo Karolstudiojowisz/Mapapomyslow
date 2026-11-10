@@ -3238,3 +3238,27 @@ W Video Audit dopisz punkt: "czy marka pokazuje proces i prawdziwych ludzi, czy 
 Quote Builder może mieć gotowy szablon "film procesu / paszport produktu" z pozycjami: dzień w kuchni, liczba klipów, przygotowanie strony pod QR.
 
 Narzędzie dnia przyda się Cosmic Cowboy i studiu wprost: skill do promptów motion graphics możesz wypróbować na intro kanału albo planszach tytułowych, a w studiu na animowanych napisach do reklam food. Sprawdź, czy daje lepszy punkt startu niż Twoje obecne prompty, zanim zapłacisz za cokolwiek innego. Trend z martwymi aplikacjami odłóż, to temat dla programistów, nie dla Ciebie teraz.
+
+
+---
+
+📅 GOOD MORNING - 10 listopada 2026
+
+💡 Kickstarter dla funkcji w oprogramowaniu
+Trzech klientów prosi o tę samą funkcję i każdy dorzuciłby się, żeby powstała szybko. To odwrócona nagroda: "zapłacę 50 dolarów, jeśli zrobisz to do piątku". Pomysł: strona w stylu Kickstartera dla próśb o funkcje. Klienci składają się na konkretną funkcję, a gdy zbiórka osiągnie cel, funkcja zostaje zbudowana. To grupowy zakup dla oprogramowania. Korzyść dla obu stron: firma dostaje pieniądze za budowanie tego, czego klienci naprawdę chcą, a klienci odzyskują wpłatę jako kredyt na rachunku, więc zostają na dłużej. Autor maila deklaruje, że sam zapłaciłby za to 99 dolarów.
+
+🛠️ Taktyka dnia: cold mail nie umarł, 5 zasad
+Schemat Kyley Cheever, która wysłała ponad milion zimnych maili i prowadzi agencję cold mailingu. (1) Zacznij od haczyka, nie od swojego imienia, bo masz jedną linijkę, zanim ktoś skasuje maila, a imię i tak jest w podpisie. (2) Najwyżej 4 do 5 zdań. (3) W 1 do 2 zdaniach powiedz, co robisz dla odbiorcy, bez tłumaczenia się. (4) Proś o odpowiedź, nie o zakup: myśl "jak sprawić, żeby odpisali", a nie "jak im sprzedać". (5) Pisz sam: odbiorca woli maila napisanego kciukami na telefonie niż idealny szablon z ChatGPT.
+
+📎 Dodatkowo: wstęp o badaniu zespołu ze Stanforda, który przeanalizował 3586 założycieli 1540 amerykańskich jednorożców: trzech na czterech zaczynało między 25 a 45 rokiem życia, a najstarszy, Bill Wraith III, założył firmę bateryjną Lyten. Reszta to stopka z quizem o typie założyciela, zaproszeniem do odpowiedzi z tym, co budujesz, i podłączeniem agentów IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Sama platforma do zbiórek na funkcje to produkt dla firm SaaS, nie Twój rynek. Ale mechanizm "klienci płacą z góry za to, co chcą, zanim to zbudujesz" przenosi się wprost na Quote Buildera. Zamiast zgadywać, co dodać po kursie, zrób publiczną listę 3 do 5 kolejnych funkcji (np. szablon wyceny dla reklamy food, eksport do PDF z logo, pozycje za wynajem sprzętu) i pozwól użytkownikom zarezerwować wcześniejszy dostęp za małą kwotę, zaliczaną potem na abonament. Funkcja, na którą nikt nie wpłaci, nie jest warta budowania. To najtańsza walidacja, jaką masz.
+
+W ARTMAKESENSESTUDIO ten sam model działa jako zbiórka na format: zaproponuj kilku lokalom wspólną sesję, np. "dzień zdjęć sezonowego menu" albo jedną ekipę na serię reelsów dla kilku lokali z tej samej ulicy. Gdy zapisze się minimum, np. 4 lokale, sesja rusza, a każdy płaci mniej niż za osobny dzień. Dla Studio F to może być gotowa oferta dla franczyzobiorców albo kilku punktów naraz.
+
+Cosmic Cowboy może przetestować to na widzach: "następny długi set z animacją powstanie, gdy zbierzemy X" przez patronat albo wpłaty, z nazwami wspierających w napisach.
+
+Taktyka cold maila jest dla Ciebie ważniejsza niż sam pomysł. Video Audit potrzebuje pierwszych klientów, a zasady pasują jeden do jednego: haczyk z ich konkretnego filmu ("Wasz ostatni reels z burgerem traci widzów w drugiej sekundzie"), 4 zdania, jedno zdanie o tym, co robisz, i prośba o odpowiedź, nie o zakup: "Chcesz, żebym wysłał 3 rzeczy, które bym zmienił?". Napisz pierwsze 10 takich maili sam, bez szablonu, do marek food, które już publikują wideo, i policz odpowiedzi.
