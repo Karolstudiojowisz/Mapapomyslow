@@ -3262,3 +3262,27 @@ W ARTMAKESENSESTUDIO ten sam model działa jako zbiórka na format: zaproponuj k
 Cosmic Cowboy może przetestować to na widzach: "następny długi set z animacją powstanie, gdy zbierzemy X" przez patronat albo wpłaty, z nazwami wspierających w napisach.
 
 Taktyka cold maila jest dla Ciebie ważniejsza niż sam pomysł. Video Audit potrzebuje pierwszych klientów, a zasady pasują jeden do jednego: haczyk z ich konkretnego filmu ("Wasz ostatni reels z burgerem traci widzów w drugiej sekundzie"), 4 zdania, jedno zdanie o tym, co robisz, i prośba o odpowiedź, nie o zakup: "Chcesz, żebym wysłał 3 rzeczy, które bym zmienił?". Napisz pierwsze 10 takich maili sam, bez szablonu, do marek food, które już publikują wideo, i policz odpowiedzi.
+
+
+---
+
+📅 GOOD MORNING - 11 listopada 2026
+
+💡 Planer trasy na żywo dla twórców
+YouTuber chce spotkać fanów na żywo, ale nie wie, które miasto naprawdę zapełni salę. Rezerwacja sali w ciemno stała się hazardem nawet dla największych artystów. Dlaczego teraz: spotkania na żywo rosną, ludzie chcą się widzieć bardziej niż kiedykolwiek. Rodzina z YouTube wyprzedała halę Prudential Center w Newark podobno w 25 minut, a Live Nation wspiera nową firmę dla twórców, w tym występy na żywo i trasy. Pomysł: planer trasy, w którym fani w każdym mieście wpłacają zwrotną zaliczkę (która zamienia się w ich bilet), zanim twórca zarezerwuje salę. Gdy miasto osiągnie cel, zostaje zarezerwowane, a jeśli nie, wszyscy dostają zwrot.
+
+🌍 Trend: firmy mogą przejąć swój profil w ChatGPT, 17 biznesów wokół tego
+OpenAI pozwoliło każdej firmie przejąć profil w ChatGPT. Najważniejsze: (1) firma poprawia godziny, ceny i produkty, (2) widzi, jak często ChatGPT ją wspomina, ale nie widzi zapytań ani konkurencji, (3) sklepy internetowe mogą uruchomić Business Agenta, który rozmawia z klientami, (4) firmy usługowe (agencje, hydraulicy, dentyści) "wkrótce". Ostatnio tak było z Google My Business i powstała z tego cała gospodarka. Za przejęcie profilu jest 500 dolarów na reklamy w ChatGPT. Pomysły z maila: agencja "Google My Business dla ChatGPT" (przejmij i popraw profile całej ulicy za stałą opłatę, od drzwi do drzwi), wtyczka Toast dla restauracji (zmiana ceny w kasie aktualizuje profil), alarm o przejęciu profilu przez kogoś obcego, masowe przejmowanie 400 lokalizacji franczyzy, tajemniczy klient dla agentów (500 podchwytliwych pytań tygodniowo i wyłapywanie złych cen), 20-minutowy wywiad z właścicielem, który pisze plik kontekstu dla agenta, kontrola zgodności dla marek suplementów i CBD, "SpyFu dla ChatGPT" (który konkurent pojawia się zamiast ciebie), historia statystyk (OpenAI trzyma tylko 28 dni), śledzenie od rozmowy do zamówienia w Shopify, tematy cytowań zamienione w 10 kolejnych wpisów, poprawianie feedów dla sprzedawców Etsy, testowanie pierwszego zdania agenta w reklamach ChatGPT, "Kayak dla agentów" (twój agent pyta dziesięć marek i daje najlepszą odpowiedź), bot do targowania się o kod rabatowy, panel white label do 50 profili klientów i usługa "menedżer wyszukiwania AI" prowadzona za klienta jak social media.
+
+📎 Dodatkowo: stopka z quizem o typie założyciela, zaproszeniem do odpowiedzi z tym, co budujesz, i podłączeniem agentów IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Sam planer tras to produkt dla twórców z setkami tysięcy fanów, nie Twój rynek dzisiaj. Ale mechanizm "zaliczka od chętnych, start dopiero po osiągnięciu progu" wraca drugi dzień z rzędu i warto go wreszcie użyć. Dla Cosmic Cowboy: zamiast zgadywać, czy ktoś przyjdzie na pokaz muzyki generatywnej z animacją na dużym ekranie, zbierz zwrotne zaliczki w jednym mieście, a salę (klub, kino studyjne) rezerwuj dopiero po zebraniu np. 40 osób. Nawet jeśli progu nie będzie, dostaniesz listę ludzi, którzy byli gotowi zapłacić. Dla ARTMAKESENSESTUDIO to też format usługi: twórcy, którzy robią trasy albo spotkania, potrzebują filmu zapowiadającego i relacji z wydarzenia, a każde miasto to osobne zlecenie.
+
+Trend z profilami w ChatGPT jest dziś ważniejszy niż pomysł dnia, bo uderza prosto w Twoich klientów food. Restauracje już raz przegapiły moment z wizytówką Google i płaciły potem agencjom za porządki. Dla Studio F i jego lokali zrób teraz test: zapytaj ChatGPT o ich kategorię w ich mieście ("gdzie zjeść dobrego burgera w...") i zapisz, kto się pojawia, a kto nie. Taki zrzut ekranu to najlepszy haczyk do rozmowy, jaki możesz mieć.
+
+W Video Audit dopisz punkt "widoczność w AI": czy ChatGPT zna markę, czy ma jej aktualne menu, ceny i godziny, czy linkuje do jej filmów. To rozszerza diagnozę wideo o rzecz, której właściciele lokali jeszcze nie sprawdzają, i daje drugi powód, żeby zapłacić za audyt.
+
+Pomysł z 20-minutowym wywiadem, który pisze kontekst agenta, pasuje do Twojego warsztatu: nagrywasz właściciela na kamerę, z jednej rozmowy powstaje film "o nas" dla marki i tekstowy opis firmy do profilu w ChatGPT. Quote Builder może mieć pozycję "pakiet profilu AI": wywiad, opis, zdjęcia i krótkie wideo do profilu. Kiedy OpenAI otworzy profile dla firm usługowych, to samo zrób dla ARTMAKESENSESTUDIO, żeby zapytanie "studio wideo dla gastronomii" pokazywało Ciebie.
