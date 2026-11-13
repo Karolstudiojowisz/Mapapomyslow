@@ -3286,3 +3286,52 @@ Trend z profilami w ChatGPT jest dziś ważniejszy niż pomysł dnia, bo uderza 
 W Video Audit dopisz punkt "widoczność w AI": czy ChatGPT zna markę, czy ma jej aktualne menu, ceny i godziny, czy linkuje do jej filmów. To rozszerza diagnozę wideo o rzecz, której właściciele lokali jeszcze nie sprawdzają, i daje drugi powód, żeby zapłacić za audyt.
 
 Pomysł z 20-minutowym wywiadem, który pisze kontekst agenta, pasuje do Twojego warsztatu: nagrywasz właściciela na kamerę, z jednej rozmowy powstaje film "o nas" dla marki i tekstowy opis firmy do profilu w ChatGPT. Quote Builder może mieć pozycję "pakiet profilu AI": wywiad, opis, zdjęcia i krótkie wideo do profilu. Kiedy OpenAI otworzy profile dla firm usługowych, to samo zrób dla ARTMAKESENSESTUDIO, żeby zapytanie "studio wideo dla gastronomii" pokazywało Ciebie.
+
+
+---
+
+📅 GOOD MORNING - 12 listopada 2026
+
+💡 Oficjalna mapa wydarzeń wokół dużych konwentów
+Comic-Con miał w tym roku 215 pop-upów marek rozsianych po San Diego, a najlepszą mapą ich wszystkich był post fana na Reddicie. Dlaczego teraz: same wydarzenia są pełne (New York Comic Con urósł z 33 tys. osób w 2006 do 260 tys. w 2019 i 250 tys. w 2025), więc wzrost wylewa się na miasto. Jeden fan od prawie 10 lat za darmo prowadzi arkusz wszystkich imprez towarzyszących Comic-Conu, hotel zbudował własną mapę imprez SXSW dla gości, a lista imprez CES działa od 2005 roku i sponsorzy już płacą, żeby na niej być. Pomysł: oficjalny tracker wydarzeń sprzedawany organizatorowi pod jego marką (white label). Fani otwierają jeden link i widzą każdy pop-up, imprezę i premierę gadżetów wokół wydarzenia. Marki płacą za wyróżnienie i dostają panel z liczbą osób, które naprawdę przyszły, a organizator ma nowy produkt dla sponsorów. Rachunek z maila: jeśli ćwierć z 215 pop-upów zapłaci po 1000 dolarów, to około 50 tys. dolarów z jednego weekendu. Start: wybierz jeden konwent, postaw ładną stronę, wrzuć ją na grupy na Facebooku i Reddit, zbierz ruch i sprzedawaj reklamy lokalnym firmom i wystawcom.
+
+🌍 Trend: właściciele firm bez technicznego przygotowania budują własne oprogramowanie
+Wykonawca dachów bez doświadczenia w programowaniu zbudował sobie własny program w Claude, bo dostawca nie chciał dać tańszego planu. Firma zatrudniająca 70 osób oszczędza dziesiątki tysięcy dolarów miesięcznie na abonamentach, budując narzędzia z AI. Według indeksu Emergent (300 firm, ponad 50 tys. aplikacji) co trzeci mały przedsiębiorca zbudował oprogramowanie do problemu, którego nic na rynku nie rozwiązywało. Zdanie autora: powstaną tysiące wąskich programów branżowych, a budowanie na własną rękę zostanie przy narzędziach wewnętrznych. "W domu masz kuchnię, a i tak jesz na mieście", SaaS nie umarł.
+
+🛠️ Taktyka dnia: 5 zasad osobistego systemu z agentami AI
+Rozbiór wpisu Briana Armstronga (Coinbase), który zapisało 14 tys. osób. (1) Jeden agent na jedną funkcję: marketing, produkt, skrzynka, każdy działa stale, zamiast nowego czatu do wszystkiego. (2) Wszystkie zadania na jednej liście: agenci przysyłają tylko to, co wymaga decyzji. (3) Niech pokazują: agenci dołączają zrzuty ekranu i krótkie demo wideo do każdej prośby, bo zatwierdza się szybciej, gdy się widzi. (4) Mów, nie pisz: lista czyszczona partiami, głosem, "tak, nie, popraw to". (5) Zapisuj poprawki i decyzje tam, gdzie agent je przeczyta ("Brian brain"), żeby system uczył się z czasem. Na start: plik how-i-decide.md i każda poprawka z tego tygodnia. Autor trzyma status projektów w Obsidianie, do którego dostęp mają Claude, Codex i Grok.
+
+📎 Dodatkowo: stopka z quizem o typie założyciela, zaproszeniem do odpowiedzi z tym, co budujesz, i podłączeniem agentów IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Sama mapa konwentów to biznes medialny i sprzedaż reklam, a nie Twoje wideo. Ale model "jedna strona zbiera wszystko, co dzieje się wokół wydarzenia, a lokale płacą za wyróżnienie" pasuje do food. Festiwale kulinarne, tygodnie restauracji i jarmarki w Twoim mieście mają ten sam problem: kilkadziesiąt lokali z ofertą specjalną i żadnej dobrej mapy. Zamiast sprzedawać pinezki, sprzedaj to, co umiesz: pakiet "krótka rolka z Twoim daniem festiwalowym plus miejsce na mapie". Jeden festiwal to kilkanaście małych zleceń dla ARTMAKESENSESTUDIO w jeden tydzień, a lista lokali to gotowa baza do Video Audit. Dla Studio F to pomysł na serię "co zjeść na festiwalu X", którą studio może zrobić dla organizatora jako sponsorowaną treść.
+
+Trend z budowaniem własnego oprogramowania potwierdza drogę Quote Buildera, ale też ją zagraża: freelancer wideo może dziś sam sklecić prosty kalkulator w Claude. Dlatego Quote Builder nie może być tylko kalkulatorem. Jego wartością muszą być rzeczy, których nikt nie zbuduje w weekend: stawki rynkowe dla polskiego wideo, gotowe pozycje (dzień zdjęciowy, sprzęt, montaż, poprawki, licencja na muzykę) i ładny PDF wysyłany klientowi. Zdanie "w domu masz kuchnię, a i tak jesz na mieście" to dobry argument w opisie produktu: "możesz to zbudować sam, ale po co".
+
+Taktyka z agentami to najpraktyczniejsza rzecz dnia, bo już pracujesz z Claude przy tych projektach. Zrób dziś plik jak-decyduje.md w repozytorium Quote Buildera i wpisuj każdą poprawkę stylu, ceny i układu, którą dajesz Claude. Ta sama zasada działa przy montażu dla Studio F: lista stałych uwag klienta (tempo cięć, kolorystyka, długość rolki) zapisana raz skraca każdą kolejną rundę poprawek. Zasada "niech agent pokazuje, a nie opisuje" pasuje do Video Audit: raport z nagraniem ekranu i zaznaczonymi momentami sprzeda się szybciej niż sam tekst.
+
+
+---
+
+📅 GOOD MORNING - 13 listopada 2026
+
+💡 Raporty dla klientów firm sprzątających, robione za nich
+Duże firmy sprzątające i wykonawcy już dokumentują każde zlecenie zdjęciami. Wyszukiwania CompanyCam, aplikacji do zdjęć z budowy, wzrosły 15 razy od 2019 roku. Dowody leżą w programie do zarządzania sprzątaniem, ale ktoś musi je zamienić w raport. Klient pyta "co zostało zrobione w naszym budynku w zeszłym miesiącu?", a właściciel o 21 przekopuje się przez 400 zdjęć. Mniejsze ekipy każą pracownikom wysyłać mailem zdjęcia przed i po, a "obsługa tego bywa męcząca". Pomysł: usługa, która robi pilnowanie i raporty za firmę. Firma zostaje przy swoim programie, codziennie ktoś sprawdza wpisy i pisze SMS do brygadzisty, gdy brakuje zdjęcia, a co miesiąc klient dostaje jeden czysty raport, np. "Lokal 400, październik: 22 z 22 sprzątań wykonane, 3 problemy zgłoszone i naprawione, [zdjęcia]". Właściciel odzyskuje wieczory, a klient przedłuża umowę.
+
+🌍 Trend: duże marki wchodzą w zakupy na żywo
+TikTok Shop w USA urósł z 1,5 mld dolarów w 2023 do 7,6 mld w 2024, 15,8 mld w 2025 i prognozowanych 23,4 mld w 2026. Sama sprzedaż na żywo podwoiła się w tym roku. W tym roku do TikTok Shop dołączyły m.in. Sephora, Michael Kors, Best Buy, Ulta Beauty i Victoria's Secret. Marki idą tam, gdzie są oczy, a oczy są na zakupach na żywo.
+
+📎 Dodatkowo: wstęp na piątek 13: Sean Cunningham dał całostronicowe ogłoszenie filmu "Piątek 13" zanim miał scenariusz i obsadę, zadzwonili dystrybutorzy, więc najpierw znalazł rynek, a potem nakręcił film. Morał: sprzedaj, zanim zbudujesz. Reszta to stopka z quizem o typie założyciela, zaproszeniem do odpowiedzi z tym, co budujesz, i podłączeniem agentów IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Sprzątanie to nie Twoja branża, ale mechanizm jest Twój: klient płaci za usługę, której nie widzi, i nie ma dowodu, że dostał to, za co zapłacił. Dokładnie tak wygląda współpraca marki z ARTMAKESENSESTUDIO po oddaniu filmów. Zrób z tego miesięczny raport dla klientów stałych: ile rolek oddanych, co poszło na profil, które miały najlepsze utrzymanie widza, co poprawiamy w kolejnym miesiącu, z kadrami. Taki raport to argument za przedłużeniem współpracy i może być stałą częścią obsługi Studio F, bo przy wielu materiałach dla wielu marek ich klienci też pytają "co właściwie dostaliśmy". Ten sam szablon to naturalny abonament po jednorazowym Video Audit: audyt raz, potem raport co miesiąc.
+
+Druga rzecz to zdjęcia przed i po jako materiał wideo. Firmy usługowe (sprzątanie, remonty, detailing aut) mają setki takich zdjęć i nic z nimi nie robią. Krótka rolka "przed i po" z miesiąca to tani w produkcji pakiet, który możesz dopisać do Quote Buildera jako gotową pozycję: montaż z dostarczonych materiałów, bez dnia zdjęciowego.
+
+Trend z zakupami na żywo dotyczy food bezpośrednio. Transmisja z degustacją lub gotowaniem nowego produktu sprzedaje się lepiej niż sam spot, a marki potrzebują kogoś, kto ustawi światło, kamery i dźwięk tak, żeby jedzenie wyglądało dobrze na żywo. To usługa, której małe marki food nie umieją zrobić same. Zaproponuj Studio F jedną pilotażową transmisję sprzedażową dla któregoś klienta i policz zamówienia.
+
+Wstęp o "Piątku 13" to dosłownie Twoja branża: ogłoś format, zanim go zrobisz. Dla Cosmic Cowboy wrzuć zwiastun kolejnego seta z animacją i datą premiery, zanim powstanie całość, i sprawdź, ile osób kliknie przypomnienie.
