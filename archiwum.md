@@ -3335,3 +3335,25 @@ Druga rzecz to zdjęcia przed i po jako materiał wideo. Firmy usługowe (sprzą
 Trend z zakupami na żywo dotyczy food bezpośrednio. Transmisja z degustacją lub gotowaniem nowego produktu sprzedaje się lepiej niż sam spot, a marki potrzebują kogoś, kto ustawi światło, kamery i dźwięk tak, żeby jedzenie wyglądało dobrze na żywo. To usługa, której małe marki food nie umieją zrobić same. Zaproponuj Studio F jedną pilotażową transmisję sprzedażową dla któregoś klienta i policz zamówienia.
 
 Wstęp o "Piątku 13" to dosłownie Twoja branża: ogłoś format, zanim go zrobisz. Dla Cosmic Cowboy wrzuć zwiastun kolejnego seta z animacją i datą premiery, zanim powstanie całość, i sprawdź, ile osób kliknie przypomnienie.
+
+
+---
+
+📅 GOOD MORNING - 14 listopada 2026
+
+💡 Licznik podatku na żywo dla graczy i rynków predykcyjnych
+Pokolenie Z traktuje zakłady jak prawdziwy sposób na zarabianie, a rynki predykcyjne obróciły w samym październiku ponad 120 mld dolarów. Problem: formularze podatkowe Kalshi nie pokazują, czy ktoś zarobił, czy stracił, więc gracz musi to policzyć sam. Od tego roku w USA można odliczyć tylko 90% strat, więc wyjście na zero i tak oznacza podatek do zapłaty. Pomysł: aplikacja, która pokazuje graczom, ile będą winni fiskusowi, zanim przyjdzie kwiecień. Wgrywasz wyciągi z Kalshi, Polymarket, DraftKings i FanDuel, aplikacja sumuje każdą wygraną i stratę, pokazuje aktualny dług podatkowy i daje księgowemu jeden czysty plik na koniec roku.
+
+🛠️ Taktyka dnia: buduj aplikacje z darmowej listy źródeł danych
+Publiczna lista na GitHubie (public-apis) zbiera prawie 2500 darmowych API. Przykłady autora: OpenSky Network (pozycja niemal każdego samolotu, SMS do rodziny, gdy lot wylądował), Open Charge Map (każda publiczna ładowarka EV, planer podróży dla elektryków), Recreation.gov (kempingi i szlaki, wyszukiwarka weekendowych wyjazdów w promieniu dwóch godzin), NHTSA (sprawdzanie auta po numerze VIN dla kupujących pierwsze używane auto), CardZ Marketcap (dzienne ceny ocenionych kart Pokémon, alerty cenowe dla kolekcjonerów), lista poszukiwanych FBI (gra detektywistyczna dla zabawy). Dane są za darmo, trzeba tylko wybrać, dla kogo budujesz.
+
+📎 Dodatkowo: wstęp o rosnących strefach robotaksówek (strefa Tesli w Austin urosła z 272 do około 442 mil kwadratowych) i pytanie, czy czas podróży stanie się czasem wolnym, skoro auto jedzie samo. Reszta to weekendowa stopka z quizem o typie założyciela, zaproszeniem do odpowiedzi z tym, co budujesz, i podłączeniem agentów IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Sam licznik podatku od zakładów jest daleko od Ciebie: to finanse, rynek amerykański i przepisy, których nie znasz. Ale mechanizm "wgraj wyciągi z kilku miejsc, dostań jedną liczbę i jeden plik dla księgowej" pasuje do freelancera wideo. Freelancer dostaje pieniądze z kilku źródeł (zlecenia bezpośrednie, podwykonawstwo, licencje na materiał ze stocków, YouTube) i w grudniu nie wie, ile zarobił na czym. To naturalne rozszerzenie Quote Buildera: wycena przed zleceniem, a potem prosty widok "ile zarobiłeś na tym kliencie w tym roku i ile z wyceny zostało w kieszeni po kosztach". Nie buduj tego teraz, ale zapisz jako funkcję drugiej wersji, bo zamienia jednorazowy kalkulator w narzędzie, do którego wraca się co miesiąc.
+
+Taktyka z darmowymi API to najlepsza rzecz dnia dla Twojej nauki budowania aplikacji z Claude. Zamiast wymyślać pomysł od zera, przejrzyj listę i szukaj danych, które łączą się z Twoją pracą. Dla ARTMAKESENSESTUDIO i Studio F przydadzą się API pogody i wschodów słońca: mały planer dnia zdjęciowego, który pokazuje złotą godzinę i prognozę dla lokalizacji plenerowej, to weekendowy projekt i gotowy darmowy magnes na klientów. Dla Cosmic Cowboy szukaj API z danymi o kosmosie (NASA ma darmowe zdjęcia dnia i dane o planetach): animacja generowana z prawdziwych danych, np. pozycji Księżyca w dniu premiery seta, daje każdemu odcinkowi własny pretekst i opis.
+
+Wstęp o robotaksówkach to sygnał na dłuższy termin: jeśli czas w aucie stanie się czasem wolnym, ekrany w pojazdach staną się nowym miejscem na treści. Długie, spokojne sety z animacją, takie jak w Cosmic Cowboy, to dokładnie ten typ materiału, który ogląda się w drodze bez dźwięku dialogu.
