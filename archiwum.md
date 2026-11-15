@@ -3357,3 +3357,25 @@ Sam licznik podatku od zakładów jest daleko od Ciebie: to finanse, rynek amery
 Taktyka z darmowymi API to najlepsza rzecz dnia dla Twojej nauki budowania aplikacji z Claude. Zamiast wymyślać pomysł od zera, przejrzyj listę i szukaj danych, które łączą się z Twoją pracą. Dla ARTMAKESENSESTUDIO i Studio F przydadzą się API pogody i wschodów słońca: mały planer dnia zdjęciowego, który pokazuje złotą godzinę i prognozę dla lokalizacji plenerowej, to weekendowy projekt i gotowy darmowy magnes na klientów. Dla Cosmic Cowboy szukaj API z danymi o kosmosie (NASA ma darmowe zdjęcia dnia i dane o planetach): animacja generowana z prawdziwych danych, np. pozycji Księżyca w dniu premiery seta, daje każdemu odcinkowi własny pretekst i opis.
 
 Wstęp o robotaksówkach to sygnał na dłuższy termin: jeśli czas w aucie stanie się czasem wolnym, ekrany w pojazdach staną się nowym miejscem na treści. Długie, spokojne sety z animacją, takie jak w Cosmic Cowboy, to dokładnie ten typ materiału, który ogląda się w drodze bez dźwięku dialogu.
+
+
+---
+
+📅 GOOD MORNING - 15 listopada 2026
+
+💡 Porównywarka cen prawników jak loty (katalog stałych stawek ze sprawdzalnością)
+Każdy klient pyta prawnika o to samo: ile to będzie kosztować. Większość kancelarii nie odpowiada, a ta sama prosta umowa testamentowa kosztuje w Kalifornii od 690 do 2950 dolarów (4,3 raza różnicy), na Alasce od 465 do 1875, w Nowym Jorku od 700 do 1500. Pomysł: katalog prawników, którzy publikują jedną stałą cenę i udowadniają, że jej dotrzymują. Każda wizytówka pokazuje dwie rzeczy: cenę i to, jak często końcowy rachunek się z nią zgadzał, np. "1200 dolarów ryczałtem, 96% klientów zapłaciło dokładnie tyle". Dla kancelarii to lead magnet zamiast "zadzwoń na darmową konsultację": telefon dostaje firma z najjaśniejszą ceną, bez billboardu i bez kupowania leadów. Dlaczego teraz: 69% kancelarii już oferuje stałe stawki, a 7 na 10 klientów woli tak płacić. Ceny istnieją, tylko są rozrzucone po tysiącu stron i rozmów telefonicznych. Model: kancelarie płacą stały miesięczny abonament za obecność w katalogu (nie za lead, bo większość samorządów adwokackich w USA na to nie pozwala).
+
+🛠️ Taktyka dnia: alert, gdy konkurencja podnosi ceny
+Wybierz 3 konkurentów i ustaw monitoring cen i opisów pakietów na ich stronach z cennikiem. Narzędzia: Distill (rozszerzenie przeglądarki, sprawdza lokalnie, przeglądarka musi być włączona), Follow That Page (prosty mail, gdy zmieni się tekst strony), Changedetection.io (usługa w chmurze albo wersja open source do postawienia u siebie). Kiedy konkurent podniesie cenę albo zlikwiduje darmowy plan, wróć do klientów, którzy mówili, że jesteś za drogi. Masz gotowy pretekst do kontaktu.
+
+📎 Dodatkowo: wstęp o Groku jako "drzwiach do internetu", polecenie odcinka o łączeniu Groka z Claude Code i przykład bota, który odbiera połączenia oznaczone jako spam (63 takie telefony w miesiąc). Puenta wstępu: AI już robi proste rzeczy prawne dla zwykłych ludzi, a kancelaria nadal nie powie, ile kosztuje testament. Reszta to niedzielna stopka z quizem o typie założyciela, zaproszeniem do odpowiedzi z tym, co budujesz, i podłączeniem agentów IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Sam katalog prawników jest daleko od Ciebie, ale jego rdzeń to dokładnie problem, który rozwiązuje Quote Builder. Klient wideo zadaje to samo pytanie co klient prawnika ("ile to będzie kosztować?") i dostaje to samo "zależy, porozmawiajmy". Najmocniejszy element pomysłu to nie cena, tylko wskaźnik "ile razy rachunek zgodził się z wyceną". Przenieś to do Quote Buildera: po zamknięciu projektu freelancer wpisuje końcową kwotę, a narzędzie liczy, jak bardzo trzymał się wyceny. Taki wskaźnik ("9 na 10 projektów zamkniętych w kwocie z wyceny") to argument sprzedażowy, którego żaden kalkulator z arkusza nie daje, i powód, żeby wracać do aplikacji po każdym zleceniu.
+
+Dla ARTMAKESENSESTUDIO to gotowy test na stronę: zamiast "wycena indywidualna" opublikuj trzy pakiety ze stałą ceną (np. rolka produktowa, krótki spot, dzień zdjęciowy) i zbieraj własny wskaźnik dotrzymania budżetu. Przy Studio F masz już historię kosztorysów, więc możesz policzyć, ile projektów zamknęło się w pierwotnej kwocie, i użyć tego w rozmowach z nowymi markami food. Video Audit ze stałą ceną zaliczaną na poczet projektu pasuje do tego modelu idealnie.
+
+Taktyka z monitoringiem cen jest prosta i warta 15 minut. Ustaw Follow That Page albo Changedetection.io na cenniki 3 polskich studiów wideo i 2-3 narzędzi do wycen, z którymi konkuruje Quote Builder. Po pierwsze dostajesz dane do ustalenia własnej ceny, po drugie pretekst do powrotu do marek, które odrzuciły Twoją ofertę jako za drogą, gdy konkurencja podniesie stawki. Wstęp o botach, które same odbierają telefony, to sygnał dla Cosmic Cowboy: AI przejmuje drobne, nudne zadania, więc rośnie wartość treści do spokojnego słuchania w tle, które powstają z ludzką ręką.
