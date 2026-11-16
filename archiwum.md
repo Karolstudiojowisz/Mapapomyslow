@@ -3379,3 +3379,25 @@ Sam katalog prawników jest daleko od Ciebie, ale jego rdzeń to dokładnie prob
 Dla ARTMAKESENSESTUDIO to gotowy test na stronę: zamiast "wycena indywidualna" opublikuj trzy pakiety ze stałą ceną (np. rolka produktowa, krótki spot, dzień zdjęciowy) i zbieraj własny wskaźnik dotrzymania budżetu. Przy Studio F masz już historię kosztorysów, więc możesz policzyć, ile projektów zamknęło się w pierwotnej kwocie, i użyć tego w rozmowach z nowymi markami food. Video Audit ze stałą ceną zaliczaną na poczet projektu pasuje do tego modelu idealnie.
 
 Taktyka z monitoringiem cen jest prosta i warta 15 minut. Ustaw Follow That Page albo Changedetection.io na cenniki 3 polskich studiów wideo i 2-3 narzędzi do wycen, z którymi konkuruje Quote Builder. Po pierwsze dostajesz dane do ustalenia własnej ceny, po drugie pretekst do powrotu do marek, które odrzuciły Twoją ofertę jako za drogą, gdy konkurencja podniesie stawki. Wstęp o botach, które same odbierają telefony, to sygnał dla Cosmic Cowboy: AI przejmuje drobne, nudne zadania, więc rośnie wartość treści do spokojnego słuchania w tle, które powstają z ludzką ręką.
+
+
+---
+
+📅 GOOD MORNING - 16 listopada 2026
+
+💡 Carfax dla suplementów (sprawdzenie partii po numerze na słoiku)
+Każdy może dziś założyć markę suplementów, a napis "testowane przez niezależne laboratorium" niczego nie dowodzi. Marka żelków z kreatyną zebrała w marcu 20 milionów dolarów, a pozew zbiorowy twierdzi, że jej żelki mają około 10% mniej kreatyny, niż podaje etykieta. Jedna marka już prowadzi publiczną stronę, na której po numerze partii widać wynik pomiaru z laboratorium. Pomysł: aplikacja, w której każdy skanuje numer partii ze słoika i sprawdza, czy zawartość zgadza się z etykietą. Numer partii jest na każdym opakowaniu, teraz może coś znaczyć. Odbiorcy: małe marki, które chcą udowodnić jakość odznaką niezależnej weryfikacji.
+
+🌍 Trend: krótkie wyjazdy tylko dla samego hotelu
+56% wyszukiwań hoteli w Ameryce Północnej dotyczy jednej nocy (w 2023 roku było to 31%). 60% ankietowanych planuje jesienny wyjazd weekendowy. Popyt na noclegi w zamkach w Hotels.com wzrósł o 20% rok do roku. Ludzie jadą nie do miejsca, tylko do noclegu, który sam w sobie jest atrakcją.
+
+📎 Dodatkowo: wstęp o sześciu znajomych z Brooklynu, którzy sprzedawali kolacje ze stekiem z okna mieszkania pod nazwą "Some Guy's House". Rezerwacja online, odbiór na chodniku, jedzenie opuszczane na linie z bloczkiem. Akcja stała się viralem, a potem skargi sąsiadów ją zamknęły. Puenta autora: restaurator powinien zatrudnić tę ekipę do marketingu, nie do gotowania. Reszta to poniedziałkowa stopka z quizem o typie założyciela, zaproszeniem do odpowiedzi z tym, co budujesz, i podłączeniem agentów IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Sama aplikacja do skanowania suplementów jest poza Twoim zasięgiem, bo wymaga laboratorium i bazy wyników. Ale jej mechanizm to "dowód zamiast deklaracji", a to pasuje do Video Audit i do Studio F. Marki food też piszą na opakowaniach i w reklamach rzeczy, których nikt nie sprawdza ("naturalny", "ręcznie robiony", "lokalne składniki"). Wideo jest najtańszym dowodem: krótki materiał z produkcji konkretnej partii, z widocznym numerem, datą i ludźmi, którzy ją robili. Zaproponuj Studio F format "zobacz swoją partię": seria krótkich ujęć z jednego dnia produkcji, podpięta pod kod QR na opakowaniu albo pod stronę produktu. Dla małych marek food to odznaka jakości, której nie da się skopiować sloganem.
+
+W Video Audit dodaj punkt kontrolny "czy Twoje wideo czegoś dowodzi, czy tylko deklaruje". Większość materiałów marek pokazuje ładny produkt na stole, a mało który pokazuje proces i ludzi. To konkretny, łatwy do zrozumienia zarzut, który od razu prowadzi do zlecenia dla ARTMAKESENSESTUDIO.
+
+Trend krótkich wyjazdów "dla samego hotelu" to sygnał dla ARTMAKESENSESTUDIO: butikowe hotele, glampingi i obiekty z charakterem konkurują teraz wyglądem noclegu, a nie lokalizacją, więc potrzebują wideo pokazującego pobyt, nie pokój. Krótka rolka "jedna noc u nas" to dobra oferta pakietowa na sezon zimowych weekendów. Dla Cosmic Cowboy ten sam trend to gotowy motyw: spokojne, generatywne ujęcia nocy w niezwykłym miejscu z muzyką do słuchania w tle. Historia z Brooklynu (jedzenie na linie z okna) to przypomnienie dla Studio F, że viral w food robi forma podania, nie sam przepis.
