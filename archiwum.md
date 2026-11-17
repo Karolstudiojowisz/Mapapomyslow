@@ -3401,3 +3401,25 @@ Sama aplikacja do skanowania suplementów jest poza Twoim zasięgiem, bo wymaga 
 W Video Audit dodaj punkt kontrolny "czy Twoje wideo czegoś dowodzi, czy tylko deklaruje". Większość materiałów marek pokazuje ładny produkt na stole, a mało który pokazuje proces i ludzi. To konkretny, łatwy do zrozumienia zarzut, który od razu prowadzi do zlecenia dla ARTMAKESENSESTUDIO.
 
 Trend krótkich wyjazdów "dla samego hotelu" to sygnał dla ARTMAKESENSESTUDIO: butikowe hotele, glampingi i obiekty z charakterem konkurują teraz wyglądem noclegu, a nie lokalizacją, więc potrzebują wideo pokazującego pobyt, nie pokój. Krótka rolka "jedna noc u nas" to dobra oferta pakietowa na sezon zimowych weekendów. Dla Cosmic Cowboy ten sam trend to gotowy motyw: spokojne, generatywne ujęcia nocy w niezwykłym miejscu z muzyką do słuchania w tle. Historia z Brooklynu (jedzenie na linie z okna) to przypomnienie dla Studio F, że viral w food robi forma podania, nie sam przepis.
+
+
+---
+
+📅 GOOD MORNING - 17 listopada 2026
+
+💡 Audyt oprogramowania dla gabinetów stomatologicznych (jedna strona oszczędności)
+Prawie jedna trzecia firm zrezygnowała z zakupu oprogramowania, bo mogła je zbudować z pomocą AI. Dentyści już patrzą na AI do dokumentacji i notatek (dane ADA Health Policy Institute, lipiec 2026). Pomysł: dentysta prowadzący jednoosobowy gabinet wrzuca faktury za wszystkie subskrypcje, agent AI sprawdza każde narzędzie i oddaje jedną stronę z listą oszczędności (przykładowy raport: 640 dolarów miesięcznie mniej). Bonus: sprzedaż agenta, który na bieżąco szuka lepszych ofert, nowych narzędzi i zmian w przepisach. Autor nazywa to "wdrożeniowcem na miejscu" dla dentystów.
+
+🌍 Trend: marki podpinają się pod premierę GTA 6
+Wszyscy szukają sposobu, żeby wejść w premierę gry w tym tygodniu. Palarnia Vice City Bean sprzedała własną mieszankę kawy "GTA 6". Sieć Skinny Louie zamieniła swoje lokale na Florydzie w burgerownię z gry. Miami Heat na jeden wieczór zmieniają nazwę na Vice City, z nowym parkietem i strojami. Duże marki też robią trend-jacking.
+
+📎 Dodatkowo: wstęp o kimś, kto zamienił stary iPhone w "centrum dowodzenia" na biurku. Autor proponuje z tego mały produkt cyfrowy: zestaw za 19 dolarów (szablon promptu i 10-minutowe wideo instruktażowe), który zmienia stary iPad albo telefon z szuflady w kalendarz rodzinny na lodówkę, tablicę menu dla kawiarni albo panel na biurko. Puenta: nie każdy chce majsterkować z promptami, a każdy ma stare urządzenie. Reszta to wtorkowa stopka z quizem o typie założyciela, zaproszeniem do odpowiedzi z tym, co budujesz, i podłączeniem agentów IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Audyt dla dentystów to ten sam model co Video Audit, tylko w innej branży: klient oddaje to, co już ma (tam faktury, u Ciebie filmy), a dostaje jedną stronę z konkretną kwotą. Kluczowa lekcja to forma wyniku. "Oszczędzasz 640 dolarów miesięcznie" sprzedaje się lepiej niż lista uwag. Przerób raport Video Audit tak, żeby na górze była jedna liczba: ile budżetu marka przepala na wideo, które nic nie robi, albo ile ujęć z istniejących materiałów da się jeszcze wykorzystać. Bonusowy "agent na bieżąco" przekłada się na abonament: po audycie comiesięczny przegląd nowych materiałów marki za stałą kwotę.
+
+Zestaw za 19 dolarów ze wstępu jest bliżej Ciebie niż sam pomysł dnia. Szablon promptu plus krótkie wideo instruktażowe to produkt cyfrowy, który zrobisz w weekend z Claude: nagrywasz, montujesz, sprzedajesz. Wersja pod ARTMAKESENSESTUDIO: stary tablet jako tablica menu z zapętlonym wideo dań dla małej kawiarni, a do tego pakiet krótkich ujęć jedzenia nakręcony przez Ciebie. Dla Cosmic Cowboy ten sam stary ekran to "okno" z generatywną animacją i muzyką, gotowe do postawienia na półce. Sprzedaj to jako plik plus instrukcja.
+
+Trend GTA 6 to podręcznikowy trend-jacking, który Studio F może zrobić w małej skali: reklama food podpięta pod wydarzenie, o którym wszyscy mówią w tym tygodniu. Zaproponuj Studio F stały format "szybkiej reakcji": jedna krótka rolka w 48 godzin od dużej premiery, z produktem klienta w estetyce wydarzenia. Liczy się czas, nie budżet. W Quote Builderze to osobna pozycja: wycena ekspresowa z dopłatą za termin.
