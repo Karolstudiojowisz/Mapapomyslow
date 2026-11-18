@@ -3423,3 +3423,27 @@ Audyt dla dentystów to ten sam model co Video Audit, tylko w innej branży: kli
 Zestaw za 19 dolarów ze wstępu jest bliżej Ciebie niż sam pomysł dnia. Szablon promptu plus krótkie wideo instruktażowe to produkt cyfrowy, który zrobisz w weekend z Claude: nagrywasz, montujesz, sprzedajesz. Wersja pod ARTMAKESENSESTUDIO: stary tablet jako tablica menu z zapętlonym wideo dań dla małej kawiarni, a do tego pakiet krótkich ujęć jedzenia nakręcony przez Ciebie. Dla Cosmic Cowboy ten sam stary ekran to "okno" z generatywną animacją i muzyką, gotowe do postawienia na półce. Sprzedaj to jako plik plus instrukcja.
 
 Trend GTA 6 to podręcznikowy trend-jacking, który Studio F może zrobić w małej skali: reklama food podpięta pod wydarzenie, o którym wszyscy mówią w tym tygodniu. Zaproponuj Studio F stały format "szybkiej reakcji": jedna krótka rolka w 48 godzin od dużej premiery, z produktem klienta w estetyce wydarzenia. Liczy się czas, nie budżet. W Quote Builderze to osobna pozycja: wycena ekspresowa z dopłatą za termin.
+
+
+---
+
+📅 GOOD MORNING - 18 listopada 2026
+
+💡 Odznaka "AI zweryfikowane" dla biur rachunkowych (jak Better Business Bureau, tylko dla AI)
+Każde biuro rachunkowe mówi dziś, że używa AI, i nikt nie może tego sprawdzić. Według Financial Cents 2026 aż 95% biur używa AI, ale tylko 20% widzi mierzalne efekty, a zaledwie 10% ma spisaną politykę AI. Tylko 6% klientów twierdzi, że ich biuro naprawdę dowozi coś dzięki AI (Thomson Reuters, czerwiec 2026). Pomysł: biuro przechodzi prawdziwy test użycia AI, a jeśli zda, dostaje odznakę z oceną i datą ponownego testu do wstawienia na stronę. Biura płacą za test i powtarzają go co sześć miesięcy, żeby utrzymać odznakę. Start od księgowych, potem ten sam model w kolejnych usługach profesjonalnych.
+
+🛠️ Taktyka dnia: szukanie klientów po sygnałach z Exa Websets
+Autor buduje narzędzie dla agencji software'owych i szuka klientów przez opis klienta zwykłym językiem: "agencje custom software i MSP w USA lub Kanadzie, 15-100 pracowników". Wynik: 122 leady z pełnymi danymi, pasujące do 4 bardzo wąskich kryteriów. Playbook w 5 krokach: (1) opisz klienta zwykłym językiem, im konkretniej, tym lepiej; (2) dodaj 3 kryteria (u autora: 15-100 osób, faktycznie robi software na zamówienie, ma formularz "poproś o wycenę"); (3) wzbogać dane o sygnały: imię założyciela, LinkedIn, e-mail, świeże newsy, otwarte rekrutacje, używany CRM; (4) zacznij wiadomość od sygnału, np. "widzę, że szukacie 3 programistów, chyba macie pełne ręce roboty"; (5) włącz monitoring, żeby nowe pasujące firmy dopisywały się same. Efekt: lista leadów i powód, żeby się odezwać.
+
+📎 Dodatkowo: wstęp o "wojnie osobistych agentów" (GrokBot, Muse, Instinct) i o nowym produkcie Second. To nie agent ani gadżet do noszenia, tylko osobisty model, który uczy się razem z użytkownikiem lokalnie na jego komputerze, a każdy agent może się do niego podłączyć. Użytkownik jest jego właścicielem. Firma zebrała 10 milionów dolarów od a16z. Puenta autora: dziś praca lokalna wymaga wysiłku i wiedzy technicznej, a tu wygląda to prosto. Reszta to środowa stopka z quizem o typie założyciela, zaproszeniem do odpowiedzi z tym, co budujesz, i podłączeniem agentów IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Odznaka dla biur rachunkowych to w czystej formie mechanizm, który już krąży wokół Video Audit: "wszyscy deklarują, nikt nie sprawdza". Każda marka food mówi dziś, że "robi content" i "jest na TikToku", a mało która wie, czy ten content cokolwiek robi. Przenieś model 1:1: Video Audit kończy się nie tylko raportem, ale oceną (np. A-D) z datą ponownego audytu za sześć miesięcy. Ocena jest do pokazania (klientom, inwestorom, sieci handlowej), a data ponownego testu zamienia jednorazową diagnozę w powracające zlecenie. To prostsze do sprzedania niż abonament, bo klient płaci za utrzymanie wyniku, nie za "opiekę".
+
+Dla Studio F to argument w rozmowach z ich klientami: studio, które potrafi pokazać przed i po w ocenie audytu, sprzedaje wynik, a nie godziny montażu. Zaproponuj Studio F wspólny pilotaż: audyt dwóch ich klientów teraz, ponowny po kampanii, różnica w ocenie jako case study.
+
+Taktyka z Exa to gotowy sposób na pierwszych klientów Video Audit i ARTMAKESENSESTUDIO. Opis klienta zwykłym językiem: "polskie marki food i małe restauracje sieciowe, 10-80 osób, aktywne na Instagramie, ostatnie wideo starsze niż 3 miesiące albo nakręcone telefonem". Sygnały do otwarcia rozmowy: nowy lokal, nowy produkt, rekrutacja marketingowca, rebranding. Pierwsza wiadomość zaczyna się od sygnału ("widzę, że otwieracie drugi lokal, macie już wideo z otwarcia?"), a nie od portfolio. To samo podejście sprawdzi Quote Builder: lista freelancerów wideo z formularzem wyceny na stronie to dokładnie ci, którym kalkulator oszczędza czas.
+
+Second ze wstępu to sygnał dla Cosmic Cowboy i dla Twojej nauki z Claude: lokalne modele schodzą do zwykłych ludzi. Na razie bez działania, ale warto obserwować, bo osobisty model wyuczony na Twoim stylu montażu i opisach projektów mógłby kiedyś zasilać zarówno wyceny w Quote Builderze, jak i opisy wideo na kanale.
