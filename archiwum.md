@@ -3472,3 +3472,25 @@ Taktyka dnia to najbliższa Ci rzecz w tym mailu, i to podwójnie. Po pierwsze j
 Pomysł z podcastami przenosi się na wideo marek: stare filmy, które wciąż mają wyświetlenia, z nieaktualną ofertą, starą ceną albo produktem, którego już nie ma. Dodaj to do Video Audit jako osobną sekcję: "materiały, które wciąż pracują, ale mówią nieaktualne rzeczy", z listą do odświeżenia (nowa plansza końcowa, nowy kod, nowe napisy) zamiast kręcenia od zera. Dla Studio F to gotowy argument przy przedłużeniach: "odświeżymy Waszą zeszłoroczną kampanię w tydzień" to tańsze i szybsze zlecenie, a dla klienta oczywisty zysk. Na Cosmic Cowboy działa to samo: stare filmy z dużą liczbą wyświetleń dostają nowy przypięty komentarz i opis z aktualnym linkiem.
 
 Trend z pauzą w subskrypcji to lekcja dla każdego abonamentu, który planujesz: comiesięczny przegląd po Video Audit albo płatny Quote Builder. Od początku zaprojektuj opcję "wstrzymaj na miesiąc" zamiast tylko "anuluj". Dla Studio F to też propozycja dla klientów z miesięcznym pakietem rolek: przerwa w sezonie zamiast zerwania współpracy.
+
+
+---
+
+📅 GOOD MORNING - 20 listopada 2026
+
+💡 Skanuj i zamawiaj: uzupełnianie zapasów dla hoteli i biur
+Fastenal sprzedaje fabrykom śruby i rękawice. Aż 3,7 mld dolarów jego sprzedaży w 2025 przeszło przez półki i pojemniki, które same zamawiają towar, gdy ktoś je zeskanuje (45% całej sprzedaży, wzrost o 15% rok do roku). Hotele i biurowce wciąż zamawiają materiały po staremu i tracą na to 4-7 godzin tygodniowo. Pomysł: jedna aplikacja, w której hotel albo biurowiec uzupełnia wszystkie zapasy: ręczniki papierowe, mydło, worki na śmieci, papier do drukarki. Każda półka dostaje naklejkę z kodem QR, personel skanuje ją, gdy czegoś brakuje, a każde zgłoszenie trafia w jedno miejsce, gotowe do zamówienia u dostawców jednym przyciskiem. Potencjał według IdeaBrowser: 5 mln dolarów rocznie.
+
+🛠️ Taktyka dnia: napisz w weekend do 20 zupełnie nowych firm
+Każda nowa firma jest rejestrowana w urzędzie. Connecticut publikuje całą listę za darmo, razem z adresami e-mail (4871 nowych firm w 30 dni, 99,9% z e-mailem; najczęściej remonty domów 204, sprzątanie 109, restauracje 95, ogrodnicy 73, konsultanci marketingowi 63). Playbook w 3 krokach: (1) otwórz lokalny rejestr firm i zawęź do zarejestrowanych w ostatnich 30 dniach; (2) wybierz 20, którym przyda się to, co sprzedajesz; (3) napisz do każdej "maila z 9 słów" Deana Jacksona: imię w temacie, w treści jedno krótkie pytanie, np. "Czy ktoś już prowadzi Wam księgowość?". Efekt: świeża lista klientów, którzy jeszcze nie wybrali dostawców. Gdzie rejestr podaje tylko nazwę i adres, wyślij pocztówkę.
+
+📎 Dodatkowo: wstęp to grafika "20 lat designu, 2007-2026, jeden kafelek na rok" z zachętą, żeby ukraść ten format dla własnej niszy: "20 lat [___]". Reszta to weekendowa stopka: wybierz jedną rzecz z dzisiejszego maila i zacznij ją przed poniedziałkiem, quiz o typie założyciela, zaproszenie do odpowiedzi z tym, co budujesz, i podłączenie agentów IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Taktyka dnia to najbardziej praktyczna rzecz w tym mailu, bo polski odpowiednik istnieje i jest darmowy: CEIDG (jednoosobowe firmy) i KRS (spółki) pokazują nowe rejestracje z kodem PKD i adresem, a część wpisów w CEIDG ma e-mail. Nowa restauracja, kawiarnia, piekarnia czy marka spożywcza w pierwszych 30 dniach nie ma jeszcze wideo, zdjęć menu ani filmu na otwarcie. Dla ARTMAKESENSESTUDIO to lista 20 lokali z Twojego miasta co miesiąc, z jednym pytaniem w mailu: "Macie już nagrane wideo na otwarcie?". Gotowa oferta: pakiet "otwarcie lokalu" (rolka z otwarcia, 3 krótkie filmy z menu, zdjęcia) wyceniony w Quote Builderze jako jedna cena. Tę samą listę możesz podać Studio F: nowe marki spożywcze z KRS to ich przyszli klienci, zanim zgłoszą się do nich konkurencyjne studia. Dla Quote Buildera filtr jest inny: nowe działalności z PKD 59.11 (produkcja filmów) to świeżo startujący freelancerzy wideo, którzy jeszcze nie wiedzą, jak wyceniać, czyli idealni pierwsi użytkownicy.
+
+Pomysł ze skanowaniem zapasów jest daleko od wideo, ale jego mechanizm pasuje do Video Audit: klient sam zgłasza brak jednym ruchem, a Ty dostajesz gotowe zlecenie. Przełóż to na stałych klientów: prosty formularz "potrzebujemy nowego materiału" (produkt, termin, format) zamiast maili i telefonów, a każde zgłoszenie ląduje w jednym miejscu z wyceną z Quote Buildera. Dla Studio F to sposób na obsługę miesięcznego pakietu rolek bez wątków na komunikatorze.
+
+Format "20 lat [___]" ze wstępu to gotowy pomysł na treść: "20 lat reklamy jedzenia w jednym filmie" dla Studio F albo ARTMAKESENSESTUDIO (po jednym ujęciu na rok, pokazujące zmianę stylu food video), a na Cosmic Cowboy "20 lat muzyki generatywnej" jako animowana oś czasu. Taki materiał dobrze się udostępnia i pokazuje Twoją wiedzę o branży bez mówienia o sobie.
