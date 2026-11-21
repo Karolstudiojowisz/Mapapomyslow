@@ -3494,3 +3494,25 @@ Taktyka dnia to najbardziej praktyczna rzecz w tym mailu, bo polski odpowiednik 
 Pomysł ze skanowaniem zapasów jest daleko od wideo, ale jego mechanizm pasuje do Video Audit: klient sam zgłasza brak jednym ruchem, a Ty dostajesz gotowe zlecenie. Przełóż to na stałych klientów: prosty formularz "potrzebujemy nowego materiału" (produkt, termin, format) zamiast maili i telefonów, a każde zgłoszenie ląduje w jednym miejscu z wyceną z Quote Buildera. Dla Studio F to sposób na obsługę miesięcznego pakietu rolek bez wątków na komunikatorze.
 
 Format "20 lat [___]" ze wstępu to gotowy pomysł na treść: "20 lat reklamy jedzenia w jednym filmie" dla Studio F albo ARTMAKESENSESTUDIO (po jednym ujęciu na rok, pokazujące zmianę stylu food video), a na Cosmic Cowboy "20 lat muzyki generatywnej" jako animowana oś czasu. Taki materiał dobrze się udostępnia i pokazuje Twoją wiedzę o branży bez mówienia o sobie.
+
+
+---
+
+📅 GOOD MORNING - 21 listopada 2026
+
+💡 Śledzenie, nad czym głosuje rada miasta
+Miasta co miesiąc organizują publiczne głosowania. Część mieszkańców przychodzi walczyć o swoje, wielu się przejmuje, ale nie przychodzi, a nikt nie sprawdza, co dzieje się potem. Startup Hamlet nagrywa już ponad 90 000 posiedzeń w ponad 1700 miastach i powiatach i przypisuje każdą wypowiedź do konkretnej osoby, więc surowe dane istnieją. Hamlet jest jednak zbudowany dla firm obserwujących wiele miast naraz. Wolne pole to sąsiedztwo, które pilnuje jednej sprawy. Pomysł: wybierasz lokalny temat (np. nowe przepisy budowlane), narzędzie czyta każde posiedzenie i pokazuje, na jakim etapie jest sprawa: zgłoszona, przegłosowana, do tego petycje i postępy, bez chodzenia na sesje. Przy każdej zmianie wysyła mail do całej okolicy. Zapłaciłyby wspólnoty mieszkaniowe, a także firmy nieruchomości, lobbyści i konsultanci, izby gospodarcze i lokalni dziennikarze. To wszystko dane publiczne, agent AI może czytać każde posiedzenie i aktualizować oś czasu w nocy.
+
+🌍 Hidden Niche: quiz prezentowy, który wybiera przeżycie za Ciebie
+Pomysł na weekend: quiz o prezencie, który wygląda jak test osobowości. Kilka zabawnych pytań o osobę, dla której kupujesz (np. "Jej idealna sobota to...?"), a agent wybiera 3 propozycje, każda to przeżycie plus mały prezent: bilety na koncert plus winyl, warsztaty kulinarne plus fartuch. AI projektuje kartkę dla wybranej opcji, do darmowego wydruku w domu albo płatnej wersji drukowanej z wysyłką. Quiz jest darmowy, drukowana kartka to jedna z dopłat. W cyfrowym świecie fizyczny prezent znaczy więcej.
+
+📎 Dodatkowo: wstęp o pobocznych projektach, które stały się firmami i zostały kupione. W tym tygodniu dwa: Typefully (aplikacja do pisania postów na X i LinkedIn) kupiony przez Stan, a Bending Spoons kupił Mailchimp za 3,86 mld dolarów. Mailchimp zaczął w 2001 jako poboczny projekt agencji webdesignu, nigdy nie wziął pieniędzy od VC i wcześniej został sprzedany Intuit za 12 mld dolarów. Teza: to dobry czas, żeby budować bez inwestorów. Reszta to stopka: quiz o typie założyciela, zaproszenie do odpowiedzi z tym, co budujesz, i podłączenie agentów IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Pomysł z radą miasta jest daleko od wideo, ale ma w sobie gotowy format treści: "co się zmieniło w Twojej okolicy w tym miesiącu" opowiedziane w 60 sekund. Dla ARTMAKESENSESTUDIO to może być oferta dla lokalnych mediów, deweloperów albo wspólnot: miesięczna krótka rolka podsumowująca decyzje rady (nowe inwestycje, zmiany w ruchu, przetargi), oparta na publicznych protokołach, które AI streszcza w kilka minut. Ty dokładasz to, czego tekst nie ma: obraz miejsca, którego decyzja dotyczy. Mechanizm "jedna sprawa, powiadomienie przy każdej zmianie" przenieś też na Studio F: śledź otwarcia lokali i zmiany przepisów dotyczących gastronomii w swoim mieście, a gdy coś się rusza, masz pretekst do kontaktu z marką spożywczą, zanim zrobi to konkurencja.
+
+Quiz prezentowy jest bliżej Ciebie, niż wygląda. Mechanika "kilka pytań, 3 dopasowane propozycje" to dokładnie front dla Quote Buildera i Video Audit: zamiast formularza z budżetem klient odpowiada na 4 lekkie pytania ("Gdzie ma żyć ten film?", "Co ma poczuć widz?"), a narzędzie pokazuje 3 pakiety z ceną. To lepiej konwertuje niż cennik i od razu kwalifikuje klienta. Do tego sezon: grudzień to idealny moment na "prezent przeżycie" od ARTMAKESENSESTUDIO, np. bon na krótki film rodzinny albo teledysk dla bliskiej osoby, z drukowaną kartką jako fizycznym elementem. Dla Cosmic Cowboy wariant quizu: "jaka generatywna kompozycja pasuje do tej osoby", z animowaną kartką i utworem jako prezentem.
+
+Wstęp o Mailchimpie to argument za tym, jak już budujesz: Quote Builder i Video Audit jako poboczne produkty przy studiu, finansowane z bieżących zleceń, bez inwestora. Mailchimp też zaczął przy agencji usługowej.
