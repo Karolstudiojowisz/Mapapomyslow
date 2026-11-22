@@ -3516,3 +3516,27 @@ Pomysł z radą miasta jest daleko od wideo, ale ma w sobie gotowy format treśc
 Quiz prezentowy jest bliżej Ciebie, niż wygląda. Mechanika "kilka pytań, 3 dopasowane propozycje" to dokładnie front dla Quote Buildera i Video Audit: zamiast formularza z budżetem klient odpowiada na 4 lekkie pytania ("Gdzie ma żyć ten film?", "Co ma poczuć widz?"), a narzędzie pokazuje 3 pakiety z ceną. To lepiej konwertuje niż cennik i od razu kwalifikuje klienta. Do tego sezon: grudzień to idealny moment na "prezent przeżycie" od ARTMAKESENSESTUDIO, np. bon na krótki film rodzinny albo teledysk dla bliskiej osoby, z drukowaną kartką jako fizycznym elementem. Dla Cosmic Cowboy wariant quizu: "jaka generatywna kompozycja pasuje do tej osoby", z animowaną kartką i utworem jako prezentem.
 
 Wstęp o Mailchimpie to argument za tym, jak już budujesz: Quote Builder i Video Audit jako poboczne produkty przy studiu, finansowane z bieżących zleceń, bez inwestora. Mailchimp też zaczął przy agencji usługowej.
+
+
+---
+
+📅 GOOD MORNING - 22 listopada 2026
+
+💡 Aplikacja, która przepisuje trening pod hotelową siłownię
+Trener rozpisał Ci dzień nóg, a Ty jesteś w delegacji i hotelowa siłownia ma tylko hantle i ławkę. Bez sztangi, bez klatki do przysiadów. Dlaczego teraz: ludzie podróżują służbowo częściej niż kiedykolwiek, a trenerzy prowadzą ich zdalnie przez telefon. Pomysł: robisz zdjęcie tego, co jest na hotelowej siłowni, a aplikacja zamienia każde ćwiczenie z planu trenera na takie, które da się tam zrobić. Płacą trenerzy, od 19 do 99 dolarów miesięcznie, zależnie od liczby podopiecznych. Podróż przestaje być wymówką, żeby odpuścić trening.
+
+🌍 Trend: speed to lead, kupuje się od tego, kto odpisze pierwszy
+Kto odpowie pierwszy, ten zwykle wygrywa sprzedaż, a większość małych firm odpisuje po ponad 48 godzinach. 50% kupujących oczekuje odpowiedzi w ciągu godziny od wysłania formularza, 79% deklaruje, że przejdzie do konkurencji, która odpowiada szybciej, a 70% oczekuje od małej firmy odpowiedzi tego samego dnia. Szansa: agent AI, który odpowiada na każde nowe zapytanie w mniej niż minutę, w dzień i w nocy. Małe firmy coraz chętniej wdrażają AI, więc są gotowe to usłyszeć. Działa w każdej niszy i jest blisko przychodu, więc firmy chętnie zapłacą i szybko zobaczą zwrot.
+
+📎 Dodatkowo: wstęp o astronomie, który 350 lat temu odkrył, że światło ma skończoną prędkość. Przewidział, że jeden z księżyców Jowisza pojawi się 10 minut później, niż wszyscy zakładali, i miał rację. Doszedł do tego, przez lata zapisując nudne godziny zaćmień. Teza: część największych przełomów bierze się z bardzo długiego przyglądania się czemuś nudnemu. Reszta to stopka: quiz o typie założyciela, zaproszenie do odpowiedzi z tym, co budujesz, i podłączenie agentów IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Trend dnia jest dla Ciebie ważniejszy niż pomysł. Zapytania o wideo przychodzą zwykle przez formularz, maila albo wiadomość na Instagramie i często czekają do wieczora albo do następnego dnia, a klient w tym czasie pisze też do dwóch innych studiów. Dla ARTMAKESENSESTUDIO najprostsza wersja speed to lead nie wymaga agenta: formularz na stronie, który od razu po wysłaniu pokazuje widełki ceny z Quote Buildera i link do kalendarza na 15 minut rozmowy. Klient dostaje konkret w minutę, a Ty rozmawiasz już z kimś, kto zna rząd wielkości budżetu. To też najlepszy argument sprzedażowy dla samego Quote Buildera: "wysyłaj wycenę w minutę, zanim klient napisze do konkurencji". Zrób z tego główne hasło strony i jedną funkcję: automatyczna odpowiedź z wyceną po wypełnieniu formularza.
+
+Dla Video Audit dopisz jeden punkt diagnozy: czas odpowiedzi marki. Wyślij do klienta testowe zapytanie przez jego formularz albo DM i zmierz, po ilu godzinach przyjdzie odpowiedź. To liczba, którą właściciel firmy od razu rozumie, i naturalne przejście od "masz słabe wideo" do "tracisz ludzi, których to wideo przyciągnęło". Studio F możesz to zaproponować dla ich klientów z branży food: kampania reklamowa ściąga zapytania o catering czy współpracę, a nikt na nie nie odpisuje na czas, więc efekt reklamy przepada.
+
+Pomysł z hotelową siłownią jest daleko od wideo, ale ma ukryte zapotrzebowanie na Twoją pracę: zamiana ćwiczenia działa tylko wtedy, gdy podopieczny widzi, jak zrobić nowe ćwiczenie. Trenerzy online potrzebują biblioteki krótkich filmów instruktażowych, każde ćwiczenie w kilku wariantach sprzętu (sztanga, hantle, gumy, masa ciała). Dla ARTMAKESENSESTUDIO to konkretny pakiet dla trenerów personalnych i studiów fitness: jeden dzień zdjęciowy, 40-60 krótkich klipów w pionie, jednolite tło i światło, gotowe do wrzucenia do aplikacji treningowej. Wyceń to w Quote Builderze jako cenę za bibliotekę, a nie za dzień. Sam mechanizm "zdjęcie tego, co masz, a narzędzie dopasowuje plan" przenieś na preprodukcję dla Studio F: klient wysyła 3 zdjęcia lokalu albo kuchni, a Ty od razu odsyłasz listę ujęć możliwych na miejscu, zamiast jechać na wizję lokalną.
+
+Wstęp o astronomie to dobry kierunek dla Cosmic Cowboy: seria oparta na długim, cierpliwym zapisywaniu jednej rzeczy, np. jeden generatywny utwór na każdą fazę Księżyca albo animacja z danych zaćmień, publikowana regularnie przez rok. Taki format buduje archiwum, które z czasem samo staje się treścią.
