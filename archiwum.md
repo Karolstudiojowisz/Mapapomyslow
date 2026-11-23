@@ -3540,3 +3540,27 @@ Dla Video Audit dopisz jeden punkt diagnozy: czas odpowiedzi marki. Wyślij do k
 Pomysł z hotelową siłownią jest daleko od wideo, ale ma ukryte zapotrzebowanie na Twoją pracę: zamiana ćwiczenia działa tylko wtedy, gdy podopieczny widzi, jak zrobić nowe ćwiczenie. Trenerzy online potrzebują biblioteki krótkich filmów instruktażowych, każde ćwiczenie w kilku wariantach sprzętu (sztanga, hantle, gumy, masa ciała). Dla ARTMAKESENSESTUDIO to konkretny pakiet dla trenerów personalnych i studiów fitness: jeden dzień zdjęciowy, 40-60 krótkich klipów w pionie, jednolite tło i światło, gotowe do wrzucenia do aplikacji treningowej. Wyceń to w Quote Builderze jako cenę za bibliotekę, a nie za dzień. Sam mechanizm "zdjęcie tego, co masz, a narzędzie dopasowuje plan" przenieś na preprodukcję dla Studio F: klient wysyła 3 zdjęcia lokalu albo kuchni, a Ty od razu odsyłasz listę ujęć możliwych na miejscu, zamiast jechać na wizję lokalną.
 
 Wstęp o astronomie to dobry kierunek dla Cosmic Cowboy: seria oparta na długim, cierpliwym zapisywaniu jednej rzeczy, np. jeden generatywny utwór na każdą fazę Księżyca albo animacja z danych zaćmień, publikowana regularnie przez rok. Taki format buduje archiwum, które z czasem samo staje się treścią.
+
+
+---
+
+📅 GOOD MORNING - 23 listopada 2026
+
+💡 Teleturniej z rodzinnych historii na urodziny i święta
+Mama kończy 60 lat i zjeżdża się trzydzieścioro krewnych. A gdyby rozrywką był prawdziwy teleturniej, w którym każde pytanie dotyczy jej? Dlaczego teraz: rodziny przylatują na urodziny i zjazdy, więc impreza musi się udać. Według danych AAA i Bread Financial quiz w barze to jeden z najszybciej rosnących powodów wyjścia z domu. Jeden człowiek z Michigan poprowadził od 2020 roku ponad 450 teleturniejów na zamówienie, po 350 dolarów i więcej za imprezę, więc ludzie za to płacą. Pomysł: strona, która zamienia rodzinne historie w teleturniej do poprowadzenia na imprezie. Krewni dostają link i wysyłają historie i zdjęcia, narzędzie pisze pytania, oznacza to, co może być zbyt pikantne dla babci, i dodaje gotowy scenariusz prowadzącego. Każda rodzina ma historię, której tacie nikt nie daruje, a w teleturnieju cała sala krzyczy o tamtym biwaku. Święta za pasem, idealny moment.
+
+🌍 Trend: wszystko jest powierzchnią reklamową
+Licealistka zamieniła ściany swojego pokoju w miejsca reklamowe i kupiły je marki takie jak Lyft i New York Mets, jej pokój to teraz mały Times Square. Programista sprzedał miejsca na naklejki na klapie MacBooka, zanim jeszcze miał laptopa. Założyciel firmy sprzedał reklamy na własnym ciele za 112 tys. dolarów i nosił logotypy podczas zawodów HYROX (źródła: Marketing Brew, Tom's Hardware, Men's Fitness). Ściana staje się ławką przystankową, a klapa laptopa billboardem. Teza: powierzchnia reklamowa jest wszędzie, wystarczy wyobraźnia.
+
+📎 Dodatkowo: wstęp o interfejsie "semantic zoom", który Anish zbudował jednym promptem w Gemini 4 Neon. Rozsuwasz palce jak przy zdjęciu, ale zamiast powiększać litery, tekst się wydłuża albo skraca: przemówienie gettysburskie ściśnięte do jednego zdania albo rozwinięte w pełną historię. Jeden tekst w pięciu rozmiarach: nagłówek, krótkie streszczenie, kilka akapitów, esej, pogłębiona analiza. Reszta to stopka: quiz o typie założyciela, zaproszenie do odpowiedzi z tym, co budujesz, i podłączenie agentów IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Teleturniej z rodzinnych historii to w praktyce produkcja wideo w przebraniu. Najmocniejszy moment takiego wieczoru to nie pytanie tekstowe, tylko ekran: stare zdjęcie, 10 sekund rodzinnego nagrania z VHS, krótka wypowiedź wujka nagrana telefonem jako "pytanie od gościa". Dla ARTMAKESENSESTUDIO to sezonowy pakiet na grudzień i na okrągłe urodziny: rodzina wysyła przez link zdjęcia, archiwalne nagrania i nagrane w domu pytania, a Ty składasz z tego gotową oprawę teleturnieju (intro, plansze pytań, odpowiedzi z archiwum, finałowy film z życzeniami) do odpalenia z laptopa na telewizorze. Wycena w Quote Builderze jako jedna cena za pakiet, z dopłatą za digitalizację kaset i za film pamiątkowy po imprezie. Punkt odniesienia z maila (350 dolarów za samo prowadzenie) pokazuje, że wersja z oprawą wideo może kosztować więcej.
+
+Mechanizm "krewni dostają link i dosyłają materiał" przenieś na pracę ze Studio F: klient zamiast maili z załącznikami dostaje jeden link do wrzucenia zdjęć produktów, logo, przykładów i uwag, a Ty masz cały brief w jednym miejscu przed zdjęciami. Dla Video Audit ten sam formularz może być wejściem do diagnozy: marka wrzuca 5 ostatnich filmów i link do profilu, Ty odsyłasz raport.
+
+Trend o powierzchni reklamowej ma prosty przekład na Cosmic Cowboy: kanał z animacją ma miejsca, które da się sprzedać bez przerywania muzyki, np. obiekt w animowanej scenie, plakat w tle albo dedykowana scena w długim miksie. Zacznij od jednej oferty "lokowanie w animacji" dla marki z kręgu muzyki elektronicznej albo sprzętu audio i sprawdź, czy ktoś kupi. Dla ARTMAKESENSESTUDIO wniosek odwrotny: Twoje kulisy planu zdjęciowego to też powierzchnia, którą mogą współfinansować producenci sprzętu, światła czy rekwizytów food.
+
+Wstęp o "semantic zoom" to gotowy pomysł na stronę Video Audit i ofertę studia: jeden raport w trzech długościach, jedno zdanie dla prezesa, jedna strona dla marketingu i pełna analiza dla osoby, która robi wideo. Ten sam materiał możesz w ten sposób pokazać w portfolio: każdy projekt jako nagłówek, 30-sekundowy skrót i pełna historia realizacji.
