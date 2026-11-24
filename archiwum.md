@@ -3564,3 +3564,27 @@ Mechanizm "krewni dostają link i dosyłają materiał" przenieś na pracę ze S
 Trend o powierzchni reklamowej ma prosty przekład na Cosmic Cowboy: kanał z animacją ma miejsca, które da się sprzedać bez przerywania muzyki, np. obiekt w animowanej scenie, plakat w tle albo dedykowana scena w długim miksie. Zacznij od jednej oferty "lokowanie w animacji" dla marki z kręgu muzyki elektronicznej albo sprzętu audio i sprawdź, czy ktoś kupi. Dla ARTMAKESENSESTUDIO wniosek odwrotny: Twoje kulisy planu zdjęciowego to też powierzchnia, którą mogą współfinansować producenci sprzętu, światła czy rekwizytów food.
 
 Wstęp o "semantic zoom" to gotowy pomysł na stronę Video Audit i ofertę studia: jeden raport w trzech długościach, jedno zdanie dla prezesa, jedna strona dla marketingu i pełna analiza dla osoby, która robi wideo. Ten sam materiał możesz w ten sposób pokazać w portfolio: każdy projekt jako nagłówek, 30-sekundowy skrót i pełna historia realizacji.
+
+
+---
+
+📅 GOOD MORNING - 24 listopada 2026
+
+💡 Shazam dla części zamiennych w warsztacie naprawy AGD
+Suszarka klienta nie grzeje. Technik wie, że w magazynie leży sprawna grzałka z suszarki rozebranej miesiąc temu, ale nikt nie może jej znaleźć, więc zamawia nową, a klient czeka 5 dni. Dlaczego teraz: ludzie częściej naprawiają stare sprzęty, zamiast kupować nowe. Prezes Whirlpoola powiedział na konferencji wynikowej, że części zamienne i naprawy były jednym z najmocniejszych biznesów firmy w pierwszym kwartale, a sprzedaż nowego AGD w całej branży spadła o 7,4%. Każda martwa maszyna ma w środku sprawne części, które lądują w skrzyni i znikają z pamięci. Pomysł: robisz zdjęcie części, mówisz, co to jest, a aplikacja zapisuje ją z miejscem na półce. Zdjęcie rozpoznaje część, głos dodaje resztę: "silnik pralki, sprawdzony, mała rysa na obudowie, półka B4". Przy kolejnym zleceniu technik szuka w telefonie i idzie do B4. Rynek: naprawa AGD w USA to 7 mld dolarów i około 37 tys. warsztatów, nikt nie ma więcej niż 5% rynku (IBISWorld). Warsztaty już płacą od 29 do 499 dolarów miesięcznie za oprogramowanie do części (Taskrol, Ordovee), to narzędzie po prostu omija wpisywanie. 49 dolarów miesięcznie od warsztatu, 1 na 10 warsztatów to około 2,2 mln dolarów rocznie. Ten sam problem mają szroty samochodowe, serwisy telefonów i warsztaty rowerowe.
+
+🛠️ Narzędzie dnia: narzędzia zbudowane w Claude jako aplikacja na Maca
+Małe narzędzia, które budujesz w rozmowie z Claude, np. tracker budżetu albo planer wyjazdu dla grupy, można teraz zainstalować jednym kliknięciem. Otwierają się we własnym oknie jak każda inna aplikacja na Macu (działa też na Windowsie). Bez App Store i bez konta dewelopera, po prostu własne aplikacje zrobione w czacie.
+
+📎 Dodatkowo: wstęp z wykresem: firmy w USA zatrudniły w ostatnim roku około 113 tys. programistów, mniej niż połowę tego, co w 2022, i liczba spada co roku. W tym samym czasie ofert dla "forward deployed engineer" jest 4,6 razy więcej niż rok temu. Praca zostaje, zmienia się nazwa: mniejsze zespoły z AI robią więcej. Teza: dobry czas, żeby budować. Reszta to stopka: quiz o typie założyciela, zaproszenie do odpowiedzi z tym, co budujesz, i podłączenie agentów IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Pomysł dnia to ten sam ból, który ma każde studio wideo z magazynem: sprzęt, filtry, kable, rekwizyty i tła, o których wiesz, że gdzieś są, ale łatwiej wypożyczyć albo kupić drugi raz. Dla ARTMAKESENSESTUDIO zrób wersję minimum już teraz: zdjęcie telefonem, jedno zdanie głosem ("talerz ceramiczny czarny matowy, 6 sztuk, skrzynia R2") i wpis w prostej bazie. Przy food szczególnie się to zwraca, bo rekwizyty pod Studio F (talerze, deski, sztućce, tkaniny) to setki drobiazgów, a dobór pod konkretną markę zaczyna się od pytania "co już mamy". Taki katalog rekwizytów ze zdjęciami możesz też wysyłać klientowi przed zdjęciami do akceptacji stylizacji, zamiast przywozić trzy skrzynie na plan.
+
+Sam warsztat naprawy AGD jest daleko od Twojej branży, ale fragment "kto jeszcze mógłby z tego korzystać" pokazuje lokalnych odbiorców wideo: serwisy, szroty i warsztaty rowerowe, które teraz zarabiają na naprawach zamiast sprzedaży. Dla Video Audit to grupa z prostym tematem: firma, która żyje z napraw, powinna pokazywać naprawę. Krótkie filmy "przed i po" albo "co było zepsute" budują zaufanie lepiej niż zdjęcie szyldu.
+
+Narzędzie dnia jest dla Ciebie praktyczne od zaraz: Quote Builder w wersji dla siebie możesz zbudować w czacie i zainstalować jako aplikację w docku, zanim zrobisz z niego produkt dla innych. To też dobry sposób na testy: dajesz znajomemu operatorowi narzędzie do zainstalowania w minutę i patrzysz, czy go używa przy prawdziwej wycenie. Tak samo zrób sobie wewnętrzną aplikację do checklisty Video Audit i bazę rekwizytów z akapitu wyżej.
+
+Wstęp o spadku zatrudnienia programistów to argument dla Twojej ścieżki z vibe codingiem: mniejsze zespoły budują więcej, więc studio wideo, które samo zrobi sobie narzędzia (wyceny, briefy, katalog rekwizytów), ma przewagę nad studiem, które czeka na gotowy program. Dla Cosmic Cowboy to podpowiedź do formatu: krótka seria o tym, jak powstaje kanał z pomocą własnych narzędzi AI, przyciąga tę samą publiczność, która czyta takie newslettery.
