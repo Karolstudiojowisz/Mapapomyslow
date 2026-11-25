@@ -3588,3 +3588,27 @@ Sam warsztat naprawy AGD jest daleko od Twojej branży, ale fragment "kto jeszcz
 Narzędzie dnia jest dla Ciebie praktyczne od zaraz: Quote Builder w wersji dla siebie możesz zbudować w czacie i zainstalować jako aplikację w docku, zanim zrobisz z niego produkt dla innych. To też dobry sposób na testy: dajesz znajomemu operatorowi narzędzie do zainstalowania w minutę i patrzysz, czy go używa przy prawdziwej wycenie. Tak samo zrób sobie wewnętrzną aplikację do checklisty Video Audit i bazę rekwizytów z akapitu wyżej.
 
 Wstęp o spadku zatrudnienia programistów to argument dla Twojej ścieżki z vibe codingiem: mniejsze zespoły budują więcej, więc studio wideo, które samo zrobi sobie narzędzia (wyceny, briefy, katalog rekwizytów), ma przewagę nad studiem, które czeka na gotowy program. Dla Cosmic Cowboy to podpowiedź do formatu: krótka seria o tym, jak powstaje kanał z pomocą własnych narzędzi AI, przyciąga tę samą publiczność, która czyta takie newslettery.
+
+
+---
+
+📅 GOOD MORNING - 25 listopada 2026
+
+💡 Gra na telefony dla całej grupy, która czeka na tor w kręgielni
+Sześcioro znajomych przychodzi do kręgielni, a obsługa mówi, że tor będzie wolny za 12 minut. Cała szóstka kończy, przewijając telefony każdy osobno. Dlaczego teraz: gry to rosnąca część wieczoru w kręgielni, a telefon to darmowy kontroler. Lucky Strike Entertainment pisze, że w ruchliwe wieczory w dużych sieciach kręgielni stoi się w kolejce po tor, więc zachęcają do rezerwacji z wyprzedzeniem. Jackbox nauczył ludzi grać w jednym pokoju, używając telefonów jako kontrolerów, więc skanowanie kodu QR, żeby dołączyć, jest już naturalne. Lokale płacą 29 dolarów miesięcznie za samo quiz w poczekalni. Pomysł: aplikacja z grami imprezowymi dla grupy, która czeka na tor albo gra. Grupa skanuje kod QR przy ladzie i ląduje we wspólnym pokoju. Menu ma kilka prostych formatów: quiz, rysuj i zgaduj, gra słowna i drużynowa runda z liczbami. Ten sam schemat działa wszędzie, gdzie się czeka, nawet w poczekalni u lekarza.
+
+🌍 Trend: wieczór rękodzieła to nowa świąteczna impreza
+Znajomi spotykają się, żeby malować bombki, nawlekać koraliki i robić prezenty. Sprzedaż zestawów rękodzieła z instrukcją w Michaels wzrosła o 86% rok do roku. Zamówienia na rękodzieło i hobby w Faire są wyższe o 58%, a wyszukiwania "craft night" wzrosły o 103%. Etsy nazywa świąteczny wieczór rękodzieła nową świąteczną imprezą. Zorganizowanie takiego wieczoru dla sześciu znajomych albo na lunch firmowy to gotowy biznes, a sklepy są już pełne świątecznych dekoracji, więc to jest moment.
+
+📎 Dodatkowo: wstęp o kanale telewizyjnym w sieci, który daje wrażenie przełączania kanałów sprzed 20 lat: stare programy telewizji publicznej i rzeczy, których nikt nie oglądał od dekad, np. kanał z reklamami Bowflexa, który oglądało 14 osób. Internet jest pełen takich starych materiałów (gry DOS i Flash, audycje radiowe z lat 40., zeskanowane katalogi i magazyny sprzed epoki internetu), które czekają na nowe opakowanie i można sprzedać do nich nowe reklamy. Reszta to stopka: quiz o typie założyciela, zaproszenie do odpowiedzi z tym, co budujesz, i podłączenie agentów IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Pomysł dnia to aplikacja, nie wideo, ale jej sedno to treść na czas czekania, a tego w lokalach gastronomicznych jest mnóstwo. Dla Studio F przełóż to na konkretną propozycję dla ich klientów z gastronomii: restauracja z kolejką przy wejściu albo długim czasem oczekiwania na danie ma ekran i kod QR na stoliku, a nikt nie przygotował treści na te 10 minut. Krótka seria filmów "jak powstaje nasze danie" albo "zgadnij składnik" na ekranie przy ladzie to usługa, którą możesz dopisać do pakietu reklamy food jako osobną pozycję w Quote Builderze: 6 do 10 krótkich klipów pętlowych, jedna cena, odnawiane co sezon.
+
+Dla Video Audit pomysł daje gotowe pytanie diagnostyczne: "co widzi klient, kiedy czeka?". Kręgielnie, kluby, restauracje i salony mają martwy czas, w którym gość i tak patrzy w telefon albo na ścianę. W audycie lokalu dodaj punkt o ekranach i miejscach oczekiwania, z oceną, czy pokazują cokolwiek poza logo. To szybki punkt do sprzedaży dalszej produkcji.
+
+Trend wieczorów rękodzieła to temat sezonowy dla ARTMAKESENSESTUDIO na grudzień: pracownie ceramiki, malowania bombek i warsztatów z prezentami mają teraz szczyt zapisów i potrzebują krótkich filmów, które pokazują atmosferę spotkania, a nie tylko gotowy produkt. Zrób jeden pakiet "film z warsztatu w jeden wieczór" z ceną z góry i wyślij go do 10 lokalnych pracowni w tym tygodniu, bo okno sprzedaży kończy się w połowie grudnia. Ten sam format pasuje do wieczorów firmowych, które organizują agencje eventowe.
+
+Wstęp o starych materiałach z sieci to podpowiedź dla Cosmic Cowboy: domena publiczna jest pełna archiwalnych reklam, katalogów i audycji, które w połączeniu z muzyką generatywną dają rozpoznawalną estetykę "przełączania kanałów". Seria krótkich odcinków z takim wizualnym opakowaniem, zawsze z materiałów o jasnym statusie prawnym, może być stałym formatem kanału.
