@@ -3612,3 +3612,27 @@ Dla Video Audit pomysł daje gotowe pytanie diagnostyczne: "co widzi klient, kie
 Trend wieczorów rękodzieła to temat sezonowy dla ARTMAKESENSESTUDIO na grudzień: pracownie ceramiki, malowania bombek i warsztatów z prezentami mają teraz szczyt zapisów i potrzebują krótkich filmów, które pokazują atmosferę spotkania, a nie tylko gotowy produkt. Zrób jeden pakiet "film z warsztatu w jeden wieczór" z ceną z góry i wyślij go do 10 lokalnych pracowni w tym tygodniu, bo okno sprzedaży kończy się w połowie grudnia. Ten sam format pasuje do wieczorów firmowych, które organizują agencje eventowe.
 
 Wstęp o starych materiałach z sieci to podpowiedź dla Cosmic Cowboy: domena publiczna jest pełna archiwalnych reklam, katalogów i audycji, które w połączeniu z muzyką generatywną dają rozpoznawalną estetykę "przełączania kanałów". Seria krótkich odcinków z takim wizualnym opakowaniem, zawsze z materiałów o jasnym statusie prawnym, może być stałym formatem kanału.
+
+
+---
+
+📅 GOOD MORNING - 26 listopada 2026
+
+💡 Gotowy program karnetów na posiłki dla małych restauracji
+Karnet na posiłki sprowadza klientów co tydzień i daje restauracji gotówkę z góry. Mała restauracja też chciałaby go mieć, ale zbudowanie programu od zera to sporo pracy. Dlaczego teraz: duże sieci znowu uruchamiają własne karnety i sprzedają się one błyskawicznie (źródła: Nation's Restaurant News i Axios). Karnet Wingstop wyprzedał się w kilka minut, bo ludzie lubią płacić z góry za skrzydełka. Karnet sieci pizzerii za 99 dolarów wyprzedał się w kilka godzin i położył jej stronę. Pomysł: "ClassPass dla małych restauracji", czyli program zrobiony za właściciela. 1. Właściciel wpisuje cenę dania, koszt jego przygotowania i liczbę tygodni, a program ustala cenę karnetu. 2. Program pisze treść oferty i instrukcję nabijania karnetu na kasie. 3. Po zakończeniu karnetu właściciel dostaje analizę: ilu przyszło nowych klientów, a ilu stałych gości dostało po prostu zniżkę. Coś jak zespół od wdrożeń dla małej restauracji.
+
+🌍 Trend: zakupy i dostawy na ostatnią chwilę rosną w święta i przy dużych wydarzeniach
+Źródło: DoorDash. Świąteczny obiad w USA opiera się na pomocy z zewnątrz. Koszyk Walmartu za 35 dolarów karmi dziesięć osób i jest tańszy niż rok temu. Kroger sprzedaje dodatki do odgrzania i pojedyncze kawałki ciasta, żeby gospodarze mogli pominąć piekarnik. W zeszłym roku zamówienia termometrów do mięsa osiągnęły szczyt w południe w Święto Dziękczynienia, kiedy gospodarze sprawdzali indyka. Stresujący dzień, który co roku wypada w tej samej dacie, to produkt, który czeka, aż ktoś go zrobi. Następna fala panicznych zakupów jest za niecały miesiąc.
+
+📎 Dodatkowo: wstęp o tym, że każda firma staje się firmą medialną i produktową, żeby sprzedawać swój główny produkt. Butterball (marka indyków) wydał pełny raport z danymi na Święto Dziękczynienia i zrobił gadżet w kształcie indyka do podawania przy stole: kiedy zabrzęczy, osoba, która go trzyma, dostaje obowiązek, np. nakrycie stołu albo zmywanie. Był darmowy i rozszedł się od razu. Według autorów w 2027 roku będzie coraz więcej takich akcji medialnych i produktowych wokół popularnych wydarzeń. Reszta to stopka: quiz o typie założyciela, zaproszenie do odpowiedzi z tym, co budujesz, i podłączenie agentów IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Pomysł dnia to narzędzie dla restauracji, ale jego mechanika jest bardzo bliska Quote Buildera: właściciel wpisuje koszt i cenę dania, a program wylicza cenę karnetu i pisze ofertę. To ten sam ruch co "wpisz stawkę dnia zdjęciowego i liczbę dni, dostaniesz wycenę i gotowy tekst oferty". Warto pożyczyć trzeci krok: po zakończonym zleceniu Quote Builder mógłby pokazywać freelancerowi, czy wycena się opłaciła, czyli porównanie wyceny z faktycznym czasem pracy. To funkcja, która daje powód, żeby wracać do narzędzia po każdym projekcie, a nie tylko przy pisaniu oferty.
+
+Dla Studio F to gotowy temat rozmowy z ich klientami z gastronomii. Karnet sprzedaje się tylko wtedy, gdy danie dobrze wygląda w telefonie, a Wingstop i sieć pizzerii wyprzedały karnety dzięki krótkim, apetycznym materiałom. Zaproponuj pakiet "start karnetu": 3 krótkie klipy dania z karnetu, jedna grafika z ceną i jeden film na koniec akcji z liczbą sprzedanych karnetów. Dopisz go jako osobną pozycję w Quote Builderze z jedną ceną, żeby Studio F mogło go sprzedawać bez każdorazowej wyceny.
+
+Trend dostaw na ostatnią chwilę to przypomnienie o kalendarzu dla ARTMAKESENSESTUDIO: do Wigilii zostaje niecały miesiąc, a lokale z jedzeniem na wynos, cukiernie i catering szukają teraz filmów "zamów, zanim zabraknie". Krótka seria z terminem w tytule, kręcona w jeden dzień dla kilku lokali naraz, to realna sprzedaż na najbliższe dwa tygodnie. W Video Audit dodaj pytanie: czy marka ma przygotowane materiały na swoje stałe daty w roku, czy co roku robi je w ostatniej chwili.
+
+Wstęp o Butterball pasuje do Cosmic Cowboy: marka robi gadżet i raport wokół święta, żeby zwrócić na siebie uwagę. Kanał może zrobić to samo w małej skali, czyli sezonowy odcinek z muzyką i animacją pod konkretną datę, np. zimowe przesilenie albo Nowy Rok, zaplanowany z wyprzedzeniem zamiast publikowany przypadkiem.
