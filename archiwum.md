@@ -3636,3 +3636,27 @@ Dla Studio F to gotowy temat rozmowy z ich klientami z gastronomii. Karnet sprze
 Trend dostaw na ostatnią chwilę to przypomnienie o kalendarzu dla ARTMAKESENSESTUDIO: do Wigilii zostaje niecały miesiąc, a lokale z jedzeniem na wynos, cukiernie i catering szukają teraz filmów "zamów, zanim zabraknie". Krótka seria z terminem w tytule, kręcona w jeden dzień dla kilku lokali naraz, to realna sprzedaż na najbliższe dwa tygodnie. W Video Audit dodaj pytanie: czy marka ma przygotowane materiały na swoje stałe daty w roku, czy co roku robi je w ostatniej chwili.
 
 Wstęp o Butterball pasuje do Cosmic Cowboy: marka robi gadżet i raport wokół święta, żeby zwrócić na siebie uwagę. Kanał może zrobić to samo w małej skali, czyli sezonowy odcinek z muzyką i animacją pod konkretną datę, np. zimowe przesilenie albo Nowy Rok, zaplanowany z wyprzedzeniem zamiast publikowany przypadkiem.
+
+
+---
+
+📅 GOOD MORNING - 27 listopada 2026
+
+💡 Baza, która znajduje prawdziwe vintage ubrania z filmów i seriali
+Ktoś ogląda serial po raz drugi i chce mieć dokładnie te stroje, które nosili bohaterowie. Prawdziwe rzeczy z lat 90. istnieją, ale są rozrzucone po Depop, eBay i Etsy i nie da się łatwo sprawdzić, która pasuje. Dlaczego teraz: ludzie co roku kupują więcej rzeczy z drugiej ręki (dane ThredUp). The RealReal właśnie miał rekordowy kwartał, a klienci wydają więcej na jedno zamówienie. Amazon Prime Video pozwala już widzom kupować prosto ze sceny, żeby ubrać się jak gwiazdy. Pomysł: strona, która znajduje prawdziwą vintage wersję strojów z serialu albo filmu i wystawia je jako katalog. Wybierz jeden serial i zrób zrzuty ekranu ze strojami. Agent wyszukuje najbliższe prawdziwe rzeczy na Depop, eBay i Etsy i dodaje je do listy. To już jest płatna usługa: poszukiwanie vintage za 22 dolary opłaty za znalezienie (źródła: Summon the Muse i Glossy). Dwie drogi: katalog wyselekcjonowanych stylizacji do przeglądania przez ludzi albo agent, który kupuje za klienta i dolicza marżę za znalezienie, a baza rośnie przy okazji.
+
+🌍 Trend: AI przestaje potrzebować internetu
+Duże firmy wypuszczają mniejsze modele AI, które działają na samym urządzeniu. Aplikacja Google na telefon zamienia mowę na tekst i z powrotem bez połączenia. Windows zamienił wbudowane AI na mniejsze, które działa na laptopie. Telefon Galaxy uruchamia chatbota w trybie samolotowym. Autor pisze, że w każdym locie planuje popracować, a potem pada wifi i razem z nim wszystkie narzędzia AI, więc chętnie zapłaciłby za takie, któremu to nie przeszkadza.
+
+📎 Dodatkowo: wstęp o nietypowym ruchu przeciw Black Friday. Marka kosmetyków do pielęgnacji skóry już siódmy rok z rzędu zamyka na ten dzień cały sklep i stronę internetową, a w zamian organizuje akcję oddawania krwi. Reszta to życzenia na długi weekend i stopka: quiz o typie założyciela, zaproszenie do odpowiedzi z tym, co budujesz, i podłączenie agentów IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Pomysł dnia to handel modą, nie wideo, ale jego punkt wyjścia to kadr z filmu, a to Twoje terytorium. Najbliższe przełożenie dla Studio F to "kup ze sceny" w wersji food: pod każdą reklamą dania marka może mieć listę "co widzisz w kadrze", czyli konkretne danie z menu, sos ze sklepu marki, talerz od partnera. Zaproponuj to jako dodatek do produkcji: przy montażu spisujesz każdy produkt widoczny w ujęciu z kodem czasowym, a klient dostaje gotową listę do opisu filmu i linków. Wpisz to w Quote Builderze jako osobną pozycję "lista produktów w kadrze" z małą, stałą ceną, bo to praca, którą i tak robisz przy montażu.
+
+Dla Video Audit to gotowy punkt kontrolny: czy widz, który zobaczył produkt w filmie marki, wie, gdzie go kupić i jak się nazywa. Większość marek pokazuje produkt w kadrze i nie daje żadnej drogi do zakupu. W audycie oceniaj, ile produktów widocznych w filmach ma nazwę, link albo podpis, i wskaż ujęcia, które sprzedają, a nie tylko ładnie wyglądają.
+
+Dla ARTMAKESENSESTUDIO prostszy test niż budowanie bazy: sklepy vintage i second hand na Vinted i Instagramie potrzebują krótkich filmów, które pokazują ubranie w ruchu i w kontekście, np. stylizacja "jak z serialu z lat 90." nagrana w jeden dzień dla kilku rzeczy naraz. Napisz do 5 warszawskich sklepów vintage z jedną ceną za pakiet 6 klipów. Jeśli chcesz sprawdzić sam pomysł katalogu, zrób jeden post z 3 strojami z polskiego serialu i linkami do ofert, bez żadnego kodu.
+
+Trend AI bez internetu ma praktyczne znaczenie dla Quote Buildera: freelancer wideo często wycenia na planie albo w drodze, bez zasięgu. Jeśli kalkulator działa offline jako aplikacja na telefonie i zapisuje wycenę lokalnie, to jest konkretna przewaga do opisania na stronie. Dla Cosmic Cowboy to sygnał, żeby sprawdzić mniejsze modele do muzyki i obrazu uruchamiane na własnym komputerze, bo obniżają koszt każdego odcinka i nie zależą od limitów usług.
