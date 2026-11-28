@@ -3660,3 +3660,27 @@ Dla Video Audit to gotowy punkt kontrolny: czy widz, który zobaczył produkt w 
 Dla ARTMAKESENSESTUDIO prostszy test niż budowanie bazy: sklepy vintage i second hand na Vinted i Instagramie potrzebują krótkich filmów, które pokazują ubranie w ruchu i w kontekście, np. stylizacja "jak z serialu z lat 90." nagrana w jeden dzień dla kilku rzeczy naraz. Napisz do 5 warszawskich sklepów vintage z jedną ceną za pakiet 6 klipów. Jeśli chcesz sprawdzić sam pomysł katalogu, zrób jeden post z 3 strojami z polskiego serialu i linkami do ofert, bez żadnego kodu.
 
 Trend AI bez internetu ma praktyczne znaczenie dla Quote Buildera: freelancer wideo często wycenia na planie albo w drodze, bez zasięgu. Jeśli kalkulator działa offline jako aplikacja na telefonie i zapisuje wycenę lokalnie, to jest konkretna przewaga do opisania na stronie. Dla Cosmic Cowboy to sygnał, żeby sprawdzić mniejsze modele do muzyki i obrazu uruchamiane na własnym komputerze, bo obniżają koszt każdego odcinka i nie zależą od limitów usług.
+
+
+---
+
+📅 GOOD MORNING - 28 listopada 2026
+
+💡 Tygodniowy raport zwrotu z reklam Google dla firm usługowych
+Panel reklamowy hydraulika pokazuje "96 nowych leadów w tym miesiącu", ale nic nie mówi, ile te reklamy faktycznie zarobiły. Pomysł: aplikacja, która raz w tygodniu wysyła właścicielowi firmy usług domowych raport zwrotu z wydatków na reklamę. Sprawdza Google, Meta, system śledzenia połączeń i aplikację do umawiania wizyt, a potem pisze wprost: "wydano 3800 dolarów, 26 zleceń, około 146 dolarów za zlecenie". Coś jak wyciąg bankowy dla wydatków na reklamę. Dlaczego teraz: kliknięcia drożeją co roku, więc wiedza o tym, ile reklamy naprawdę zarabiają, jest ważniejsza niż kiedykolwiek. Większość wykonawców płaci dwóm lub więcej dostawcom marketingu i dalej nie wie, który z nich przynosi pieniądze. Właściciele już płacą minimum 50 dolarów miesięcznie tylko za to, żeby wiedzieć, która reklama sprawiła, że zadzwonił telefon. Nawet nowy panel Google nadal liczy tylko leady. Według autorów to prosty projekt na weekend, który może podgryźć dużych graczy.
+
+🛠️ Taktyka dnia: ludzie kupują od ludzi
+AI potrafi dziś zrobić prawie wszystko: stronę, reklamy, maile. Jedyne, czego nie zrobi, to Ciebie. Pokaż swoją twarz przy produkcie. Kiedy wszystko zaczyna wyglądać tak samo, prawdziwa twarz na wideo jest tym, co sprawia, że ktoś zaufa Ci na tyle, żeby kupić. Autor podlinkował swoją listę pomysłów na filmy, które pomagają rozwijać każdą firmę.
+
+📎 Dodatkowo: krótki weekendowy wstęp. Reszta to stopka: quiz o typie założyciela, zaproszenie do odpowiedzi z tym, co budujesz, i podłączenie agentów IdeaBrowser.
+
+---
+🔍 Moja diagnoza:
+
+Pomysł dnia to narzędzie analityczne, ale jego rdzeń to jedno zdanie, które zamienia chaos liczb w odpowiedź "ile kosztuje mnie jedno zlecenie". To dokładnie ten język, którym powinien mówić Quote Builder po drugiej stronie: freelancer wideo też nie wie, które źródło zleceń mu się opłaca. Prosta funkcja na później: przy każdej wycenie pole "skąd przyszedł klient" (polecenie, Instagram, Useme, stały klient), a raz w miesiącu podsumowanie typu "5 wycen z Instagrama, 1 wygrana, średnio 3200 zł". To ten sam wyciąg bankowy, tylko dla źródeł klientów.
+
+Dla Video Audit to gotowa rama sprzedażowa. Marki płacą za filmy i reklamy, a potem patrzą na wyświetlenia, tak jak hydraulik patrzy na leady. W audycie dodaj sekcję "koszt jednego efektu": ile marka wydała na dany film lub kampanię i ile przyniósł zapytań, rezerwacji albo sprzedaży, jeśli te dane w ogóle zbiera. Sam wniosek "nie mierzycie, co daje Wam wideo" jest dla właściciela mocnym argumentem za kolejnym krokiem.
+
+Dla Studio F to rozmowa z ich klientami z gastronomii: restauracja wydaje na reklamę w social media i nie wie, ile kosztuje ją jeden gość. Zaproponuj, żeby każda produkcja reklamy food kończyła się prostą tabelką po miesiącu: wydatek na promocję filmu, liczba rezerwacji z kodu albo linku, koszt jednej rezerwacji. To nie wymaga budowania aplikacji, wystarczy unikalny kod rabatowy w każdym filmie. Studio, które pokazuje zwrot, a nie tylko ładne kadry, łatwiej obroni stawkę.
+
+Taktyka dnia jest wprost o Twoim rzemiośle i warto jej użyć w sprzedaży ARTMAKESENSESTUDIO: "AI zrobi stronę i reklamy, nie zrobi Twojej twarzy" to gotowe hasło do oferty krótkich filmów z właścicielem firmy. Zrób jeden pakiet "właściciel przed kamerą": 4 krótkie wypowiedzi nagrane w jedną godzinę, z jedną ceną w Quote Builderze, i pokaż go na własnym przykładzie, nagrywając siebie. Dla Cosmic Cowboy to kontrapunkt: kanał w pełni generatywny zyska na krótkich materiałach zza kulis z prawdziwym autorem, bo to odróżnia go od tysięcy anonimowych kanałów z muzyką AI.
